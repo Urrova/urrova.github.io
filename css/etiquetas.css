@@ -1,0 +1,84 @@
+body{	
+	
+	background-image: var(--background_image);
+	background-repeat: repeat;
+	background-attachment: fixed;
+
+	background-color: #101010;
+	background-attachment: fixed;
+	background-size: 200%;
+	background-position-y: 0px;
+	
+	margin: 0px;
+
+	font-family: var(--font-text);
+
+	image-rendering: pixelated;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: var(--title_color);
+	font-family: var(--font-title), monospace;
+}
+
+p{
+	color: #FFFFFF;
+	font-family: var(--font-text);
+}
+
+a{
+	color: var(--link_color);
+	font-weight: bold;
+	font-family: var(--font-text);
+}
+
+a:hover{
+	color: var(--link_hover_color);
+}
+
+hr{
+	border: 1px solid #FFFFFF;
+}
+
+li{
+	font-family: var(--font-text);
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+	list-style-type: square;
+	color: var(--navbar_link);
+}
+
+/* Acordeon con details */
+summary{
+	color: /*#00FF00*/ #AAAAAA;
+	/*
+	background-color: #000000;
+	border: 2px solid #00FF00;
+	*/
+	margin-left: 30%;
+	margin-right: 30%;
+	/*background-image: linear-gradient(to right, rgba(0,255,0,0), #00FF00, rgba(0,255,0,0));*/
+	font-weight: bold;
+	cursor: pointer;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	list-style-type: none;
+}
+
+summary h2{	
+	color: var(--section_button_color);
+	font-family: var(--font-details), monospace;
+	
+}
+summary h2:hover{
+	color: var(--section_button_color_hover);
+	text-decoration: underline;
+}
+
+details{
+	margin: 15px 5px;
+	padding: 5px;
+	background-color: var(--section_color);
+	border: 3px solid var(--section_border);
+}

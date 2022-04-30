@@ -1,0 +1,37 @@
+:root{
+    /*Navbar*/
+    --border_color: #00ff15;
+    --navbar_title_color: #ffffff;
+    --navbar_title_stroke: #000000;    
+    --navbar_link: #FFFFFF;
+    --navbar_link_hover: #8aff86;
+
+    /*Elementos*/
+    --title_color: #FFFFFF;
+    --link_color: #70ff45;
+    --link_hover_color: #a7ff9f;
+    --box_color: #202020;
+
+    /*Seccion*/    
+    --section_color: #101010;
+    --section_border: #FFFFFF;
+    --section_button_color: #FFFFFF;
+    --section_button_color_hover: #39ff43;
+    
+    --icon_color: #FFFFFF;
+    --icon_color_hover: #b1ff84;
+
+    --button_border: #ffffff;
+    --button_border_hover: #09ff00;
+
+    /*Fondo*/
+    --background_color_1: #000000;
+    --background_color_2: #0f0f0f;
+    --background_image: /*linear-gradient(var(--background_color_1),var(--background_color_2))*/ url("../images/bg.png");
+
+    /*Fuentes*/
+    --font-title: "Xolonium";
+    --font-details: "Xolonium";
+    --font-text: "DOS";
+    --font-marquee: "OCR A";
+}   
