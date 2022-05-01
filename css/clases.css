@@ -81,12 +81,23 @@
 }
 
 .youtube_video_loader{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	align-content: stretch;
 	border: 2px solid #FFFFFF;
 	width: 560px;
 	height: 315px;
-	align-content: center;
 	background-color: #050505;
 }
+.youtube_video_loader p, h2{
+	margin: 10px;
+}
+.youtube_video_loader .button{
+	margin: 15px;
+}
+
 
 /* ===== idioma ===== */
 .idioma{

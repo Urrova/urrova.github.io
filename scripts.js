@@ -75,12 +75,9 @@ function build_youtube_loaders(){
 		if (idioma == "ingles"){
 			loaders[i].innerHTML = `
 			<div class="youtube_video_loader" video="${video}">
-						<br>
 						<h2>WARNING</h2>
-						<br>
 						<p>This is a video from youtube</p>
 						<p>If you load it, you agree to google's <a href="https://policies.google.com/privacy?hl=en-US">privacy policy</a>.</p>
-						<p>(AKA, to be tracked by google)</p>
 						<a class="button" onclick="load_youtube_video(this)">Load Video</a>
 					</div>
 			`;
@@ -88,12 +85,9 @@ function build_youtube_loaders(){
 		if (idioma == "espanol"){
 			loaders[i].innerHTML = `
 			<div class="youtube_video_loader" video="${video}">
-						<br>
 						<h2>ADVERTENCIA</h2>
-						<br>
 						<p>Este es un video de youtube</p>
 						<p>Si lo cargas, aceptas la <a href="https://policies.google.com/privacy?hl=en-US">politica de privacidad</a> de google.</p>
-						<p>(Tambien llamado ser rastreado por google)</p>
 						<a class="button" onclick="load_youtube_video(this)">Cargar Video</a>
 					</div>
 			`;
