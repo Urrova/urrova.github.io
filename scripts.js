@@ -62,7 +62,7 @@ function que(){
 function load_youtube_video(caller){
 	var loader = caller.parentNode.parentNode;
 	var video = loader.getAttribute("video");
-	loader.innerHTML = `<iframe width="560" height="315" class="youtube_video" src="${video}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+	loader.innerHTML = `<iframe width="560" height="315" class="youtube_video" src="https://www.youtube-nocookie.com/embed/${video}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 }
 
 //Funcion que convierte los divs de clase "youtube_video_insert" en videos de youtube y advertencia
