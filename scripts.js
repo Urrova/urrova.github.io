@@ -58,7 +58,8 @@ switch (idioma){
 function que(){
 	console.log("so");
 }
-
+var que = "so";
+/*
 function load_youtube_video(caller){
 	var loader = caller.parentNode.parentNode;
 	var video = loader.getAttribute("video");
@@ -94,6 +95,7 @@ function build_youtube_loaders(){
 		}
 	}
 }
+*/
 
 //Un miniscript que cambia el texto en el marquee
 function marqueeSetter(){
@@ -141,7 +143,8 @@ function marqueeSetter(){
 }
 
 window.addEventListener("load",marqueeSetter);
-window.addEventListener("load",build_youtube_loaders);
+//window.addEventListener("load",build_youtube_loaders);
+
 console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
 console.log("     =====     C O M I S T E     =====     ");
 console.log("JaAaAaAAaAaaa te la comiste entera.")
