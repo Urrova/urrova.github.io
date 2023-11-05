@@ -59,43 +59,6 @@ function que(){
 	console.log("so");
 }
 var que = "so";
-/*
-function load_youtube_video(caller){
-	var loader = caller.parentNode.parentNode;
-	var video = loader.getAttribute("video");
-	loader.innerHTML = `<iframe width="560" height="315" class="youtube_video" src="https://www.youtube-nocookie.com/embed/${video}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-}
-
-//Funcion que convierte los divs de clase "youtube_video_insert" en videos de youtube y advertencia
-function build_youtube_loaders(){
-	var loaders = document.getElementsByClassName("youtube_video_insert");
-
-	for (var i = 0; i < loaders.length; i++){
-		var video = loaders[i].getAttribute("video");
-
-		if (idioma == "ingles"){
-			loaders[i].innerHTML = `
-			<div class="youtube_video_loader" video="${video}">
-						<h2>WARNING</h2>
-						<p>This is a video from youtube</p>
-						<p>If you load it, you agree to google's <a href="https://policies.google.com/privacy?hl=en-US">privacy policy</a>.</p>
-						<a class="button" onclick="load_youtube_video(this)">Load Video</a>
-					</div>
-			`;
-		}
-		if (idioma == "espanol"){
-			loaders[i].innerHTML = `
-			<div class="youtube_video_loader" video="${video}">
-						<h2>ADVERTENCIA</h2>
-						<p>Este es un video de youtube</p>
-						<p>Si lo cargas, aceptas la <a href="https://policies.google.com/privacy?hl=en-US">politica de privacidad</a> de google.</p>
-						<a class="button" onclick="load_youtube_video(this)">Cargar Video</a>
-					</div>
-			`;
-		}
-	}
-}
-*/
 
 //Un miniscript que cambia el texto en el marquee
 function marqueeSetter(){
@@ -103,37 +66,26 @@ function marqueeSetter(){
 	switch (idioma){
 		case "ingles":
 			Marquee_Texts = new Array(
-				"XDDDDDDDDDDDDDDDDDDDDDDDDDD",
-				"Play ArcadeInvasion NOW, it haves 1 DOWNLOAD PER YEAR!!! xD",
-				"LMAO",
-				"I say semicolon jokes because im noob and i dont know that the compiler/interpreter says where is it. <b>Its here -> ;</b>",
-				"Anybody: Says a curly bracket joke............................................. Python programmers: XD",
-				"Thing",
-				"Really i need making a NORMAL doom wad someday...",
-				"I dont know what im making with my life",
+				"ULTRAKILL GOOOOOOOOOD",
+				"Really i need to stop making mods and go make videogames again.",
+				"I dont know what im doing with my life",
 				"I dont know what more i can put on my website... Dah i will add more navbar marquee messages",
-				"PLEASE STOP WITH THE JOJO REFERENCE THING PLEASE, YEAH I ALREADY UNDERSTAND THAT MUDA MUDA ORA ORA LERO LERO BUT PLEASE",
+				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Sample Text",
 				"Unf ~ Doomguy",
-				"Yes ~ Quote",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 			);
 			break;
 		case "español":
 			Marquee_Texts = new Array(
+				"ULTRAKILL GOOOOOOOOOD",
 				"XDDDDDDDDDDDDDDDDDDDDDDDDDD",
-				"Juguate ArcadeInvasion AHORA, tiene 1 DESCARGA POR AÑO!!! xD",
-				"LMAO",
-				"Hago chistes sobre el punto y coma por que soy alto manco y no se que el compilador/interpretador dice donde esta. <b>Aca esta -> ;</b>",
-				"Alguien: hace un chiste sobre las llaves {}............................................. Programadores de python: XD",
-				"Coso",
-				"Realmente necesito hacer un wad de doom NORMAL algun dia...",
+				"Realmente necesito dejar de hacer mods e ir a hacer videojuegos de nuevo.",
 				"No tengo idea que estoy haciendo con mi vida",
 				"No se que mas puedo ponerle a este sitio... Nah voy a ponerle mas mensajes al marquee de la barra de navegacion",
-				"POR FAVOR PAREN DE HACER ESO DE LAS REFERENCIAS A JOJOS ME TIENEN HARTO POR FAVOR, SI YA ENTIENDO QUE MUDA MUDA ORA ORA LERO LERO PERO POR FAVOR",
+				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Texto de Ejemplo",
 				"Unf ~ Doomguy",
-				"Yes ~ Quote",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 			);
 	}
@@ -145,6 +97,5 @@ function marqueeSetter(){
 window.addEventListener("load",marqueeSetter);
 //window.addEventListener("load",build_youtube_loaders);
 
-console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
-console.log("     =====     C O M I S T E     =====     ");
-console.log("JaAaAaAAaAaaa te la comiste entera.")
+//console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
+console.log("Puto el que lee + Comiste 👌 + 13 mas me crece + Respiracion automatica desactivada + Parpadeo automatico desactivado + Tragar saliva automatico desactivado + Torsion testicular automatica activada.");

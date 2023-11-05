@@ -116,24 +116,6 @@ ul.code_box{
     height: 100%;
 }
 
-.youtube_video_loader{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
-	align-content: stretch;
-	border: 2px solid #FFFFFF;
-	width: 560px;
-	height: 315px;
-	background-color: #050505;
-}
-.youtube_video_loader p, h2{
-	margin: 10px;
-}
-.youtube_video_loader .button{
-	margin: 15px;
-}
-
 .text_green{
 	color:#FFFF00;
 }
@@ -282,4 +264,32 @@ ul.code_box{
 
 .Footer hr{
 	border: 1px solid #111111;
+}
+
+/* ===== ARTICULOS ======*/
+.article_mods_rocketed{
+	background:black url('../images/backgrounds/Rocketed.png') no-repeat center;
+}
+.article_mods_dimweird{
+	background:black url('../images/backgrounds/Dim.png') no-repeat center;
+}
+.article_mods_furdemon{
+	background:black url('../images/backgrounds/Furdemon.png') no-repeat center;
+}
+.article_mods_uacarena{
+	background:black url('../images/backgrounds/UACArena.png') no-repeat center;
+}
+.article_mods_randommaps{
+
+}
+.article_mods_negativeone{
+	background:black url('../images/backgrounds/Negativeone.png') no-repeat center;
+}
+
+.article_content_background{
+	padding:1%;
+	box-shadow: inset 0 0 0 99999px rgba(0,0,0,0.5);
+}
+.article_content{
+	position: relative;
 }
