@@ -1,6 +1,16 @@
 .imagen{
-	width: 60%;
+	width: 90%;
 	border: 2px solid #FFFFFF;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center{
+	/*display: block;*/
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
 }
 
 .titleImg{
@@ -62,8 +72,17 @@
 	background-color: #000000;
 	border: 2px solid /*#00FF00*/ #FFFFFF;
 	margin: 10px;
-	padding-top:5px;
-	padding-bottom:5px;
+	padding-top:2.5px;
+	padding-bottom:2.5px;
+	
+	padding-left:10px;	
+	padding-right:10px;	
+	
+}
+
+ul.code_box{
+	padding-left: 30px;
+	padding-right:30px;
 }
 
 .code_box li{
@@ -78,6 +97,23 @@
 
 .youtube_video{
 	border: 2px solid #FFFFFF;
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 90%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .youtube_video_loader{
@@ -96,6 +132,22 @@
 }
 .youtube_video_loader .button{
 	margin: 15px;
+}
+
+.text_green{
+	color:#FFFF00;
+}
+
+.text_yellow{
+	color:#FFFF00;
+}
+
+.text_red{
+	color:#FF0000;
+}
+
+.shaking{
+	animation: horizontal-shaking 0.15 infinite;
 }
 
 
@@ -150,8 +202,9 @@
 /* ===== Barra de navegacion ===== */
 .Navbar{
 	background-color: #111111;
-	border-bottom: 5px solid var(--border_color);
+	border-bottom: 2px solid var(--border_color);
 	margin: 0px;
+	padding: 0px;
 }
 
 .Navbar h1{
@@ -163,20 +216,22 @@
                           1px 1px 0 var(--navbar_title_stroke),
                          1px -1px 0 var(--navbar_title_stroke),
                         -1px -1px 0 var(--navbar_title_stroke);
+	display:inline-block;
+	margin:10px 0px 0px 0px;
 }
 
 .Navbar ul li{
 	display: inline;
 	background-color: #111111;
 	margin: 0px;
-	padding: 10px;
+	padding: 15px;
 }
 
 .Navbar ul li:hover{
 	display: inline;
 	background-color: #111111;
 	margin: 0px;
-	padding: 10px;
+	padding: 15px;
 }
 
 .Navbar ul li a{
@@ -193,6 +248,7 @@
 
 .Navbar hr{
 	border: 1px solid #222222;
+	margin: 0px;
 }
 
 .Navbar_Buttons_Mobile{
