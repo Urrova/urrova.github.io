@@ -74,6 +74,7 @@ function marqueeSetter(){
 				"Sample Text",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
+				"haha romero is going to make you his b dopefish lives instakill soap u know retro fps memes lol.",
 			);
 			break;
 		case "español":
@@ -87,7 +88,8 @@ function marqueeSetter(){
 				"Texto de Ejemplo",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
-			);
+				"haha romero is going to make you his b dopefish lives instakill soap u know retro fps memes lol.",
+				);
 	}
 
 	var marquee = document.getElementById("Navbar_marquee");

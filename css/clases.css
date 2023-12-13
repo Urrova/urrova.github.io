@@ -257,7 +257,7 @@ ul.code_box{
 /* ===== Footer ===== */
 .Footer{
 	background-color: #050505;
-	border-top: 5px solid var(--border_color);
+	border-top: 2px solid var(--border_color);
 	margin-top:50px;
 	padding-bottom:10px;
 }
