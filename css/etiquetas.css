@@ -73,6 +73,7 @@ summary h2:hover{
 	text-decoration: underline;
 }
 
+
 details{
 	margin: 15px 2%;
 	padding: 5px 30px;
@@ -85,4 +86,14 @@ article{
 	padding: 5px 30px;
 	background-color: var(--section_color);
 	border: 3px solid var(--section_border);
+}
+
+/*Tamaños para moviles*/
+@media screen and (max-width: 600px) {
+	details{
+		margin: 15px 5px;
+	}
+	article{
+		margin: 15px 5px;
+	}
 }
