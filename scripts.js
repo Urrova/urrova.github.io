@@ -69,30 +69,31 @@ function marqueeSetter(){
 				"ULTRAKILL GOOOOOOOOOD",
 				"Really i need to stop making mods and go make videogames again.",
 				"I dont know what im doing with my life",
-				"I dont know what more i can put on my website... Dah i will add more navbar marquee messages",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Sample Text",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
+				"IMPSCAPE was a mistake.",
 			);
 			break;
-		case "español":
+		case "espanol":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"XDDDDDDDDDDDDDDDDDDDDDDDDDD",
 				"Realmente necesito dejar de hacer mods e ir a hacer videojuegos de nuevo.",
 				"No tengo idea que estoy haciendo con mi vida",
-				"No se que mas puedo ponerle a este sitio... Nah voy a ponerle mas mensajes al marquee de la barra de navegacion",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Texto de Ejemplo",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
-				);
+				"IMPSCAPE fue un error",
+			);
+			break;
 	}
 
-	var marquee = document.getElementById("Navbar_marquee");
+	var marquee;
+	marquee = document.getElementById("Navbar_marquee");
 	marquee.innerHTML = Marquee_Texts[getRandomInt(0,Marquee_Texts.length)];
 }
 
