@@ -67,7 +67,7 @@ function marqueeSetter(){
 		case "ingles":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"Really i need to stop making mods and go make videogames again.",
+				"<del>Really i need to stop making mods and go make videogames again.</del> Stopped making mods. Went to make videogames again :)",
 				"I dont know what im doing with my life",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Sample Text",
@@ -80,7 +80,7 @@ function marqueeSetter(){
 		case "espanol":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"Realmente necesito dejar de hacer mods e ir a hacer videojuegos de nuevo.",
+				"<del>Realmente necesito dejar de hacer mods e ir a hacer videojuegos de nuevo.</del> Deje de hacer mods. Fui a hacer videojuegos de nuevo :)",
 				"No tengo idea que estoy haciendo con mi vida",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Texto de Ejemplo",
