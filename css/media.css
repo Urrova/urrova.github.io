@@ -1,4 +1,0 @@
-@media screen and (max-width: 600px) {
-  .Navbar_Buttons_Desktop:not(:first-child) {display: none;}
-  .Navbar_Buttons_Mobile{display: block;}
-}

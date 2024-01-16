@@ -67,27 +67,27 @@ function marqueeSetter(){
 		case "ingles":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"<del>Really i need to stop making mods and go make videogames again.</del> Stopped making mods. Went to make videogames again :)",
+				"Trying to get into gamedev again - studying godot! or something i guess . . . ",
 				"I dont know what im doing with my life",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Sample Text",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
-				"IMPSCAPE was a mistake.",
+				"Please dont spend 2-ish years making a mod for a game.",
 			);
 			break;
 		case "espanol":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"<del>Realmente necesito dejar de hacer mods e ir a hacer videojuegos de nuevo.</del> Deje de hacer mods. Fui a hacer videojuegos de nuevo :)",
+				"Tratando de meterme en el gamedev de vuelta - estudiando godot! o algo asi no se . . .",
 				"No tengo idea que estoy haciendo con mi vida",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"Texto de Ejemplo",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
-				"IMPSCAPE fue un error",
+				"Por favor no usen tipo 2 años para hacer un mod para un juego.",
 			);
 			break;
 	}

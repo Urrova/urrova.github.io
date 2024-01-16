@@ -1,0 +1,23 @@
+.SocialTable{
+	width:100%;
+}
+
+.SocialTable tr td{
+	width: 20%;
+}
+
+.SocialNetIcon{
+	display: inline-block;
+	text-align: center;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.DoomworldIcon{
+	width: 160px;
+	text-align: center;
+}
+
+.DoomworldIcon:hover{
+	filter: invert();
+}

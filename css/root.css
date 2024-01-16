@@ -1,3 +1,8 @@
+/*
+root.css:
+variables globales para todo el sitio web
+*/
+
 :root{
     /*Navbar*/
     --border_color: #00ff15;
@@ -21,9 +26,6 @@
     --icon_color: #FFFFFF;
     --icon_color_hover: #b1ff84;
 
-    --button_border: #ffffff;
-    --button_border_hover: #09ff00;
-
     /*Fondo*/
     --background_color_1: #000000;
     --background_color_2: #0f0f0f;
@@ -34,4 +36,10 @@
     --font-details: "Xolonium";
     --font-text: "DOS";
     --font-marquee: "OCR A";
+
+    /*Botones*/
+    --button_border: #ffffff;
+    --button_border_hover: #09ff00;
+    --button-background: #020202;
+    --button-background-hover: #010101;
 }   

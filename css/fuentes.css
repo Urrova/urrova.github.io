@@ -10,6 +10,11 @@
 }
 
 @font-face{
+	Font-Family: "C64";
+	src: url("../fonts/c-64.ttf")
+}
+
+@font-face{
 	Font-Family: "Xolonium";
 	src: url("../fonts/Xolonium-Regular.ttf");
 }

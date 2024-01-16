@@ -1,0 +1,42 @@
+/*
+images.css:
+estilos relacionados con las imagenes
+*/
+
+.imagen{
+	width: 90%;
+	border: 2px solid #FFFFFF;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.imagen_small{
+	width: 50%;
+	border: 2px solid #FFFFFF;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media screen and (max-width: 600px) {
+	.imagen{
+		width: 95%;
+	}
+
+	.imagen_small{
+		width: 95%;
+	}
+}
+
+.titleImg{
+	vertical-align: middle;
+}
+
+.SVGicon{
+	color: var(--icon_color);
+}
+
+.SVGicon:hover{
+	color: var(--icon_color_hover)
+}
