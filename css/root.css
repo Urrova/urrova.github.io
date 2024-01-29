@@ -1,6 +1,6 @@
 /*
 root.css:
-variables globales para todo el sitio web
+variables globales para manejar el sitio web
 */
 
 :root{
@@ -22,6 +22,8 @@ variables globales para todo el sitio web
     --section_border: #FFFFFF;
     --section_button_color: #FFFFFF;
     --section_button_color_hover: #39ff43;
+
+    --article-contents-shadow: rgba(0,0,0,0.75);
     
     --icon_color: #FFFFFF;
     --icon_color_hover: #b1ff84;
