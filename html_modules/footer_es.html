@@ -3,23 +3,27 @@
     <table>
     <tr><td>
         <center>
-            <p class="SmallP">Contador de visitas (para esta pagina)</p>
-            <div id="Counter_loader1"></div>
+            <p class="SmallP">Contador de visitas</p>
+            <div id="Counter_loader1">
+                <script type="text/javascript" src="//counter.websiteout.com/js/2/8/0/0"></script>
+            </div>
         </center>
     </td>
     <td>
         <center>
-            <p class="SmallP">Contador de visitas (para todas las paginas)</p>
-            <div id="Counter_loader2"></div>
+            <p class="SmallP">Contador de visitantes unicos</p>
+            <div id="Counter_loader2">
+                <script type="text/javascript" src="//counter.websiteout.com/js/2/8/0/1"></script>
+            </div>
         </center>
     </td></tr>
     </table>
     <script>
-        var counter1 = document.getElementById("Counter_loader1");
-        counter1.innerHTML = '<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.href)+'&C=2&D=8&N=0&M=0" alt="" border="0" />';
+        //var counter1 = document.getElementById("Counter_loader1");
+        //counter1.innerHTML = '<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.href)+'&C=2&D=8&N=0&M=0" alt="" border="0" />';
 
-        var counter2 = document.getElementById("Counter_loader2");
-        counter2.innerHTML = '<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.hostname)+'&C=2&D=8&N=0&M=0" alt="" border="0" />';
+        //var counter2 = document.getElementById("Counter_loader2");
+        //counter2.innerHTML = '<img src="//counter.websiteout.net/compte.php?S='+encodeURI(window.location.hostname)+'&C=2&D=8&N=0&M=0" alt="" border="0" />';
     </script>
     
 
