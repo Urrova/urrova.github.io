@@ -24,37 +24,6 @@ function getCookie(cName) {
 	return res;
 }
 
-//Tiene funciones de cookies, pero no las uso nunca XD
-
-//Identifica el idioma de la pagina.
-var metas = document.getElementsByTagName("meta");
-var idioma;
-for (var i = 0; i < metas.length; i++){
-	var element = metas[i];
-	var meta_tipo = element.getAttribute("name");
-	//Si es un meta de idioma, se fija si esta en ingles o español
-	if (meta_tipo == "idioma"){
-		idioma = element.getAttribute("content");
-	}
-}
-
-//Carga la barra de navegacion y el footer
-//Con zepto por que jquery es pesau y cash no tiene .load
-switch (idioma){
-	case "ingles":
-		$(function() {
-			$("#Navbar_loader").load("html_modules/navbar.html");
-			$("#Footer_loader").load("html_modules/footer.html");
-		});
-		break;
-	case "espanol":
-		$(function() {
-			$("#Navbar_loader").load("html_modules/navbar_es.html");
-			$("#Footer_loader").load("html_modules/footer_es.html");
-		});
-		break;
-}
-
 function que(){
 	console.log("so");
 }
@@ -96,6 +65,42 @@ function marqueeSetter(){
 	marquee = document.getElementById("Navbar_marquee");
 	marquee.innerHTML = Marquee_Texts[getRandomInt(0,Marquee_Texts.length)];
 }
+
+//Si la pagina es https://urrova.github.io/ va hacia https://urrova.github.io/index.html
+if (window.location.href == "https://urrova.github.io"){
+	window.location.replace("https://urrova.github.io/index.html")
+}
+
+//Identifica el idioma de la pagina.
+var metas = document.getElementsByTagName("meta");
+var idioma;
+for (var i = 0; i < metas.length; i++){
+	var element = metas[i];
+	var meta_tipo = element.getAttribute("name");
+	//Si es un meta de idioma, se fija si esta en ingles o español
+	if (meta_tipo == "idioma"){
+		idioma = element.getAttribute("content");
+	}
+}
+
+//Carga la barra de navegacion y el footer
+//Con zepto por que jquery es pesau y cash no tiene .load
+switch (idioma){
+	case "ingles":
+		$(function() {
+			$("#Navbar_loader").load("html_modules/navbar.html");
+			$("#Footer_loader").load("html_modules/footer.html");
+		});
+		break;
+	case "espanol":
+		$(function() {
+			$("#Navbar_loader").load("html_modules/navbar_es.html");
+			$("#Footer_loader").load("html_modules/footer_es.html");
+		});
+		break;
+}
+
+
 
 window.addEventListener("load",marqueeSetter);
 //window.addEventListener("load",build_youtube_loaders);
