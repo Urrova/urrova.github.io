@@ -67,7 +67,7 @@ function marqueeSetter(){
 }
 
 //Si la pagina es https://urrova.github.io/ va hacia https://urrova.github.io/index.html
-if (window.location.href == "https://urrova.github.io"){
+if (window.location.href == "https://urrova.github.io/"){
 	window.location.replace("https://urrova.github.io/index.html")
 }
 
