@@ -74,7 +74,27 @@ ul.code_box{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
+	align-items: center;
 }
 .flexbox-box{
 	padding: 20px;
+}
+
+.flexbox-box-article-left{
+	width: 35%;
+	padding: 5px;
+}
+
+.flexbox-box-article-right{
+	width: 60%;
+	padding: 5px;
+}
+
+@media screen and (max-width: 800px) {
+	.flexbox-box-article-left{
+		width: 80%;
+	}
+	.flexbox-box-article-right{
+		width: 100%;
+	}
 }

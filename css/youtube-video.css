@@ -8,7 +8,7 @@ estilos relacionados con los videos embebidos de youtube.
 	border: 2px solid #FFFFFF;
 	position: relative;
 	overflow: hidden;
-	width: 50%;
+	width: 90%;
 }
 
 @media screen and (max-width: 800px) {
