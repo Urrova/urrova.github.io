@@ -67,3 +67,14 @@ ul.code_box{
 	font-size:small;
 	margin: 5px;
 }
+
+
+/*flexbox*/
+.flexbox-container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.flexbox-box{
+	padding: 20px;
+}

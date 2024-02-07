@@ -4,10 +4,16 @@
     <script>
         var pageurl = window.location.href.split("://")[1];
         var counter = document.getElementById("Counter_loader");
-        counter.innerHTML = '<a href="https://hits.sh/'+
-                                pageurl+
-                                '"><img alt="Hits" src="https://hits.sh/'+
-                                pageurl+
-                                '.svg?color=00ffff&labelColor=000000&logo=godotengine"/></a>';
+
+        if(window.location.hostname=="urrova.github.io"){
+            counter.innerHTML = '<a href="https://hits.sh/'+
+                                    pageurl+
+                                    '"><img alt="Hits" src="https://hits.sh/'+
+                                    pageurl+
+                                    '.svg?color=00ffff&labelColor=000000&logo=godotengine"/></a>';
+        }
+        else{
+            counter.innerHTML = "<p class='SmallP'>Contador deshabilitado por si no esta subido</p>"
+        }
     </script>
 </center>
