@@ -70,6 +70,9 @@ article{
 .article_mods_negativeone{
 	background:black url('../images/backgrounds/Negativeone.png') no-repeat center;
 }
+.article_mods_impscape{
+	background:black url('../images/backgrounds/impscape.png') no-repeat center;
+}
 
 .article_content_background{
 	border: 2px solid #FFFFFF;
