@@ -44,29 +44,6 @@ ul.code_box{
 	font-family: "DOS";
 }
 
-/*estilos de textos*/
-.text_green{
-	color:#FFFF00;
-}
-
-.text_yellow{
-	color:#FFFF00;
-}
-
-.text_red{
-	color:#FF0000;
-}
-
-.shaking{
-	animation: horizontal-shaking 0.15 infinite;
-}
-
-.SmallP{
-	color: #FFFFFF;
-	font-family: "DOS";
-	font-size:small;
-	margin: 5px;
-}
 
 
 /*flexbox*/

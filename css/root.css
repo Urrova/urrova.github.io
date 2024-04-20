@@ -17,6 +17,14 @@ variables globales para manejar el sitio web
     --link_hover_color: #a7ff9f;
     --box_color: #202020;
 
+    /*Textos*/
+    --text_red_color: #FF0000;
+    --text_green_color: #00FF00;
+    --text_yellow_color: #FFFF00;
+    --text_blue_color: #0000FF;
+    --text_cyan_color: #00FFFF;
+    --text_purple_color: #FF00FF;
+
     /*Seccion*/    
     --section_color: #101010;
     --section_border: #FFFFFF;
