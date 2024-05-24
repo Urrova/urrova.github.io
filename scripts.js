@@ -24,6 +24,28 @@ function getCookie(cName) {
 	return res;
 }
 
+//Espera a que un elemento exista
+function waitForElm(selector) {
+    return new Promise(resolve => {
+        if (document.querySelector(selector)) {
+            return resolve(document.querySelector(selector));
+        }
+
+        const observer = new MutationObserver(mutations => {
+            if (document.querySelector(selector)) {
+                observer.disconnect();
+                resolve(document.querySelector(selector));
+            }
+        });
+
+        // If you get "parameter 1 is not of type 'Node'" error, see https://stackoverflow.com/a/77855838/492336
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+    });
+}
+
 function que(){
 	console.log("so");
 }
@@ -63,9 +85,11 @@ function marqueeSetter(){
 			break;
 	}
 
-	var marquee;
-	marquee = document.getElementById("Navbar_marquee");
-	marquee.innerHTML = Marquee_Texts[getRandomInt(0,Marquee_Texts.length)];
+	waitForElm("#Navbar_marquee").then((elm) => {
+		var marquee;
+		marquee = document.getElementById("Navbar_marquee");
+		marquee.innerHTML = Marquee_Texts[getRandomInt(0,Marquee_Texts.length)];
+	})
 }
 
 //Si la pagina es https://urrova.github.io/ va hacia https://urrova.github.io/index.html
@@ -140,4 +164,4 @@ window.addEventListener("load",marqueeSetter);
 //window.addEventListener("load",build_youtube_loaders);
 
 //console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
-console.log("Puto el que lee + Comiste 👌 + 13 mas me crece + Respiracion automatica desactivada + Parpadeo automatico desactivado + Tragar saliva automatico desactivado + Torsion testicular automatica activada + La mente es el resultado de algo fisiologico que sucede fisicamente dentro de tu cabeza.");
+console.log("Puto el que lee + Comiste 👌 + 13 mas me crece + Respiracion automatica desactivada + Parpadeo automatico desactivado + Tragar saliva automatico desactivado + Tu nariz esta entre tus ojos + Torsion testicular automatica activada + Tu ropa te esta tocando + La mente es el resultado de algo fisiologico que sucede fisicamente dentro de tu cabeza + Todo son atomos ordenados de pura casualidad, la vida es una cadena de casualidades y podria tranquilamente no ser asi.");
