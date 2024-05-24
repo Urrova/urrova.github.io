@@ -44,6 +44,7 @@ function marqueeSetter(){
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
 				"Please dont spend 2-ish years making a mod for a game.",
+				"fortune | cowsay | lolcat",
 			);
 			break;
 		case "espanol":
@@ -57,6 +58,7 @@ function marqueeSetter(){
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
 				"Por favor no usen tipo 2 años para hacer un mod para un juego.",
+				"fortune | cowsay | lolcat",
 			);
 			break;
 	}
