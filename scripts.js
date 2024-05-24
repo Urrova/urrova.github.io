@@ -128,7 +128,9 @@ function glitchyText(){
         }
     }
 }
-setInterval(glitchyText, 100);
+setTimeout(() => {
+	setInterval(glitchyText, 100);
+}, 500);
 
 
 

@@ -6,6 +6,8 @@
 .text_blue   { color:var(--text_blue_color);   }
 .text_purple { color:var(--text_purple_color); }
 
+.text_console_highlighted {color:#000000; background-color: #FFFFFF;}
+
 .shaking{
 	animation: horizontal-shaking 0.15 infinite;
 }

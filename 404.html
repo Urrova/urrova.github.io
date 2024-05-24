@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="css/page_specific/404.css">
-    <title>😱😱Cuatrocientos cuatro😱😱</title>
+    <title>/dev/null</title>
 </head>
 <body>
     <div class="marquee">
@@ -23,10 +23,71 @@
         </div>
     </div>
     <p><img src="images/xd/perturbado1.webp" class="imagen404"></p>
-    <p class="center shaking">
-        <a href="index_es.html">REINICIAR</a> 
-        --- 
-        <a href="index.html">RESTART</a>
-    </p>
+    <br>
+    <div class="code_box">
+        <div id="console_text">
+            <p class="text_glitchy">Acabas de caer en /dev/null.</p>
+        </div>
+        <p>guest@urrova:/dev/null$█</p>
+        <p class="center">
+            <a href="index_es.html">REINICIAR</a> 
+            --- 
+            <a href="index.html">RESTART</a>
+        </p>
+    </div>
+    <br>
+
+    <script>
+        function getRandomInt(min, max) {
+            min = Math.ceil(min);
+            max = Math.floor(max);
+            return Math.floor(Math.random() * (max - min) + min); //The maximum is exclusive and the minimum is inclusive
+        }
+
+        var console_text = document.getElementById("console_text");
+        var texts = [
+            `
+            <p class="text_console_highlighted">. . . donde estoy ?</p>
+            <p class="text_glitchy">Acabas de caer en /dev/null.</p>
+            <p><br></p>
+            <p>/dev/null, la nada donde van a parar todos los datos no deseados; estos mismos convirtiendose en la nada, y por lo tanto en parte de /dev/null.</p>
+            <p>/dev/null es capaz de borrar de la existencia cualquier cosa que le pidas. O al menos es capaz de no registrarlas. Si nadie sabe que existe entonces no existe . . . ? <br></p>
+            <p>/dev/null es capaz de vaciar completamente cualquier cosa. O mejor dicho, llenarla de vacio . . . ? Esto depende de si tu vaso esta medio lleno o medio vacio.</p>
+            <p>/dev/null es capaz de ser usado para crear demonios; no conoces su existencia pero estos siguen alli haciendo sus maldades, aunque no puedes saber exactamente que.  <br> </p>
+            <p>Tal vez sin darte cuenta te cruces con algun demonio, producto de alguien que accidentalmente cayo en /dev/null y se ha quedado demasiado tiempo . . .</p>
+            <p><br></p>
+            <p>. . . es peligroso quedarse en /dev/null. </p>
+            <p>Si no quieres convertirte en parte de /dev/null, entonces elija su boton de reinicio.</p>
+            `,
+            `
+            <p class="text_console_highlighted">. . . where am i ?</p>
+            <p class="text_glitchy">You just fell into /dev/null.</p>
+            <p><br></p>
+            <p>/dev/null, the nothingness where all the unwanted data ends up; these themselves becoming nothing, and therefore part of /dev/null. <br></p>
+            <p>/dev/null is capable of erasing from existence anything you ask it to do. Or at least it is capable of not registering them. If no one knows it exists then it doesn't exist . . . ?<br></p>
+            <p>/dev/null is capable of completely emptying anything. Or rather, fill it with emptiness . . . ? This depends on whether your glass is half full or half empty. <br></p>
+            <p>/dev/null is capable of being used to create demons; You don't know their existence but they are still there doing their evil things, although you can't know exactly what. <br> </p>
+            <p>Maybe without realizing it you come across some demon, the product of someone who accidentally fell into /dev/null and has stayed too long . . . <br></p>
+            <p><br></p>
+            <p>. . . it is dangerous to stay on /dev/null.</p>
+            <p>If you don't want to become part of /dev/null, then choose your reset button.</p>
+            `,
+            `
+            <p class="text_console_highlighted">. . . wo bin ich ?</p>
+            <p class="text_glitchy">Du bist gerade in /dev/null gefallen.</p>
+            <p><br></p>
+            <p>/dev/null, das Nichts, in dem alle unerwünschten Daten landen; diese selbst werden zu nichts und sind daher Teil von /dev/null.<br></p>
+            <p>/dev/null ist in der Lage, alles, was Sie von ihm verlangen, aus der Existenz zu löschen. Zumindest ist es möglich, sie nicht zu registrieren. Wenn niemand weiß, dass es existiert, dann existiert es nicht. . . ?<br></p>
+            <p>/dev/null ist in der Lage, alles vollständig zu leeren. Oder besser gesagt, fülle es mit Leere. . . ? Dies hängt davon ab, ob Ihr Glas halb voll oder halb leer ist.<br></p>
+            <p>/dev/null kann zur Erschaffung von Dämonen verwendet werden; Sie wissen nicht, dass sie existieren, aber sie sind immer noch da und tun ihre bösen Taten, obwohl Sie nicht genau wissen können, was.<br> </p>
+            <p>Vielleicht stoßen Sie, ohne es zu merken, auf einen Dämon, das Produkt von jemandem, der versehentlich in /dev/null gefallen ist und zu lange dort geblieben ist. . .<br></p>
+            <p><br></p>
+            <p>. . . Es ist gefährlich, auf /dev/null zu bleiben.</p>
+            <p>Wenn Sie nicht Teil von /dev/null werden möchten, wählen Sie die Schaltfläche Zurücksetzen.</p>
+            `
+        ]
+
+        console_text.innerHTML = texts[getRandomInt(0,texts.length)]
+    </script>
 </body>
 </html>
