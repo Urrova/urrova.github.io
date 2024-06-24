@@ -46,6 +46,21 @@ function waitForElm(selector) {
     });
 }
 
+function getMetaTag(name) {
+	var value = null;
+	var metas = document.getElementsByTagName("meta");
+	for (var i = 0; i < metas.length; i++){
+		var element = metas[i];
+		var meta_tipo = element.getAttribute("name");
+		//Si es un meta de idioma, se fija si esta en ingles o español
+		if (meta_tipo == name){
+			value = element.getAttribute("content");
+		}
+	}
+
+	return value;
+}
+
 function que(){
 	console.log("so");
 }
@@ -86,9 +101,17 @@ function marqueeSetter(){
 	}
 
 	waitForElm("#Navbar_marquee").then((elm) => {
-		var marquee;
-		marquee = document.getElementById("Navbar_marquee");
+		var marquee = document.getElementById("Navbar_marquee");
 		marquee.innerHTML = Marquee_Texts[getRandomInt(0,Marquee_Texts.length)];
+	})
+}
+
+function linuxPathSetter() {
+	var pagepath = getMetaTag("linuxpath");
+	console.log(pagepath)
+	waitForElm("#navbar_linuxpath_path").then((elm) => {
+		var linuxpath = document.getElementById("navbar_linuxpath_path");
+		linuxpath.innerHTML = pagepath;
 	})
 }
 
@@ -98,16 +121,7 @@ if (window.location.href == "https://urrova.github.io/"){
 }
 
 //Identifica el idioma de la pagina.
-var metas = document.getElementsByTagName("meta");
-var idioma;
-for (var i = 0; i < metas.length; i++){
-	var element = metas[i];
-	var meta_tipo = element.getAttribute("name");
-	//Si es un meta de idioma, se fija si esta en ingles o español
-	if (meta_tipo == "idioma"){
-		idioma = element.getAttribute("content");
-	}
-}
+var idioma = getMetaTag("idioma");
 
 //Carga la barra de navegacion y el footer
 //Con zepto por que jquery es pesau y cash no tiene .load
@@ -161,6 +175,7 @@ setTimeout(() => {
 
 
 window.addEventListener("load",marqueeSetter);
+window.addEventListener("load",linuxPathSetter);
 //window.addEventListener("load",build_youtube_loaders);
 
 //console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");

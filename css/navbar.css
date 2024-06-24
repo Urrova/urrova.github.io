@@ -14,7 +14,7 @@ estilos relacionados con la barra superior de navegacion y el footer
 	color: var(--navbar_title_color);
 	font-family: var(--font-title), monospace;
 	font-weight: bolder;
-	font-size: 40;
+	font-size: 25px;
 	text-shadow: -1px 1px 0 var(--navbar_title_stroke),
                           1px 1px 0 var(--navbar_title_stroke),
                          1px -1px 0 var(--navbar_title_stroke),
@@ -23,16 +23,20 @@ estilos relacionados con la barra superior de navegacion y el footer
 	margin:10px 0px 0px 0px;
 }
 
+.Navbar ul {
+	margin: 5px;
+}
+
 .Navbar ul li{
 	display: inline;
-	background-color: #111111;
+	/*background-color: #111111;*/
 	margin: 0px;
 	padding: 15px;
 }
 
 .Navbar ul li:hover{
 	display: inline;
-	background-color: #111111;
+	/*background-color: #111111;*/
 	margin: 0px;
 	padding: 15px;
 }
@@ -75,10 +79,34 @@ estilos relacionados con la barra superior de navegacion y el footer
 	font-size: 12px;
 }
 
+#navbar_title_desktop{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#navbar_title_mobile{
+	display: none;
+}
+
+#navbar_title_main{
+	align-self: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#navbar_linuxpath{
+	align-self: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 /*Elige cual menu se muestra depende la plataforma*/
 @media screen and (max-width: 600px) {
     .Navbar_Buttons_Desktop:not(:first-child) {display: none;}
     .Navbar_Buttons_Mobile{display: block;}
+	#navbar_title_desktop{display: none;}
+	#navbar_title_mobile{display:block;}
   }
   
 
