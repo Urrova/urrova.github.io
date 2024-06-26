@@ -27,9 +27,9 @@ clases sueltas
 	background-color: #000000;
 	border: 2px solid #FFFFFF;
 	margin: 10px;
+	
 	padding-top:2.5px;
 	padding-bottom:2.5px;
-	
 	padding-left:10px;	
 	padding-right:10px;	
 }
@@ -43,7 +43,6 @@ ul.code_box{
 	color: #FFFFFF;
 	font-family: "DOS";
 }
-
 
 
 /*flexbox*/

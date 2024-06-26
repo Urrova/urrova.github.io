@@ -34,6 +34,13 @@ definiciones de los estilos de los articulos article/details_article
 	border: 3px solid var(--section_border);
 }
 
+.article_index{
+	margin: 15px 20%;
+	padding: 5px 30px;
+	background-color: #000000;
+	border: 2px solid #FFFFFF;
+}
+
 article{
 	margin: 15px 2%;
 	padding: 5px 30px;
@@ -49,6 +56,9 @@ article{
 	article{
 		margin: 5px 1%;
 		padding:2px 1%;
+	}
+	.article_index{
+		margin: 15px 5%;
 	}
 }
 
