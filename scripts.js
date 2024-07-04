@@ -73,29 +73,25 @@ function marqueeSetter(){
 		case "ingles":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"Trying to get into gamedev again - studying godot! or something i guess . . . ",
-				"I dont know what im doing with my life",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
-				"Sample Text",
+				"TERRARIA GODDDDDDDDDD",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
-				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
-				"Please dont spend 2-ish years making a mod for a game.",
 				"fortune | cowsay | lolcat",
+				"Ya, enough Doom for me. 1 sector was the last one, I promise.",
+				"... seeing how society fastly turns into Akira: The Handmaid's Clockwork Black Serial Experiments Matrix 1984º Farenheit in the Shell... dont write more scifi, dont give them more ideas.",
 			);
 			break;
 		case "espanol":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
-				"Tratando de meterme en el gamedev de vuelta - estudiando godot! o algo asi no se . . .",
-				"No tengo idea que estoy haciendo con mi vida",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
-				"Texto de Ejemplo",
+				"TERRARIA GODDDDDDDDDD",
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
-				"haha romero is going to make you his b dopefish lives instakill soap shoot at it until it dies u know retro fps memes lol.",
-				"Por favor no usen tipo 2 años para hacer un mod para un juego.",
 				"fortune | cowsay | lolcat",
+				"Ya, suficiende Doom para mi. 1 sector fue el ultimo, posta.",
+				"... viendo como la sociedad rapidamente se convierte en Akira: El cuento de La Naranja Black Serial Experiments Matrix 1984º Farenheit in the Shell... no hagan mas ciencia ficcion, no les den mas ideas."
 			);
 			break;
 	}
