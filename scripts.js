@@ -78,7 +78,7 @@ function marqueeSetter(){
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"fortune | cowsay | lolcat",
-				"Ya, enough Doom for me. 1 sector was the last one, I promise.",
+				"Overthinking, overanalyzing, separates the body from the mind; -TOOL, Lateralus.",
 				"... seeing how society fastly turns into Akira: The Handmaid's Clockwork Black Serial Experiments Matrix 1984º Farenheit in the Shell... dont write more scifi, dont give them more ideas.",
 			);
 			break;
@@ -90,7 +90,7 @@ function marqueeSetter(){
 				"Unf ~ Doomguy",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
 				"fortune | cowsay | lolcat",
-				"Ya, suficiende Doom para mi. 1 sector fue el ultimo, posta.",
+				"Sobrepensar, sobreanalizar, separa el cuerpo del alma; -TOOL, Lateralus.",
 				"... viendo como la sociedad rapidamente se convierte en Akira: El cuento de La Naranja Black Serial Experiments Matrix 1984º Farenheit in the Shell... no hagan mas ciencia ficcion, no les den mas ideas."
 			);
 			break;
