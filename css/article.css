@@ -28,7 +28,7 @@ definiciones de los estilos de los articulos article/details_article
 
 
 .details_article{
-	margin: 15px 2%;
+	margin: 15px 10%;
 	padding: 5px 30px;
 	background-color: var(--section_color);
 	border: 3px solid var(--section_border);
@@ -42,7 +42,7 @@ definiciones de los estilos de los articulos article/details_article
 }
 
 article{
-	margin: 15px 2%;
+	margin: 15px 10%;
 	padding: 5px 30px;
 	background-color: var(--section_color);
 	border: 3px solid var(--section_border);

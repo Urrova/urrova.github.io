@@ -80,9 +80,12 @@ estilos relacionados con la barra superior de navegacion y el footer
 }
 
 #navbar_title_desktop{
+	/*
 	display:flex;
 	flex-direction: row;
 	justify-content: space-between;
+	*/
+	display:block;
 }
 
 #navbar_title_mobile{
