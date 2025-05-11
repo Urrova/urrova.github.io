@@ -111,6 +111,23 @@ function linuxPathSetter() {
 	})
 }
 
+function loadHTML(elementId, filePath) {
+	fetch(filePath)
+		.then(response => {
+			if (!response.ok) {
+				throw new Error('Network response was not ok');
+			}
+			return response.text();
+		})
+		.then(data => {
+			document.getElementById(elementId).innerHTML = data;
+		})
+		.catch(error => {
+			console.error('There was a problem with the fetch operation:', error);
+		});
+}
+
+
 //Si la pagina es https://urrova.github.io/ va hacia https://urrova.github.io/index.html
 if (window.location.href == "https://urrova.github.io/"){
 	window.location.replace("https://urrova.github.io/index.html")
@@ -123,16 +140,12 @@ var idioma = getMetaTag("idioma");
 //Con zepto por que jquery es pesau y cash no tiene .load
 switch (idioma){
 	case "ingles":
-		$(function() {
-			$("#Navbar_loader").load("html_modules/navbar.html");
-			$("#Footer_loader").load("html_modules/footer.html");
-		});
+		loadHTML("Navbar_loader", "html_modules/navbar.html")
+		loadHTML("Footer_loader", "html_modules/footer.html")
 		break;
 	case "espanol":
-		$(function() {
-			$("#Navbar_loader").load("html_modules/navbar_es.html");
-			$("#Footer_loader").load("html_modules/footer_es.html");
-		});
+		loadHTML("Navbar_loader", "html_modules/navbar_es.html")
+		loadHTML("Footer_loader", "html_modules/footer_es.html")
 		break;
 }
 

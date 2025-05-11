@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Urrova Blog</title>
+    <description>Hago weas</description>
+    <item>
+      <title>Amalgoom was Released!! | Amalgom se ha publicado!!</title>
+      <link>https://urrova.github.com/blog.html</link>
+      <pubDate>10/5/2025</pubDate>
+      <content>
+        ----- SPANISH -----
+
+        Uno de los community projects de doom de los que participe salio literalmente ayer.
+        Es un mod de juego completo (alla en doomworld le dicen megawad) que combina cada mapa de doom y doom 2 en uno. Entonces tenes Hangar de Doom + Entryway de Doom II, etc
+        Yo colabore en este mod con 4 MIDIs que pueden encontrar en el apartado de musica del sitio.
+        
+        El link del hilo de doomworld para descargarlo: 
+        https://www.doomworld.com/forum/topic/152974-amalgoom-rc1-sandy-petersen-interview/
+      
+        
+        
+        ----- ENGLISH -----
+
+        One of the Doom community projects I participated in came out literally yesterday.
+        It's a full game mod (they call it a megawad in Doomworld) that combines every map from Doom and Doom 2 into one. So you have Hangar from Doom + Entryway from Doom II, etc.
+        I contributed to this mod with four MIDIs, which you can find in the music section of the site.
+
+        The link to the Doomworld thread to download it:
+        https://www.doomworld.com/forum/topic/152974-amalgoom-rc1-sandy-petersen-interview/
+      </content>
+    </item>
+
+    <item>
+        <title>Blog basado en RSS! | RSS based blog!</title>
+        <link>https://urrova.github.com/blog.html</link>
+        <pubDate>10/5/2025</pubDate>
+        <content>
+          Bueno gente, el sitio ahora tiene un blog porque pinto. Esta basado en la tecnologia RSS 2.0 asi que pueden agregarlo a cualquier lector disponible, seguramente el navegador que usen incluya uno. 
+          
+          RSS es una tecnologia viejisima pero que se sigue usando por alguna razon, y muchos sitios la siguen soportando, lo cual esta muy bueno por las siguente razon:
+          
+          - No hay algoritmo que te recomiende huevadas random para hacerte perder el tiempo
+          - Para ver noticias, podes no depender de instagram/twitter/otras redes "sociales" que tienden a meterle mierda a sus aplicaciones
+          - Es muy facil de implementar (es parsear un XML) y es posible de hacer en un sitio sin backend como este.
+        </content>
+    </item>
+  </channel>
+</rss>

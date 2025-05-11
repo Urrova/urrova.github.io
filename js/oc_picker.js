@@ -5,4 +5,6 @@ var OCs = new Array(
 )
 
 var oc_container = document.getElementById("oc_container");
-oc_container.innerHTML = OCs[getRandomInt(0,OCs.length)];
+if (oc_container) {
+    oc_container.innerHTML = OCs[getRandomInt(0,OCs.length)];
+}
