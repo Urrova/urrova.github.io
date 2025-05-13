@@ -36,7 +36,7 @@ function extractFeedItems(xmlDoc) {
 }
 
 // Example RSS feed URL
-const rssUrl = './feed.rss';
+const rssUrl = './rss.xml';
 var rssFeed = fetchRSSFeed(rssUrl).then((rssText) => {
     const xmlDoc = parseRSS(rssText)
     console.log(xmlDoc)
@@ -63,13 +63,28 @@ var rssFeed = fetchRSSFeed(rssUrl).then((rssText) => {
         //Agrega la fecha
         const articleDate = document.createElement("p")
         articleDate.className = "SmallP"
-        articleDate.innerText = "- " + item.pubDate + " -"
+        if (item.pubDate == undefined) 
+            articleDate.innerText = "- ??/??/???? -"
+        else
+            articleDate.innerText = "- " + item.pubDate + " -"
         articleDiv.appendChild(articleDate)
 
         //Agrega el contenido
         const articleContent = document.createElement("p")
-        articleContent.innerText = item.content 
+        articleContent.innerText = item.description 
         articleDiv.appendChild(articleContent)
+
+        //Agrega el link abajo de todo:
+        if (item.link != "") {
+            const articleLinkLabel = document.createElement("p")
+            articleLinkLabel.innerText = "Link: "
+            articleDiv.appendChild(articleLinkLabel)
+
+            const articleLinkA = document.createElement("a")
+            articleLinkA.innerText = item.link
+            articleLinkA.href = item.link
+            articleLinkLabel.appendChild(articleLinkA)
+        }
     })
 })
 
