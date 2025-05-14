@@ -26,7 +26,7 @@ function extractFeedItems(xmlDoc) {
     for (let i = 0; i < items.length; i++) {
         const title = items[i].getElementsByTagName('title')[0].textContent;
         const link = items[i].getElementsByTagName('link')[0].textContent;
-        const description = items[i].getElementsByTagName('description')[0]?.textContent;
+        const description = items[i].getElementsByTagName('description')[0].textContent;
         const content = items[i].getElementsByTagName('content')[0]?.textContent;
         const pubDate = items[i].getElementsByTagName('pubDate')[0]?.textContent;
         feedItems.push({ title, link, description, content, pubDate });
@@ -65,13 +65,18 @@ var rssFeed = fetchRSSFeed(rssUrl).then((rssText) => {
         articleDate.className = "SmallP"
         if (item.pubDate == undefined) 
             articleDate.innerText = "- ??/??/???? -"
-        else
-            articleDate.innerText = "- " + item.pubDate + " -"
+        else {
+            //Gracias gringos por poner la fecha de RSS en formato gringo.
+            //Toma la fecha del item, y luego desgringa la fecha.
+            var dateObj = new Date(item.pubDate)
+            var ungringoedDate = dateObj.getDate()+"/"+(dateObj.getMonth()+1)+"/"+dateObj.getFullYear()
+            articleDate.innerText = "- " + ungringoedDate + " -"
+        }
         articleDiv.appendChild(articleDate)
 
         //Agrega el contenido
         const articleContent = document.createElement("p")
-        articleContent.innerText = item.description 
+        articleContent.innerHTML = item.description 
         articleDiv.appendChild(articleContent)
 
         //Agrega el link abajo de todo:
