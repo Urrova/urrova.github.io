@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Urrova's stuff </title>
-    <description>Feed de mi sitio web</description>
+    <title>Urrova's stuff</title>
+    <description>Musica extraña, Soundtracks, Modding, Videojuegos viejardos e indies, y mas??</description>
     <link>https://urrova.github.com/blog.html</link>
+
+    <item>
+      <title>Uploading Amalgoom MIDIs to Youtube</title>
+      <pubDate>06/03/2025</pubDate>
+      <link>https://youtube.com/playlist?list=PL6NqVk41LKvBqzp2oaXg51-8c6VUBTmEp&si=u3Z_c-rTgYQlNX2b</link>
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Como el titulo dice, estoy subiendo los MIDIs que hice para Amalgoom a Youtube.</p>
+        <p>Podes encontrarlos en mi canal de Youtube, y en mis playlist "Music" y "MIDIs to Doom the World"</p>
+        <p>Actualizare el sitio cuando ya los tenga todos subidos.</p>
+        <br><br>
+        <p>EN:</p>
+        <p>As the title says, I'm uploading the MIDI music i made for Amalgoom to Youtube.</p>
+        <p>You can find it on my Youtube channel, and on my "Music" and "MIDIs to Doom the World" Playlists.</p>
+        <p>I'll update the website when I finish uploading them.</p>
+        ]]>
+      </description>
+    </item>
 
     <item>
       <title>Amalgoom was Released!! | Amalgom se ha publicado!!</title>
