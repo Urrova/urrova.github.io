@@ -68,9 +68,16 @@ var rssFeed = fetchRSSFeed(rssUrl).then((rssText) => {
         else {
             //Gracias gringos por poner la fecha de RSS en formato gringo.
             //Toma la fecha del item, y luego desgringa la fecha.
+
+            //Que printeo de la fecha? Dia (nombre), Dia (numero), Mes, Año
+            var options = {
+                weekday: "long",
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+            };
             var dateObj = new Date(item.pubDate)
-            var ungringoedDate = dateObj.getDate()+"/"+(dateObj.getMonth()+1)+"/"+dateObj.getFullYear()
-            articleDate.innerText = "- " + ungringoedDate + " -"
+            articleDate.innerText = ("- " + dateObj.toLocaleDateString(undefined, options) + " -")
         }
         articleDiv.appendChild(articleDate)
 
