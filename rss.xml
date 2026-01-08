@@ -3,7 +3,29 @@
   <channel>
     <title>Urrova's stuff</title>
     <description>Musica extraña, Soundtracks, Modding, Videojuegos viejardos e indies, y mas??</description>
-    <link>https://urrova.github.com/blog.html</link>
+    <link>https://urrova.github.io/blog.html</link>
+
+    <item>
+      <title>New music: Nitroglicerin Powered</title>
+      <link>https://urrova.github.io/music.html</link>
+      <pubDate>7 Jan 2026</pubDate>
+
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Hola sigo vivo xd</p>
+        <p>Subi <b>Nitroglicerin Powered</b>, un tema que hice usando KORG M01 en un Nintendo DS Lite del 2006.</p>
+        <p>Disponible en la seccion de musica! Lo subire a youtube cuando haga una imagen para usar de cover.</p>
+        <p>Also FINALMENTE FUERA DEL DOOM!</p>
+        <br>
+        <p>EN:</p>
+        <p>Hi im still alive xd</p>
+        <p>I've uploaded <b>Nitroglicerin Powered</b>, a theme i made using KORG M01 in a Nintendo DS Lite from 2006.</p>
+        <p>I'ts available on the music section! I'll upload it to youtube when i have an image to use as a cover.</p>
+        <p>Also FINALLY OUSIDE DOOM!</p>
+        ]]>
+      </description>
+    </item>
 
     <item>
       <title>Uploaded new MIDI: All My Homies Go To Mean Street (edit 1)</title>
