@@ -13,6 +13,15 @@
 
 		<main tabindex="-1" id="main-content">
 			<h1>{{ header }}</h1>
+
+			{% if back_title %}
+
+			<p class="go_back_link">
+				 <<< <a href="{{back_url}}">Volver a: {{back_title}}</a>
+			</p> 
+
+			{% endif %}
+
 			<article>
 				{{ content | safe }}
 			</article>

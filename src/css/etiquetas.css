@@ -7,6 +7,9 @@ estilos de elementos sueltos (a, li, p, etc)
 h1, h2, h3, h4, h5, h6{
 	color: var(--title_color);
 	font-family: var(--font-title), monospace;
+}
+
+h1, h2 {
 	text-align:center;
 }
 
@@ -27,6 +30,7 @@ a:hover{
 
 hr{
 	border: 1px solid #FFFFFF;
+	margin-top:2rem;
 }
 
 li{

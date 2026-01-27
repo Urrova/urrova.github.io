@@ -1,4 +1,6 @@
 import markdownItContainer from "markdown-it-container";
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItAttrs from "markdown-it-attrs";
 
 export default function (eleventyConfig) {
 	let options = {
@@ -39,6 +41,8 @@ export default function (eleventyConfig) {
 		return "</div>\n";
 		},
 	}));
+	//eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAnchor))
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs))
 }
 
 export const config = {

@@ -21,5 +21,5 @@ Saludos desde <span class="text_green text_glitchy">La Matrix!</span> (Argentina
 - <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
 - <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
 - <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
-- <i class="fa-brands fa-soundcloud fa SVGicon"></i> [Soundcloud (muerto)](https://on.soundcloud.com/iZZQd)
+- <i class="fa-brands fa-soundcloud fa SVGicon"></i> [Soundcloud](https://on.soundcloud.com/iZZQd)
 - [Doomworld (muerto)](https://www.doomworld.com/profile/29543-urrova/)
