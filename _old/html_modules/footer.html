@@ -1,0 +1,24 @@
+<center class = "Footer">
+    <p>
+    <span id="Counter_loader"></span>
+    <script>
+        var pageurl = window.location.href.split("://")[1];
+        var counter = document.getElementById("Counter_loader");
+
+        if(window.location.hostname=="urrova.github.io"){
+            counter.innerHTML = '<a href="https://hits.sh/'+
+                                    pageurl+
+                                    '"><img alt="Hits" src="https://hits.sh/'+
+                                    pageurl+
+                                    '.svg?color=00ffff&labelColor=000000&logo=godotengine&style=for-the-badge"/></a>';
+        }
+        else{
+            //counter.innerHTML = "<p class='SmallP'>Contador deshabilitado por si no esta subido</p>"
+            counter.innerHTML = ""
+        }
+    </script>
+
+    <img src="images/buttons/doombut.gif" alt="" srcset="">
+    <img src="images/buttons/touhouproject.gif" alt="" srcset="">
+    </p>
+</center>

@@ -1,0 +1,18 @@
+{% extends "partials/navbar.html" %}
+{% block content %}
+<ul class="Navbar_Buttons_Desktop">
+    {% for item in navigation_en.items %}
+    <li><a href="{{ item.url }}" target="_parent">{{ item.text }}</a></li>
+    <li>∙</li>
+    {% endfor %}
+    <li class="idioma"><a href="/es/">español</a></li>
+</ul>
+<details class="Navbar_Buttons_Mobile">
+    <summary><p style="display:inline">Expand</p></summary>
+    {% for item in navigation.items %}
+    <p><a href="{{ item.url }}" target="_parent">{{ item.text }}</a></p>
+    {% endfor %}
+    <p>---</p>
+    <p class="idioma"><a href="/es/">español</a></p>
+</details>
+{% endblock %}

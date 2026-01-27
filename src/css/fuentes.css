@@ -1,0 +1,20 @@
+@font-face{
+	Font-Family: "OCR A";
+	src:local("OCR A Std"),
+		url("../fonts/OCR A Std.ttf");
+}
+	
+@font-face{
+	Font-Family: "DOS";
+	src: url("../fonts/DOS Win.ttf");
+}
+
+@font-face{
+	Font-Family: "C64";
+	src: url("../fonts/c-64.ttf")
+}
+
+@font-face{
+	Font-Family: "Xolonium";
+	src: url("../fonts/Xolonium-Regular.ttf");
+}

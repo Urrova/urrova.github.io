@@ -1,0 +1,30 @@
+/*
+buttons.css:
+estilos de los botones
+*/
+
+.button{
+	background-color: var(--button-background);
+	border: solid;
+	border-color: var(--button_border);
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	font-family: "DOS", monospace;
+}
+
+.button:hover{
+	background-color: var(--button-background-hover);
+	border: solid;
+	border-color: var(--button_border_hover);
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	font-family: "DOS", monospace;
+}

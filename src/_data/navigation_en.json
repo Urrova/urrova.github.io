@@ -1,0 +1,24 @@
+{
+	"items": [
+		{
+			"text": "home",
+			"url": "/en"
+		},
+		{
+			"text": "blog",
+			"url": "/en/blog/"
+		},
+		{
+			"text": "music",
+			"url": "/en/music/"
+		},
+		{
+			"text": "mods",
+			"url": "/en/mods/"
+		},
+		{
+			"text": "urrova",
+			"url": "/en/about/"
+		}
+	]
+}
