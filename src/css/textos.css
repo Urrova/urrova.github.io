@@ -75,3 +75,19 @@
 	margin: 5px;
 }
 
+.text_shaking {
+	animation-name: shaking;
+	animation-duration: 0.15s;
+	animation-timing-function:linear;
+	animation-iteration-count: infinite;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+@keyframes shaking {
+	0% { top: -2px; left: -2px;}
+	33% { top: 2px; left: -1px;}
+	66% { top: 1px; left: 2px;}
+	100% { top: -2px; left: -2px;}
+}

@@ -2,15 +2,20 @@
 title: "urrova music"
 header: "HERE MY COMPUTER MUSIC"
 layout: "layouts/base_en.html"
-background: /images/backgrounds/Dim.png
 ---
 
-I like making music dragging squares on different computer programs.
+I like making music dragging squares in different computer programs. 
 
-<a href="/en/music/vg/" class="text_link_doomed_era">THE VIDEOGAME ERA</a>
+Right now my DAW is: <span class="text_colorwarp">Waveform 13 (free)</span>
 
-<a href="/en/music/doom/" class="text_link_doomed_era">THE DOOMED ERA</a>
+⚠️⚠️⚠️ COMING SOON: SOLO MUSIC ⚠️⚠️⚠️
 
-<a href="/en/music/other/" class="text_link_other">OTHER MUSIC</a>
+[THE DOOMED ERA (collabs)](/en/music/doom_collabs/) {.text_link_doomed_era}
 
-![Under construction pikachu gif](/images/under-construction.gif)
+[THE DOOMED ERA (my own mods)](/en/music/doom/) {.text_link_doomed_era}
+
+[Other Music](/en/music/other/) {.text_link_other_music}
+
+### Download:
+
+[Download from Google Drive](https://drive.google.com/drive/folders/1RXqqmiHip-S6tNq_O-gB3SRkMmUQkpcl?usp=sharing){ .button } { .center }

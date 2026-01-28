@@ -14,6 +14,8 @@ Ahora mismo mi DAW es: <span class="text_colorwarp">Waveform 13 (free)</span>
 
 [THE DOOMED ERA (mods mios)](/es/music/doom/) {.text_link_doomed_era}
 
-[Musica Otra](/es/music/doom/) {.text_link_other_music}
+[Musica Otra](/es/music/other/) {.text_link_other_music}
 
-![Under construction pikachu gif](/images/under-construction.gif)
+### Descargas:
+
+[Descargar por Google Drive](https://drive.google.com/drive/folders/1RXqqmiHip-S6tNq_O-gB3SRkMmUQkpcl?usp=sharing){ .button } { .center }
