@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="/css/main.css">
+		<script src="https://kit.fontawesome.com/f9565b969b.js"></script>
+		<title>{{ title }}</title>
+
+		<meta name="idioma" content="english">
+	</head>
+	<body {% if background %} style="background-image: url('{{ background }}');"{% endif %}>
+		
+		{% include "partials/navbar_en.html" %}
+
+		<main tabindex="-1" id="main-content">
+			{% block content %} {{ content | safe }} {% endblock %}
+		</main>
+
+		{% include "partials/footer.html" %}
+
+		<!--js here-->
+		<script src="/js/main.js"></script>
+	</body>
+</html>

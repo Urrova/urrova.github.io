@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Urrova's stuff</title>
+    <description>Musica extraña, Soundtracks, Modding, Videojuegos viejardos e indies, y mas??</description>
+    <link>https://urrova.github.io/blog.html</link>
+
+    <item>
+      <title>Site rebuild (did you notice??)</title>
+      <link>https://urrova.github.io/en/blog</link>
+      <pubDate>29 Jan 2026 12:00:00 -0300</pubDate>
+
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Hola gente soy el Urrova, no mori todavia xd.</p>
+        <p>El sitio web esta en remodelacion, ya que me canse de tirar HTML a lo loco; lo remodele para usar un framework (11ty), para poder hacer las paginas mas rapido.</p>
+        <p>Esperen a que suba mas cosas! (voy a subir mas cosas lo juro)</p>
+        <br>
+        <p>EN:</p>
+        <p>Hi guts i'm the Urrova, i didnt died xd.</p>
+        <p>The website is in reconstruction, cause i got tired from throwing HTML like crazy; i've rebuilt it to use a framework (11ty), for making the pages of the site faster.</p>
+        <p>Expect things from me! (i'll upload more things i swear)</p>
+        ]]>
+      </description>
+    </item>
+
+    <item>
+      <title>New music: Nitroglicerin Powered</title>
+      <link>https://urrova.github.io/en/music.html</link>
+      <pubDate>7 Jan 2026 12:00:00 -0300</pubDate>
+
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Hola sigo vivo xd</p>
+        <p>Subi <b>Nitroglicerin Powered</b>, un tema que hice usando KORG M01 en un Nintendo DS Lite del 2006.</p>
+        <p>Disponible en la seccion de musica! Lo subire a youtube cuando haga una imagen para usar de cover.</p>
+        <p>Also FINALMENTE FUERA DEL DOOM!</p>
+        <br>
+        <p>EN:</p>
+        <p>Hi im still alive xd</p>
+        <p>I've uploaded <b>Nitroglicerin Powered</b>, a theme i made using KORG M01 in a Nintendo DS Lite from 2006.</p>
+        <p>I'ts available on the music section! I'll upload it to youtube when i have an image to use as a cover.</p>
+        <p>Also FINALLY OUSIDE DOOM!</p>
+        ]]>
+      </description>
+    </item>
+
+    <item>
+      <title>Uploaded new MIDI: All My Homies Go To Mean Street (edit 1)</title>
+      <link>https://www.youtube.com/watch?v=vz_9HG9Vcpk</link>
+      <pubDate>5 Jul 2025 12:00:00 -0300</pubDate>
+
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Subi un nuevo MIDI que hice para un proyecto de DOOM de Grungo llamado OUTLAND. Luego de terminarlo me canse de doom DE NUEVO. De verdad tengo que hacer cosas FUERA DE DOOM esta vez.</p>
+        <p>Esta disponible en la seccion de musica! Probablemente luego lo suba a Youtube.</p>
+        <p>EDIT: Lo subi a youtube, disponible desde el link del post.</p>
+        <br>
+        <p>EN:</p>
+        <p>I uploaded a new MIDI I made for Grungo's DOOM project named OUTLAND. After I made it i got burnout AGAIN. Really I need to do stuff OUTSIDE DOOM this time.</p>
+        <p>I'ts available on the music section! Probably i'll upload it to Youtube then.</p>
+        <p>EDIT: Uploaded it to youtube, its available from the post's link.</p>
+        ]]>
+      </description>
+    </item>
+
+    <item>
+      <title>Update: Finished uploading my Amalgoom MIDIs</title>
+      <link>https://youtube.com/playlist?list=PL6NqVk41LKvBqzp2oaXg51-8c6VUBTmEp</link>
+      <pubDate>7 Jun 2025 12:00:00 -0300</pubDate>
+      
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Buenas como andan?? Finalmente termine de subir mis MIDIs para Amalgoom a Youtube.</p>
+        <p>Podes encontrarlos en mi canal de Youtube, y en mis playlist "Music" y "MIDIs to Doom the World"</p>
+        <p>Tambien actualice las paginas de musica para que apunten a los videos de Youtube.</p>
+        <br><br>
+        <p>EN:</p>
+        <p>How are you?? Finally i finished uploading my MIDIs for Amalgoom to Youtube.</p>
+        <p>You can find it on my Youtube channel, and on my "Music" and "MIDIs to Doom the World" Playlists.</p>
+        <p>Also I updated the music pages to point to the Youtube videos.</p>
+        ]]>
+      </description>
+
+    </item>
+
+    <item>
+      <title>Uploading Amalgoom MIDIs to Youtube</title>
+      <link>https://youtube.com/playlist?list=PL6NqVk41LKvBqzp2oaXg51-8c6VUBTmEp</link>
+      <pubDate>3 Jun 2025 12:00:00 -0300</pubDate>
+     
+      <description>
+        <![CDATA[
+        <p>ES:</p>
+        <p>Como el titulo dice, estoy subiendo los MIDIs que hice para Amalgoom a Youtube.</p>
+        <p>Podes encontrarlos en mi canal de Youtube, y en mis playlist "Music" y "MIDIs to Doom the World"</p>
+        <p>Actualizare el sitio cuando ya los tenga todos subidos.</p>
+        <br><br>
+        <p>EN:</p>
+        <p>As the title says, I'm uploading the MIDI music i made for Amalgoom to Youtube.</p>
+        <p>You can find it on my Youtube channel, and on my "Music" and "MIDIs to Doom the World" Playlists.</p>
+        <p>I'll update the website when I finish uploading them.</p>
+        ]]>
+      </description>
+    </item>
+
+    <item>
+      <title>Amalgoom was Released!! | Amalgom se ha publicado!!</title>
+      <link>https://www.doomworld.com/forum/topic/152974-amalgoom-rc2-sandy-petersen-interview-premiere-05172025/</link>
+      <pubDate>10 May 2025 12:00:00 -0300</pubDate>
+
+      <description>
+        <![CDATA[
+        <br><br>
+        <img class="imagen_small" src="https://i.imgur.com/94JHCt9.png">
+        <br><br>
+        ----- SPANISH -----
+        <br><br>
+        Uno de los community projects de doom de los que participe salio literalmente ayer.
+        Es un mod de juego completo (alla en doomworld le dicen megawad) que combina cada mapa de doom y doom 2 en uno. Entonces tenes Hangar de Doom + Entryway de Doom II, etc
+        Yo colabore en este mod con 4 MIDIs que pueden encontrar en el apartado de musica del sitio.
+        <br><br>
+        ----- ENGLISH -----
+        <br><br>
+        One of the Doom community projects I participated in came out literally yesterday.
+        It's a full game mod (they call it a megawad in Doomworld) that combines every map from Doom and Doom 2 into one. So you have Hangar from Doom + Entryway from Doom II, etc.
+        I contributed to this mod with four MIDIs, which you can find in the music section of the site.
+        <br><br>
+        ]]>
+        </description>
+    </item>
+
+    <item>
+        <title>Blog basado en RSS! | RSS based blog!</title>
+        <link>https://urrova.github.io/rss.xml</link>
+        <pubDate>10 May 2025 12:00:00 -0300</pubDate>
+        <description>
+          <![CDATA[
+          <br></br>
+          Bueno gente, el sitio ahora tiene un blog porque pinto. Esta basado en la tecnologia RSS 2.0 asi que pueden agregarlo a cualquier lector disponible, seguramente el navegador que usen incluya uno. 
+          <br></br>
+          RSS es una tecnologia viejisima pero que se sigue usando por alguna razon, y muchos sitios la siguen soportando, lo cual esta muy bueno por las siguente razon:
+          <br></br>
+          <ul>
+          <li>No hay algoritmo que te recomiende huevadas random para hacerte perder el tiempo.</li>
+          <li>Para ver noticias, podes no depender de instagram/twitter/otras redes "sociales" que tienden a meterle mierda a sus aplicaciones.</li>
+          <li>Es muy facil de implementar (es parsear un XML) y es posible de hacer en un sitio sin backend como este.</li>
+          </ul>
+          ]]>
+        </description>
+    </item>
+  </channel>
+</rss>

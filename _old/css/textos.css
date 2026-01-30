@@ -1,0 +1,20 @@
+/*estilos de textos*/
+.text_red    { color:var(--text_red_color);    }
+.text_yellow { color:var(--text_yellow_color); }
+.text_green  { color:var(--text_green_color);  }
+.text_cyan   { color:var(--text_cyan_color);   }
+.text_blue   { color:var(--text_blue_color);   }
+.text_purple { color:var(--text_purple_color); }
+
+.text_console_highlighted {color:#000000; background-color: #FFFFFF;}
+
+.shaking{
+	animation: horizontal-shaking 0.15 infinite;
+}
+
+.SmallP{
+	color: #FFFFFF;
+	font-family: "DOS";
+	font-size:small;
+	margin: 5px;
+}
