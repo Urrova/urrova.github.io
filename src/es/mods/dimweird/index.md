@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > Dimensional Weirdness"
 header: "Dimensional Weirdness"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 background: "/images/backgrounds/Dim.png"
 back_title: "Mods"
 back_url: "/es/mods/"

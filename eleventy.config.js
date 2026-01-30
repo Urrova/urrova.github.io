@@ -19,6 +19,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/fonts');
 	eleventyConfig.addPassthroughCopy('src/js');
 	eleventyConfig.addPassthroughCopy('src/styles.css');
+	eleventyConfig.addPassthroughCopy('src/rss.xml');
 	
 	//Custom Blocks
 	///block

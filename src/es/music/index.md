@@ -1,7 +1,7 @@
 ---
 title: "urrova music"
 header: "AQUI MI MUSICA DE COMPUTADORA"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 ---
 
 Me gusta hacer musica arrastrando cuadrados en diferentes programas de computadora. 

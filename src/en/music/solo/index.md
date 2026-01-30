@@ -1,7 +1,7 @@
 ---
 title: "urrova music > solo"
 header: "-- URROVA MUSIXX --"
-layout: "layouts/base_es.html"
+layout: "layouts/article_en.html"
 back_title: "Musica"
 back_url: "/es/music/"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > Furdemon (someone kill me)"
 header: "Furdemon"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/Furdemon.png"
 back_title: "Mods"
 back_url: "/en/mods/"

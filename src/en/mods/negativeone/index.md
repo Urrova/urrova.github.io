@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > negativeone"
 header: "Doom -1 (NEGATIVEONE)"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/Negativeone.png"
 back_title: "Mods"
 back_url: "/en/mods/"

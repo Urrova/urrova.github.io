@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > Misc..."
 header: "Varios Mapas Sueltos"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 background: "/images/backgrounds/doomsky1.png"
 back_title: "Mods"
 back_url: "/es/mods/"

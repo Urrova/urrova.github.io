@@ -2,7 +2,7 @@
 title: "urrova mods > IMPSCAPE"
 header: "IMPSCAPE"
 header_image: "/images/impscape/BANNER_CROPPED.png"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/impscape.png"
 back_title: "Mods"
 back_url: "/en/mods/"

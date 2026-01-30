@@ -1,7 +1,7 @@
 ---
 title: "urrova music > doom"
 header: "DOOM Music"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/Dim.png"
 back_title: "Music"
 back_url: "/en/music/"

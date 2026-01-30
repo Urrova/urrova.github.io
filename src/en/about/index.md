@@ -1,7 +1,7 @@
 ---
 title: "urrova about"
 header: "... quien soy¿"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 ---
 
 No cuarteto de nos reference for english users lol.
@@ -42,7 +42,7 @@ Some music i like:
 - Videogame music (Touhou, Hotline Miami, etc)
 
 ## DOOM MODS
-I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.
+I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red" title="evil; use UZDoom now">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.
 
 IMPSCAPE WAS AN EXCESS, i'm pretty much ashamed of it. Don't take too seriously and life or death making mods for a game, don't put 2 years or something to your wad, you don't need to make the 32 maps megawad with 25000 ZScript lines to being valued. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
 

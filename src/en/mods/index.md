@@ -1,7 +1,7 @@
 ---
 title: "urrova mods"
 header: "Mods for Videogames"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/Dim.png"
 ---
 

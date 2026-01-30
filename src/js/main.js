@@ -68,18 +68,21 @@ var que = "so";
 
 //Un miniscript que cambia el texto en el marquee
 function marqueeSetter(){
-	var Marquee_Texts;
+	var Marquee_Texts = new Array();
 	switch (idioma){
-		case "ingles":
+		case "english":
 			Marquee_Texts = new Array(
 				"ULTRAKILL GOOOOOOOOOD",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"TERRARIA GODDDDDDDDDD",
-				"Unf ~ Doomguy",
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
+				"The Doom era ended; now starts....... i dunno xd",
+				"Do pe churo namen o manta dublem. Tis manama boblis. Tis bobles berra berra! Aklaba! Aklaba booptis. Emen ba depra da bapne nada. Oktis. Ba! Puro oktis, eh? Manta wanta wanta chokta ba na zur, wunto arewa bis na challa. Oto vi chur onomen ob wanta manta doblem. Emen ba temprana bapanada oktis. Munta arewa bis na challa. --Zote (Hollow Knight)",
 				"fortune | cowsay | lolcat",
 				"Overthinking, overanalyzing, separates the body from the mind; -TOOL, Lateralus. (overthinking makes you think not too realistic crap)",
 				"... seeing how society fastly turns into Akira: The Handmaid's Clockwork Black Serial Experiments Matrix 1984º Farenheit in the Shell... dont write more scifi, dont give them more ideas.",
+				"I will not die until I achieve something. Even though the ideal is high, I never give in. Therefore, I never die with regrets. --Ikaruga (2001) aka the game i'll never beat",
+				"What you are staring right now, this moving text also named \"marquee\", isnt anything more than a weapon invented by Microsoft, to defeat Netscape in the navigator wars............",
+				"I like bullet hells (suffering and ragequitting)",
 			);
 			break;
 		case "espanol":
@@ -87,11 +90,14 @@ function marqueeSetter(){
 				"ULTRAKILL GOOOOOOOOOD",
 				"MUDA MUDA ORA ORA LERO LERO GIORNOS THEME PIANO PIANO YO ANGELO PIZZA MOZZARELLARELLARELLARELLARELLARELLARELLARELLARELLARELLA",
 				"TERRARIA GODDDDDDDDDD",
-				"Unf ~ Doomguy",
-				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet porttitor magna vitae rhoncus. Donec sed lectus mollis, aliquam erat et, dapibus lacus. Curabitur aliquam sem non posuere commodo. Fusce sodales, dolor ac volutpat vehicula, dolor enim blandit sem, a feugiat magna ex hendrerit nunc. Mauris nisi ligula, ultrices ac aliquet eget, imperdiet sed ipsum. Ut pharetra sodales ante nec.",
+				"La era Doom termino; y ahora empieza...... no se xd",
+				"Do pe churo namen o manta dublem. Tis manama boblis. Tis bobles berra berra! Aklaba! Aklaba booptis. Emen ba depra da bapne nada. Oktis. Ba! Puro oktis, eh? Manta wanta wanta chokta ba na zur, wunto arewa bis na challa. Oto vi chur onomen ob wanta manta doblem. Emen ba temprana bapanada oktis. Munta arewa bis na challa. --Zote (Hollow Knight)",
 				"fortune | cowsay | lolcat",
 				"Sobrepensar, sobreanalizar, separa el cuerpo del alma; -TOOL, Lateralus. (Sobrepensar te hace pensar cosas no tan realistas que digamos)",
-				"... viendo como la sociedad rapidamente se convierte en Akira: El cuento de La Naranja Black Serial Experiments Matrix 1984º Farenheit in the Shell... no hagan mas ciencia ficcion, no les den mas ideas."
+				"... viendo como la sociedad rapidamente se convierte en Akira: El cuento de La Naranja Black Serial Experiments Matrix 1984º Farenheit in the Shell... no hagan mas ciencia ficcion, no les den mas ideas.",
+				"I will not die until I achieve something. Even though the ideal is high, I never give in. Therefore, I never die with regrets. --Ikaruga (2001) aka el juego que nunca me voy a pasar",
+				"Lo que estas mirando ahora, este texto moviendose tambien llamado \"marquee\", no es mas que un arma inventada por Microsoft, para ganarle a Netscape en la guerra de los navegadores..............",
+				"Me gustan los bullet hells (sufrir y tiltearme)",
 			);
 			break;
 	}

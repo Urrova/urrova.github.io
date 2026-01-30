@@ -1,10 +1,10 @@
 ---
 title: "urrova site"
 header: "Welcome to my website!"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 ---
 
-Greetings from <span class="text_green text_glitchy">The Matrix!</span> (Argentina) ![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png).
+Greetings from <span class="text_green text_glitchy">The Matrix!</span> (Argentina) ![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png). {.center}
 
 ---
 

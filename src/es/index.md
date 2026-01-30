@@ -1,14 +1,14 @@
 ---
 title: "urrova site"
 header: "Bienvenido a mi sitio web!"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 ---
 
-Saludos desde <span class="text_green text_glitchy">La Matrix!</span> (Argentina) ![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png).
+Saludos desde <span class="text_green text_glitchy">La Matrix!</span> (Argentina) ![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png). {.center}
 
 ---
 
-## Ahora mismo laburando en: Arreglar este sitio web que de todas formas no ve nadie lol
+## Ahora mismo trabajando en: Literalmente nada lol
 
 <div class="imagen">
     <img class="borde" src="/images/xd/el_gobierno_gobierna.webp">

@@ -6,31 +6,15 @@
 		<link rel="stylesheet" href="/css/main.css">
 		<script src="https://kit.fontawesome.com/f9565b969b.js"></script>
 		<title>{{ title }}</title>
+
+		<meta name="idioma" content="espanol">
 	</head>
 	<body {% if background %} style="background-image: url('{{ background }}');"{% endif %}>
 		
 		{% include "partials/navbar_es.html" %}
 
 		<main tabindex="-1" id="main-content">
-			<h1>
-				{% if header_image %}  
-				<img src="{{ header_image }}" class="imagen_small">  
-				{% else %} 
-				{{ header }} 
-				{% endif %} 
-			</h1>
-
-			{% if back_title %}
-
-			<p class="go_back_link">
-				 <<< <a href="{{back_url}}">Volver a: {{back_title}}</a>
-			</p> 
-
-			{% endif %}
-
-			<article>
-				{{ content | safe }}
-			</article>
+			{% block content %} {{ content | safe }} {% endblock %}
 		</main>
 
 		{% include "partials/footer.html" %}

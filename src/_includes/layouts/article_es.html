@@ -1,0 +1,22 @@
+{% extends "layouts/base_es.html" %}
+{% block content %}
+<h1>
+    {% if header_image %}  
+    <img src="{{ header_image }}" class="imagen_small">  
+    {% else %} 
+    {{ header }} 
+    {% endif %} 
+</h1>
+
+{% if back_title %}
+
+<p class="go_back_link">
+        <<< <a href="{{back_url}}">Volver a: {{back_title}}</a>
+</p> 
+
+{% endif %}
+
+<article>
+    {{ content | safe }}
+</article>
+{% endblock %}

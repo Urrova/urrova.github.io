@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > 1 sector community project"
 header: "1 Sector Community Project"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/doomsky1.png"
 back_title: "Mods"
 back_url: "/en/mods/"

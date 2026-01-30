@@ -1,7 +1,7 @@
 ---
 title: "urrova music"
 header: "HERE MY COMPUTER MUSIC"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 ---
 
 I like making music dragging squares in different computer programs. 

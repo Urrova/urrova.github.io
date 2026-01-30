@@ -1,7 +1,7 @@
 ---
 title: "urrova music > doom collabs"
 header: "DOOM Music (para collabs)"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 background: "/images/backgrounds/Dim.png"
 back_title: "Musica"
 back_url: "/es/music/"

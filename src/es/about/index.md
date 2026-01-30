@@ -1,7 +1,7 @@
 ---
 title: "urrova about"
 header: "... quien soy¿"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 ---
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
@@ -43,7 +43,7 @@ Alguna musica que me gusta:
 - OSTs de Videojuegos y Series, mientras mas dramaticos mejor (Touhou, Hotline Miami, Attack on Titan)
 
 ## MODS
-Hice como que demasiados mods para el doom. La comunidad es god y hace unos mods que parecen otros juegos completamente diferentes, y <span class="text_red">GZDoom</span> hace que el doom parezca un segundo roblox; Siendo Ancient Aliens basicamente mi mod favorito.
+Hice como que demasiados mods para el doom. La comunidad es god y hace unos mods que parecen otros juegos completamente diferentes, y <span class="text_red" title="Malvado; usen UZDoom ahora">GZDoom</span> hace que el doom parezca un segundo roblox; Siendo Ancient Aliens basicamente mi mod favorito.
 
 IMPSCAPE FUE UN EXCESO, no se tomen tan en serio y de vida o muerte hacer mods para un juego, no le pongan 2 años a un solo wad, no necesitan hacer el megawad de 32 mapas con 25000 lineas de ZScript para ser valorados. Si quieren hacer una obra maestra del doom, no la hagan solos. No sean como yo y unanse a community projects. Las obras maestras se hacen de a muchos.
 

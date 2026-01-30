@@ -1,7 +1,7 @@
 ---
 title: "urrova music > otra musica"
 header: "Otras Musicas"
-layout: "layouts/base_es.html"
+layout: "layouts/article_es.html"
 back_title: "Musica"
 back_url: "/es/music/"
 ---

@@ -2,7 +2,7 @@
 title: "urrova mods > AMALGOOM"
 header: "AMALGOOM"
 header_image: "/images/titles/amalgoom_title.png"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/doomsky1.png"
 back_title: "Mods"
 back_url: "/en/mods/"

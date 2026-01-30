@@ -1,7 +1,7 @@
 ---
 title: "urrova mods > UAC Arena"
 header: "UAC Arena"
-layout: "layouts/base_en.html"
+layout: "layouts/article_en.html"
 background: "/images/backgrounds/UACArena.png"
 back_title: "Mods"
 back_url: "/en/mods/"
