@@ -5,7 +5,9 @@
     <li><a href="{{ item.url }}" target="_parent">{{ item.text }}</a></li>
     <li>∙</li>
     {% endfor %}
-    <li class="idioma"><a href="/en/">english</a></li>
+    <li class="idioma">
+        <i class="fa-solid fa-language"></i> <a href="/en/">english</a>
+    </li>
 </ul>
 <details class="Navbar_Buttons_Mobile">
     <summary><p style="display:inline">Expandir</p></summary>
@@ -13,6 +15,8 @@
     <p><a href="{{ item.url }}" target="_parent">{{ item.text }}</a></p>
     {% endfor %}
     <p>---</p>
-    <p class="idioma"><a href="/en/">english</a></p>
+    <p class="idioma">
+        <a href="/en/"><i class="fa-solid fa-language"></i> english</a>
+    </p>
 </details>
 {% endblock %}
