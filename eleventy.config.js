@@ -11,7 +11,7 @@ export default function (eleventyConfig) {
 
 	//Input y Output
 	eleventyConfig.setInputDirectory('src');
-	eleventyConfig.setOutputDirectory('dist');
+	eleventyConfig.setOutputDirectory('docs');
 	// Set directories to pass through to the dist folder
 	eleventyConfig.addPassthroughCopy('src/images');
 	eleventyConfig.addPassthroughCopy('src/audio');
