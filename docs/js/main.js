@@ -61,11 +61,6 @@ function getMetaTag(name) {
 	return value;
 }
 
-function que(){
-	console.log("so");
-}
-var que = "so";
-
 //Un miniscript que cambia el texto en el marquee
 function marqueeSetter(){
 	var Marquee_Texts = new Array();
@@ -117,43 +112,8 @@ function linuxPathSetter() {
 	})
 }
 
-function loadHTML(elementId, filePath) {
-	fetch(filePath)
-		.then(response => {
-			if (!response.ok) {
-				throw new Error('Network response was not ok');
-			}
-			return response.text();
-		})
-		.then(data => {
-			document.getElementById(elementId).innerHTML = data;
-		})
-		.catch(error => {
-			console.error('There was a problem with the fetch operation:', error);
-		});
-}
-
-
-//Si la pagina es https://urrova.github.io/ va hacia https://urrova.github.io/index.html
-if (window.location.href == "https://urrova.github.io/"){
-	window.location.replace("https://urrova.github.io/index.html")
-}
-
 //Identifica el idioma de la pagina.
 var idioma = getMetaTag("idioma");
-
-//Carga la barra de navegacion y el footer
-//Con zepto por que jquery es pesau y cash no tiene .load
-switch (idioma){
-	case "ingles":
-		loadHTML("Navbar_loader", "html_modules/navbar.html")
-		loadHTML("Footer_loader", "html_modules/footer.html")
-		break;
-	case "espanol":
-		loadHTML("Navbar_loader", "html_modules/navbar_es.html")
-		loadHTML("Footer_loader", "html_modules/footer_es.html")
-		break;
-}
 
 ///////////////TEXTO GLITCHEADO////////////////////////////////////////////////////////////////
 //Cuando pueda arreglar esto, APRENDE MODULOS POR FAVOR ESTO SE ESTA VOLVIENDO DEMASIADO GRANDE.
@@ -193,5 +153,5 @@ window.addEventListener("load",marqueeSetter);
 window.addEventListener("load",linuxPathSetter);
 //window.addEventListener("load",build_youtube_loaders);
 
-//console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
-console.log("Puto el que lee + Comiste 👌 + 13 mas me crece + Respiracion automatica desactivada + Parpadeo automatico desactivado + Tragar saliva automatico desactivado + Tu nariz esta entre tus ojos + Torsion testicular automatica activada + Tu ropa te esta tocando + La mente es el resultado de algo fisiologico que sucede fisicamente dentro de tu cabeza + Todo son atomos ordenados de pura casualidad, la vida es una cadena de casualidades y podria tranquilamente no ser asi.");
+console.log("            .--------._\n           (`--'       `-.\n            `.______      `.\n         ___________`__     \\\n      ,-'           `-.\     |\n     //                \\|    |\\\n    (`  .'~~~~~---\\     \\'   | |\n     `-'           )     \   | |\n        ,---------' - -.  `  . '\n      ,'             `%`\\`     |\n     /                      \\  |\n    /     \\-----.         \\    `\n   /|  ,_/      '-._            |\n  (-'  /           /            `     \n  ,`--<           |        \\     \\\n  \\ |  \\         /%%             `\\\n   |/   \\____---'--`%        \\     \\\n   |    '           `               \\\n   |\n    `--.__\n          `---._______\n                      `.\n                        \\             ");
+console.log("Puto el que lee + Comiste 👌 + 13 mas me crece + Respiracion automatica desactivada + Parpadeo automatico desactivado + Tragar saliva automatico desactivado + Tu nariz esta entre tus ojos + Torsion testicular automatica activada + Tu ropa te esta tocando + La mente es el resultado de algo fisiologico que sucede fisicamente dentro de tu cabeza + Todo son atomos ordenados de pura casualidad, la vida es una cadena de casualidades y podria tranquilamente no ser asi + estas hecho de atomos de carbono e hidrogeno, cada uno identico al otro.");
