@@ -1,0 +1,19 @@
+{# Only renders this section if there are links to render #}
+{% if pagination.href.next or pagination.href.previous %}
+	<div class="pagination center">
+		<div class="wrapper">
+			<div class="pagination__inner" aria-label="Pagination links">
+				{% if pagination.href.previous %}
+					<a href="{{ pagination.href.previous }}{{ paginationAnchor }}" data-direction="backwards">
+						<span>{{ paginationPrevText if paginationPrevText else '<--' }}</span>
+					</a>
+				{% endif %}
+				{% if pagination.href.next %}
+					<a href="{{ pagination.href.next }}{{ paginationAnchor }}" data-direction="forwards">
+						<span>{{ paginationNextText if paginationNextText else '-->' }}</span>
+					</a>
+				{% endif %}
+            </div>
+		</div>
+	</div>
+{% endif %}

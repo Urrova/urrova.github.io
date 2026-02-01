@@ -44,6 +44,16 @@ export default function (eleventyConfig) {
 	}));
 	//eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAnchor))
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs))
+
+
+	// Colecciones
+	// Blog
+	eleventyConfig.addCollection('blog_en', (collection) => {
+		return [...collection.getFilteredByGlob('./src/en/blog/posts/*.md')].reverse();
+	});
+	eleventyConfig.addCollection('blog_es', (collection) => {
+		return [...collection.getFilteredByGlob('./src/es/blog/posts/*.md')].reverse();
+	});
 }
 
 export const config = {
