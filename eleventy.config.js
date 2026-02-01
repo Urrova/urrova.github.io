@@ -1,6 +1,7 @@
 import markdownItContainer from "markdown-it-container";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
+import pluginRss from "@11ty/eleventy-plugin-rss"
 
 export default function (eleventyConfig) {
 	let options = {
@@ -44,7 +45,7 @@ export default function (eleventyConfig) {
 	}));
 	//eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAnchor))
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs))
-
+	eleventyConfig.addPlugin(pluginRss);
 
 	// Colecciones
 	// Blog

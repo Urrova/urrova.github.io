@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Urrova&#39;s stuff</title>
+	<subtitle>Musica extraña, Soundtracks, Modding, Videojuegos viejardos e indies, y mas?</subtitle>
+	<link href="/es/feed.xml" rel="self"/>
+	<link href="/"/>
+	<updated>2026-01-29T00:00:00Z</updated>
+	<id></id>
+	<author>
+		<name>Urrova</name>
+		<email></email>
+	</author>
+	
+		
+		<entry>
+			<title>Rebuild del sitio (se dieron cuenta?)</title>
+			<link href="/es/blog/posts/2026-01-29-site-rebuild/"/>
+			<updated>2026-01-29T00:00:00Z</updated>
+			<id>/es/blog/posts/2026-01-29-site-rebuild/</id>
+			<content type="html"><![CDATA[
+				<p>Hola gente soy el Urrova, no mori todavia xd.</p>
+<p>El sitio web esta en remodelacion, ya que me canse de tirar HTML a lo loco; lo remodele para usar un framework (11ty), para poder hacer las paginas mas rapido.</p>
+<p>Esperen a que suba mas cosas! (voy a subir mas cosas lo juro)</p>
+
+			]]></content>
+		</entry>
+	
+		
+		<entry>
+			<title>Nueva musica: Nitroglicerin Powered</title>
+			<link href="/es/blog/posts/2026-01-06-nitroglicerin-powered/"/>
+			<updated>2026-01-06T00:00:00Z</updated>
+			<id>/es/blog/posts/2026-01-06-nitroglicerin-powered/</id>
+			<content type="html"><![CDATA[
+				<p>Hola sigo vivo xd</p>
+<p>Subi <strong>Nitroglicerin Powered</strong>, un tema que hice usando KORG M01 en un Nintendo DS Lite del 2006.</p>
+<p>Disponible en la seccion de musica! Lo subire a youtube cuando haga una imagen para usar de cover.</p>
+<p>Also FINALMENTE FUERA DEL DOOM!</p>
+
+			]]></content>
+		</entry>
+	
+		
+		<entry>
+			<title>Subi nuevo MIDI: All My Homies Go To Mean Street</title>
+			<link href="/es/blog/posts/2025-07-05-all-my-homies/"/>
+			<updated>2025-07-05T00:00:00Z</updated>
+			<id>/es/blog/posts/2025-07-05-all-my-homies/</id>
+			<content type="html"><![CDATA[
+				<p>Subi un nuevo MIDI que hice para un proyecto de DOOM de Grungo llamado OUTLAND. Luego de terminarlo me canse de doom DE NUEVO. De verdad tengo que hacer cosas FUERA DE DOOM esta vez.</p>
+<p>Esta disponible en la seccion de musica! Probablemente luego lo suba a Youtube.</p>
+<p>EDIT: Lo subi a youtube, disponible desde <a href="https://www.youtube.com/watch?v=vz_9HG9Vcpk">el link del post</a>.</p>
+
+			]]></content>
+		</entry>
+	
+		
+		<entry>
+			<title>Subiendo los MIDIs de Amalgoom a Youtube</title>
+			<link href="/es/blog/posts/2025-06-03-uploading-amalgoom-midis/"/>
+			<updated>2025-05-10T00:00:00Z</updated>
+			<id>/es/blog/posts/2025-06-03-uploading-amalgoom-midis/</id>
+			<content type="html"><![CDATA[
+				<p>Como el titulo dice, estoy subiendo los MIDIs que hice para Amalgoom a Youtube.</p>
+<p>Podes encontrarlos en mi canal de Youtube, y en mis playlist &quot;Music&quot; y &quot;MIDIs to Doom the World&quot;</p>
+<p>Actualizare el sitio cuando ya los tenga todos subidos.</p>
+<h4>UPDATE 7-6-2025</h4>
+<p>Buenas como andan?? Finalmente termine de subir mis MIDIs para Amalgoom a Youtube.</p>
+<p>Podes encontrarlos en mi canal de Youtube, y en mis playlist &quot;Music&quot; y &quot;MIDIs to Doom the World&quot;</p>
+<p>Tambien actualice las paginas de musica para que apunten a los videos de Youtube.</p>
+<p>Podes escuchar los MIDIs en la <a href="https://youtube.com/playlist?list=PL6NqVk41LKvBqzp2oaXg51-8c6VUBTmEp">playlist de youtube</a> o si no desde la <a href="/es/music/doom_collabs">pagina de musica del sitio.</a></p>
+
+			]]></content>
+		</entry>
+	
+		
+		<entry>
+			<title>Amalgoom se ha publicado!</title>
+			<link href="/es/blog/posts/2025-05-10-amalgoom-was-released/"/>
+			<updated>2025-05-10T00:00:00Z</updated>
+			<id>/es/blog/posts/2025-05-10-amalgoom-was-released/</id>
+			<content type="html"><![CDATA[
+				<p><img src="https://i.imgur.com/94JHCt9.png" alt="AMALGOOM Banner" class="imagen_small"></p>
+<p>Uno de los community projects de doom de los que participe salio literalmente ayer.</p>
+<p>Es un mod de juego completo (alla en doomworld le dicen megawad) que combina cada mapa de doom y doom 2 en uno. Entonces tenes Hangar de Doom + Entryway de Doom II, etc</p>
+<p>Yo colabore en este mod con 4 MIDIs que pueden encontrar en el apartado de musica del sitio.</p>
+<p>Quieres probar el mod? <a href="https://www.doomworld.com/forum/topic/152974-amalgoom-rc2-sandy-petersen-interview-premiere-05172025/">Descargalo desde el hilo de Doomworld</a></p>
+
+			]]></content>
+		</entry>
+	
+</feed>

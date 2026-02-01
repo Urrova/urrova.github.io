@@ -1,0 +1,30 @@
+---
+title: "Urrova's stuff"
+summary: 'Strange music, Soundtracks, Modding, Old AF videogamees, and more??'
+permalink: '/en/feed.xml'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>{{ title }}</title>
+	<subtitle>{{ summary }}</subtitle>
+	<link href="{{ site.url }}{{ permalink }}" rel="self"/>
+	<link href="{{ site.url }}/"/>
+	<updated>{{ collections.blog_en | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+	<id>{{ site.url }}</id>
+	<author>
+		<name>{{ site.authorName }}</name>
+		<email>{{ site.authorEmail }}</email>
+	</author>
+	{% for post in collections.blog_en %}
+		{% set absolutePostUrl %}{{ site.url }}{{ post.url | url }}{% endset %}
+		<entry>
+			<title>{{ post.data.title }}</title>
+			<link href="{{ absolutePostUrl }}"/>
+			<updated>{{ post.date | dateToRfc3339 }}</updated>
+			<id>{{ absolutePostUrl }}</id>
+			<content type="html"><![CDATA[
+				{{ post.templateContent | safe }}
+			]]></content>
+		</entry>
+	{% endfor %}
+</feed>
