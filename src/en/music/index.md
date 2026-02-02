@@ -16,6 +16,14 @@ Right now my DAW is: <span class="text_colorwarp">Waveform 13 (free)</span>
 
 [Other Music](/en/music/other/) {.text_link_other_music}
 
+
+::: code
+**About licencing:**{.text_green} The licencing varies. 
+- The MIDI music is licensed under **CC-BY-SA**.
+- The Audio music made for doom projects is **CC-BY-ND**.
+- For the rest you have to ask.
+:::
+
 ### Download:
 
 [Download from Google Drive](https://drive.google.com/drive/folders/1RXqqmiHip-S6tNq_O-gB3SRkMmUQkpcl?usp=sharing){ .button } { .center }

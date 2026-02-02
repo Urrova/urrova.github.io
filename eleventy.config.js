@@ -2,6 +2,9 @@ import markdownItContainer from "markdown-it-container";
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
 import pluginRss from "@11ty/eleventy-plugin-rss"
+import htmlmin from 'html-minifier-next';
+
+const isProduction = process.env.NODE_ENV === 'production';
 
 export default function (eleventyConfig) {
 	let options = {
@@ -21,7 +24,18 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/js');
 	eleventyConfig.addPassthroughCopy('src/styles.css');
 	eleventyConfig.addPassthroughCopy('src/rss.xml');
+	eleventyConfig.addPassthroughCopy('src/404.html');
+	eleventyConfig.addPassthroughCopy('src/favicon.png');
 	
+	// Colecciones
+	// Blog
+	eleventyConfig.addCollection('blog_en', (collection) => {
+		return [...collection.getFilteredByGlob('./src/en/blog/posts/*.md')].reverse();
+	});
+	eleventyConfig.addCollection('blog_es', (collection) => {
+		return [...collection.getFilteredByGlob('./src/es/blog/posts/*.md')].reverse();
+	});
+
 	//Custom Blocks
 	///block
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItContainer, "block", {
@@ -47,14 +61,21 @@ export default function (eleventyConfig) {
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs))
 	eleventyConfig.addPlugin(pluginRss);
 
-	// Colecciones
-	// Blog
-	eleventyConfig.addCollection('blog_en', (collection) => {
-		return [...collection.getFilteredByGlob('./src/en/blog/posts/*.md')].reverse();
+	//Transforms
+	if (isProduction) {
+	eleventyConfig.addTransform('htmlmin', function (content) {
+		if ((this.page.outputPath || '').endsWith('.html')) {
+			return htmlmin.minify(content, {
+				useShortDoctype: true,
+				removeComments: true,
+				collapseWhitespace: true,
+			});
+		}
+		return content;
 	});
-	eleventyConfig.addCollection('blog_es', (collection) => {
-		return [...collection.getFilteredByGlob('./src/es/blog/posts/*.md')].reverse();
-	});
+}
+
+	
 }
 
 export const config = {

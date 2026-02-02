@@ -48,3 +48,12 @@ audio {
 	margin: auto;
 	object-fit: contain;
 }
+
+blockquote {
+	border-left: 5px solid var(--box_color);
+	margin-left: 1rem;
+}
+
+blockquote p {
+	margin-left: 1rem;
+}

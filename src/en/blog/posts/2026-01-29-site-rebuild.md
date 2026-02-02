@@ -13,3 +13,5 @@ Hi guys i'm the Urrova, i didnt die xd.
 The website is in reconstruction, cause i got tired from throwing HTML like crazy; i've rebuilt it to use a framework (11ty), for making the pages of the site faster.
 
 Expect things from me! (i'll upload more things i swear).
+
+> And they ask, why using 11ty and not what the Normals use a.k.a React? Cause i dont have money for a server with backend :(

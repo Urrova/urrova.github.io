@@ -13,3 +13,5 @@ Hola gente soy el Urrova, no mori todavia xd.
 El sitio web esta en remodelacion, ya que me canse de tirar HTML a lo loco; lo remodele para usar un framework (11ty), para poder hacer las paginas mas rapido.
 
 Esperen a que suba mas cosas! (voy a subir mas cosas lo juro)
+
+> Y dicen, por que 11ty si pudiste usar lo que usan los normales a.k.a React???  Porque no hay plata para un server con backend :(

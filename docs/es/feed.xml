@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Urrova&#39;s stuff</title>
 	<subtitle>Musica extraña, Soundtracks, Modding, Videojuegos viejardos e indies, y mas?</subtitle>
-	<link href="/es/feed.xml" rel="self"/>
-	<link href="/"/>
+	<link href="https://urrova.github.io/es/feed.xml" rel="self"/>
+	<link href="https://urrova.github.io/"/>
 	<updated>2026-01-29T00:00:00Z</updated>
-	<id></id>
+	<id>https://urrova.github.io</id>
 	<author>
 		<name>Urrova</name>
 		<email></email>
@@ -14,13 +14,16 @@
 		
 		<entry>
 			<title>Rebuild del sitio (se dieron cuenta?)</title>
-			<link href="/es/blog/posts/2026-01-29-site-rebuild/"/>
+			<link href="https://urrova.github.io/es/blog/posts/2026-01-29-site-rebuild/"/>
 			<updated>2026-01-29T00:00:00Z</updated>
-			<id>/es/blog/posts/2026-01-29-site-rebuild/</id>
+			<id>https://urrova.github.io/es/blog/posts/2026-01-29-site-rebuild/</id>
 			<content type="html"><![CDATA[
 				<p>Hola gente soy el Urrova, no mori todavia xd.</p>
 <p>El sitio web esta en remodelacion, ya que me canse de tirar HTML a lo loco; lo remodele para usar un framework (11ty), para poder hacer las paginas mas rapido.</p>
 <p>Esperen a que suba mas cosas! (voy a subir mas cosas lo juro)</p>
+<blockquote>
+<p>Y dicen, por que 11ty si pudiste usar lo que usan los normales a.k.a React???  Porque no hay plata para un server con backend :(</p>
+</blockquote>
 
 			]]></content>
 		</entry>
@@ -28,9 +31,9 @@
 		
 		<entry>
 			<title>Nueva musica: Nitroglicerin Powered</title>
-			<link href="/es/blog/posts/2026-01-06-nitroglicerin-powered/"/>
+			<link href="https://urrova.github.io/es/blog/posts/2026-01-06-nitroglicerin-powered/"/>
 			<updated>2026-01-06T00:00:00Z</updated>
-			<id>/es/blog/posts/2026-01-06-nitroglicerin-powered/</id>
+			<id>https://urrova.github.io/es/blog/posts/2026-01-06-nitroglicerin-powered/</id>
 			<content type="html"><![CDATA[
 				<p>Hola sigo vivo xd</p>
 <p>Subi <strong>Nitroglicerin Powered</strong>, un tema que hice usando KORG M01 en un Nintendo DS Lite del 2006.</p>
@@ -43,9 +46,9 @@
 		
 		<entry>
 			<title>Subi nuevo MIDI: All My Homies Go To Mean Street</title>
-			<link href="/es/blog/posts/2025-07-05-all-my-homies/"/>
+			<link href="https://urrova.github.io/es/blog/posts/2025-07-05-all-my-homies/"/>
 			<updated>2025-07-05T00:00:00Z</updated>
-			<id>/es/blog/posts/2025-07-05-all-my-homies/</id>
+			<id>https://urrova.github.io/es/blog/posts/2025-07-05-all-my-homies/</id>
 			<content type="html"><![CDATA[
 				<p>Subi un nuevo MIDI que hice para un proyecto de DOOM de Grungo llamado OUTLAND. Luego de terminarlo me canse de doom DE NUEVO. De verdad tengo que hacer cosas FUERA DE DOOM esta vez.</p>
 <p>Esta disponible en la seccion de musica! Probablemente luego lo suba a Youtube.</p>
@@ -57,9 +60,9 @@
 		
 		<entry>
 			<title>Subiendo los MIDIs de Amalgoom a Youtube</title>
-			<link href="/es/blog/posts/2025-06-03-uploading-amalgoom-midis/"/>
+			<link href="https://urrova.github.io/es/blog/posts/2025-06-03-uploading-amalgoom-midis/"/>
 			<updated>2025-05-10T00:00:00Z</updated>
-			<id>/es/blog/posts/2025-06-03-uploading-amalgoom-midis/</id>
+			<id>https://urrova.github.io/es/blog/posts/2025-06-03-uploading-amalgoom-midis/</id>
 			<content type="html"><![CDATA[
 				<p>Como el titulo dice, estoy subiendo los MIDIs que hice para Amalgoom a Youtube.</p>
 <p>Podes encontrarlos en mi canal de Youtube, y en mis playlist &quot;Music&quot; y &quot;MIDIs to Doom the World&quot;</p>
@@ -76,9 +79,9 @@
 		
 		<entry>
 			<title>Amalgoom se ha publicado!</title>
-			<link href="/es/blog/posts/2025-05-10-amalgoom-was-released/"/>
+			<link href="https://urrova.github.io/es/blog/posts/2025-05-10-amalgoom-was-released/"/>
 			<updated>2025-05-10T00:00:00Z</updated>
-			<id>/es/blog/posts/2025-05-10-amalgoom-was-released/</id>
+			<id>https://urrova.github.io/es/blog/posts/2025-05-10-amalgoom-was-released/</id>
 			<content type="html"><![CDATA[
 				<p><img src="https://i.imgur.com/94JHCt9.png" alt="AMALGOOM Banner" class="imagen_small"></p>
 <p>Uno de los community projects de doom de los que participe salio literalmente ayer.</p>

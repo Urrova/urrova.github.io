@@ -6,9 +6,10 @@
 		<link rel="stylesheet" href="/css/main.css">
 		<link href="/es/feed.xml" rel="alternate" title="Urrova's RSS (Atom) feed" type="application/atom+xml">
 		<script src="https://kit.fontawesome.com/f9565b969b.js"></script>
-		<title>{{ title }}</title>
 
 		<meta name="idioma" content="espanol">
+
+		{% include "partials/meta-info.html" %}
 	</head>
 	<body {% if background %} style="background-image: url('{{ background }}');"{% endif %}>
 		

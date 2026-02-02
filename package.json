@@ -1,11 +1,13 @@
 {
 	"scripts": {
 		"start": "eleventy --serve",
-		"build": "eleventy"
+		"build": "eleventy",
+		"production": "NODE_ENV=production npm run build"
 	},
 	"type": "module",
 	"dependencies": {
 		"@11ty/eleventy": "^3.1.2",
+		"html-minifier-next": "^4.19.1",
 		"markdown-it-anchor": "^9.2.0",
 		"markdown-it-attrs": "^4.3.1",
 		"markdown-it-container": "^4.0.0"

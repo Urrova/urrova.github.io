@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Urrova&#39;s stuff</title>
 	<subtitle>Strange music, Soundtracks, Modding, Old AF videogamees, and more??</subtitle>
-	<link href="/en/feed.xml" rel="self"/>
-	<link href="/"/>
+	<link href="https://urrova.github.io/en/feed.xml" rel="self"/>
+	<link href="https://urrova.github.io/"/>
 	<updated>2026-01-29T00:00:00Z</updated>
-	<id></id>
+	<id>https://urrova.github.io</id>
 	<author>
 		<name>Urrova</name>
 		<email></email>
@@ -14,13 +14,16 @@
 		
 		<entry>
 			<title>Site rebuild (did you notice??)</title>
-			<link href="/en/blog/posts/2026-01-29-site-rebuild/"/>
+			<link href="https://urrova.github.io/en/blog/posts/2026-01-29-site-rebuild/"/>
 			<updated>2026-01-29T00:00:00Z</updated>
-			<id>/en/blog/posts/2026-01-29-site-rebuild/</id>
+			<id>https://urrova.github.io/en/blog/posts/2026-01-29-site-rebuild/</id>
 			<content type="html"><![CDATA[
 				<p>Hi guys i'm the Urrova, i didnt die xd.</p>
 <p>The website is in reconstruction, cause i got tired from throwing HTML like crazy; i've rebuilt it to use a framework (11ty), for making the pages of the site faster.</p>
 <p>Expect things from me! (i'll upload more things i swear).</p>
+<blockquote>
+<p>And they ask, why using 11ty and not what the Normals use a.k.a React? Cause i dont have money for a server with backend :(</p>
+</blockquote>
 
 			]]></content>
 		</entry>
@@ -28,9 +31,9 @@
 		
 		<entry>
 			<title>New music: Nitroglicerin Powered</title>
-			<link href="/en/blog/posts/2026-01-06-nitroglicerin-powered/"/>
+			<link href="https://urrova.github.io/en/blog/posts/2026-01-06-nitroglicerin-powered/"/>
 			<updated>2026-01-06T00:00:00Z</updated>
-			<id>/en/blog/posts/2026-01-06-nitroglicerin-powered/</id>
+			<id>https://urrova.github.io/en/blog/posts/2026-01-06-nitroglicerin-powered/</id>
 			<content type="html"><![CDATA[
 				<p>Hi im still alive xd</p>
 <p>I've uploaded <b>Nitroglicerin Powered</b>, a theme i made using KORG M01 in a Nintendo DS Lite from 2006.</p>
@@ -43,9 +46,9 @@
 		
 		<entry>
 			<title>Uploaded new MIDI: All My Homies Go To Mean Street</title>
-			<link href="/en/blog/posts/2025-07-05-all-my-homies/"/>
+			<link href="https://urrova.github.io/en/blog/posts/2025-07-05-all-my-homies/"/>
 			<updated>2025-07-05T00:00:00Z</updated>
-			<id>/en/blog/posts/2025-07-05-all-my-homies/</id>
+			<id>https://urrova.github.io/en/blog/posts/2025-07-05-all-my-homies/</id>
 			<content type="html"><![CDATA[
 				<p>I uploaded a new MIDI I made for Grungo's DOOM project named OUTLAND. After I made it i got burnout AGAIN. Really I need to do stuff OUTSIDE DOOM this time.</p>
 <p>I'ts available on the music section! Probably i'll upload it to Youtube then.</p>
@@ -57,9 +60,9 @@
 		
 		<entry>
 			<title>Uploading Amalgoom MIDIs to Youtube</title>
-			<link href="/en/blog/posts/2025-06-03-uploading-amalgoom-midis/"/>
+			<link href="https://urrova.github.io/en/blog/posts/2025-06-03-uploading-amalgoom-midis/"/>
 			<updated>2025-05-10T00:00:00Z</updated>
-			<id>/en/blog/posts/2025-06-03-uploading-amalgoom-midis/</id>
+			<id>https://urrova.github.io/en/blog/posts/2025-06-03-uploading-amalgoom-midis/</id>
 			<content type="html"><![CDATA[
 				<p>As the title says, I'm uploading the MIDI music i made for Amalgoom to Youtube.</p>
 <p>You can find it on my Youtube channel, and on my &quot;Music&quot; and &quot;MIDIs to Doom the World&quot; Playlists.</p>
@@ -76,9 +79,9 @@
 		
 		<entry>
 			<title>Amalgoom was Released!!</title>
-			<link href="/en/blog/posts/2025-05-10-amalgoom-was-released/"/>
+			<link href="https://urrova.github.io/en/blog/posts/2025-05-10-amalgoom-was-released/"/>
 			<updated>2025-05-10T00:00:00Z</updated>
-			<id>/en/blog/posts/2025-05-10-amalgoom-was-released/</id>
+			<id>https://urrova.github.io/en/blog/posts/2025-05-10-amalgoom-was-released/</id>
 			<content type="html"><![CDATA[
 				<p><img src="https://i.imgur.com/94JHCt9.png" alt="AMALGOOM Banner" class="imagen_small"></p>
 <p>One of the Doom community projects I participated in came out literally yesterday.</p>

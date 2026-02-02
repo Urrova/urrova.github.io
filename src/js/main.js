@@ -137,7 +137,10 @@ function glitchyText(){
         for (var j = 0; j < glitchyLetters; j++) {
 			var t = texts[i].innerText.split("");
 			var charToReplace = getRandomInt(0, textLenght-1)
-			t[charToReplace] = String.fromCharCode(getRandomInt(32,127));
+			//Si es un espacio no lo cambia. Esto para que no rompa toda la pagina
+			if (t[charToReplace] == " ") 
+				continue;
+			t[charToReplace] = String.fromCharCode(getRandomInt(33,125));
 			t = t.join("");
 			texts[i].innerText = t;
         }
