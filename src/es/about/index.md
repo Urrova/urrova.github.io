@@ -9,7 +9,7 @@ layout: "layouts/article_es.html"
 Soy un chabon que vive en <span class="text_green text_glitchy">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. Ahora mismo hago musica, mods de videojuegos, e intento vivir la vida (sin exito).
 
 ## VIDEOJUEGOS
-Amo los juegos de computadora. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
+Soy de los que les gusta desperdiciar su vida jugando videojuegos :p. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
 
 Luego descubri el Increible Mundo de los Videojuegos Indie, los Indies de Clase Alta, como Castle Crashers y 2hu, y los Indies de Clase baja como los juegos random de itch.io hechos por gente random en su casa.
 
