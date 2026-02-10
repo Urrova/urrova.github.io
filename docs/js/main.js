@@ -75,7 +75,7 @@ function marqueeSetter(){
 				"fortune | cowsay | lolcat",
 				"Overthinking, overanalyzing, separates the body from the mind; -TOOL, Lateralus. (overthinking makes you think not too realistic crap)",
 				"... seeing how society fastly turns into Akira: The Handmaid's Clockwork Black Serial Experiments Matrix 1984º Farenheit in the Shell... dont write more scifi, dont give them more ideas.",
-				"I will not die until I achieve something. Even though the ideal is high, I never give in. Therefore, I never die with regrets. --Ikaruga (2001) aka the game i'll never beat",
+				"I will not die until I achieve something. Even though the ideal is WHAT THE FUCK IS THAT STAGE 3!!?? --Ikaruga (2001) aka the game i'll never beat",
 				"What you are staring right now, this moving text also named \"marquee\", isnt anything more than a weapon invented by Microsoft, to defeat Netscape in the navigator wars............",
 				"I like bullet hells (suffering and ragequitting)",
 			);
@@ -90,7 +90,7 @@ function marqueeSetter(){
 				"fortune | cowsay | lolcat",
 				"Sobrepensar, sobreanalizar, separa el cuerpo del alma; -TOOL, Lateralus. (Sobrepensar te hace pensar cosas no tan realistas que digamos)",
 				"... viendo como la sociedad rapidamente se convierte en Akira: El cuento de La Naranja Black Serial Experiments Matrix 1984º Farenheit in the Shell... no hagan mas ciencia ficcion, no les den mas ideas.",
-				"I will not die until I achieve something. Even though the ideal is high, I never give in. Therefore, I never die with regrets. --Ikaruga (2001) aka el juego que nunca me voy a pasar",
+				"I will not die until I achieve something. Even though the ideal is QUE CARAJO ES ESE STAGE 3!!?? --Ikaruga (2001) aka el juego que nunca me voy a pasar",
 				"Lo que estas mirando ahora, este texto moviendose tambien llamado \"marquee\", no es mas que un arma inventada por Microsoft, para ganarle a Netscape en la guerra de los navegadores..............",
 				"Me gustan los bullet hells (sufrir y tiltearme)",
 			);

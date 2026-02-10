@@ -3,7 +3,7 @@ title: "urrova site > blog"
 layout: 'layouts/blog_feed_en.html'
 pagination:
   data: collections.blog_en
-  size: 5
+  size: 10
 permalink: 'en/blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html'
 paginationPrevText: '<-- Prev'
 paginationNextText: 'Next -->'

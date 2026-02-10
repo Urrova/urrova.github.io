@@ -1,8 +1,8 @@
 import markdownItContainer from "markdown-it-container";
-import markdownItAnchor from "markdown-it-anchor";
 import markdownItAttrs from "markdown-it-attrs";
 import pluginRss from "@11ty/eleventy-plugin-rss"
 import htmlmin from 'html-minifier-next';
+import { parse } from "@11ty/parse-date-strings"
 
 const isProduction = process.env.NODE_ENV === 'production';
 
@@ -27,7 +27,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/404.html');
 	eleventyConfig.addPassthroughCopy('src/favicon.png');
 	
-	// Colecciones
+	///////////////////////////// Colecciones ////////////////////////////////////////
 	// Blog
 	eleventyConfig.addCollection('blog_en', (collection) => {
 		return [...collection.getFilteredByGlob('./src/en/blog/posts/*.md')].reverse();
@@ -36,7 +36,13 @@ export default function (eleventyConfig) {
 		return [...collection.getFilteredByGlob('./src/es/blog/posts/*.md')].reverse();
 	});
 
-	//Custom Blocks
+	///////////////////////// Filters ////////////////////////////////
+
+	eleventyConfig.addFilter("postDate", (dateObj) => {
+		return parse(dateObj).toLocaleDateString("es")
+	});
+
+	///////////////////////////// Custom Blocks /////////////////////////////////////
 	///block
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItContainer, "block", {
 		render(tokens, idx) {
@@ -61,7 +67,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs))
 	eleventyConfig.addPlugin(pluginRss);
 
-	//Transforms
+	//////////////////////// Transforms ///////////////////////////////
 	if (isProduction) {
 	eleventyConfig.addTransform('htmlmin', function (content) {
 		if ((this.page.outputPath || '').endsWith('.html')) {

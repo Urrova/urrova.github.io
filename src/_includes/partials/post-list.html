@@ -9,7 +9,7 @@
 				{% for item in postListItems %}
 				<article class="[ post-list__item ] [ leading-tight measure-long ]">
 					<p>
-                        📰 <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a> - {{item.data.date}}
+                        📰 <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a> - {{item.data.date | postDate}}
                     </p>
                 </article>
 				{% endfor %}

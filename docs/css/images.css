@@ -3,8 +3,11 @@ images.css:
 estilos relacionados con las imagenes
 */
 
-img {
-	height: 100%;
+.imagen img, .imagen_small img {
+	max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 .imagen{
@@ -25,14 +28,13 @@ img {
 
 @media screen and (max-width: 600px) {
 	.imagen{
-		/*width: 95%;*/
-		width: 100%;
+		width: 95%;
 		height: auto;
 		object-fit: contain;
 	}
 
 	.imagen_small{
-		width: 95%;
+		width: 90%;
 		height: auto;
 		object-fit: contain;
 	}
