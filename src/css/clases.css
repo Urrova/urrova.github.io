@@ -42,7 +42,7 @@ ul.code_box{
 
 .code_box li{
 	color: #FFFFFF;
-	font-family: "DOS";
+	font-family: var(--font-text);
 }
 
 

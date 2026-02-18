@@ -44,13 +44,13 @@ nav ul li:hover{
 
 nav ul li a{
 	color: var(--navbar_link);
-	font-family: "DOS";
+	font-family: var(--font-text);
 	text-decoration: none;
 }
 
 nav ul li a:hover{
 	color: var(--navbar_link_hover);
-	font-family: "DOS";
+	font-family: var(--font-text);
 	text-decoration: underline;
 }
 
@@ -70,7 +70,7 @@ nav hr{
 
 .Navbar_Buttons_Mobile p a{
 	color: #FFFFFF;
-	font-family: "DOS";
+	font-family: var(--font-text);
 	text-decoration: none;
 }
 

@@ -13,4 +13,6 @@ paginationAnchor: '#post-list'
 # Blog
 This says its a blog but it kinda is a changelog of the site. {.center}
 
-You can subscribe to it from <i class="fa-solid fa-rss SVGicon"></i> [my RSS channel](/en/feed.xml) (if you are so nerd to have an RSS reader lol). {.center}
+You can subscribe to my blog with <i class="fa-solid fa-rss SVGicon"></i> [my RSS channel](/en/feed.xml) <span class="SmallP">(<a href="https://aboutfeeds.com/" >what is this?</a>)</span> {.center}
+
+Don't like RSS? Cross posting is planned for... someday xd {.center}

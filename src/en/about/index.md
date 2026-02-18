@@ -6,10 +6,12 @@ layout: "layouts/article_en.html"
 
 No cuarteto de nos reference for english users lol.
 
-I'm a guy that lives in <span class="text_green text_glitchy">The MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. Right now i make music, make game mods, and try to live life (unsucessfully).
+I'm a guy that lives in <span class="text_green text_glitchy">The MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
+
+I dont know what I'm really doing with my life, so i try making music, game mods, and try to live life (unsucessfully).
 
 ## VIDEOGAMES
-As i see i luve computer gaems. I started playing videogames with shit hardware so i ended being what in my country is named an <span class="text_waving">emulapoor</span>, playing old NES/GBA/N64/MSDOS games. 
+I'm the kind of guy that likes to waste his life on computer simulations. I started playing videogames with shit hardware so i ended being what in my country is named an <span class="text_waving">emulapoor</span>, playing old NES/GBA/N64/MSDOS games. 
 
 Later I discovered the Amazing World of Indie Games, both the Upper Indie Class, like Castle Crashers and 2hu, and the Lower Indie Class, like the random games on itch.io made by random people in their house.
 
@@ -39,12 +41,13 @@ Some music i like:
 - Calle 13
 - Camellia; Xtrullor; PERTURBATOR; Carpenter Brut and other heavy electronic music.
 - Dragonforce; Stratovarius and other power metal bands.
-- Videogame music (Touhou, Hotline Miami, etc)
+- Videogame and Series music (Touhou, Hotline Miami, Attack on Titan, etc)
+- Recently got into Depressive Vocaloid (Kikuo)
 
 ## DOOM MODS
-I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red" title="evil; use UZDoom now">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.
+I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red text_shaking" title="evil; use UZDoom now">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.
 
-IMPSCAPE WAS AN EXCESS, i'm pretty much ashamed of it. Don't take too seriously and life or death making mods for a game, don't put 2 years or something to your wad, you don't need to make the 32 maps megawad with 25000 ZScript lines to being valued. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
+**IMPSCAPE WAS AN EXCESS**{.text_red}, i'm pretty much ashamed of it. Don't take too seriously and life or death making mods for a game, don't put 2 years or something to your wad, you don't need to make the 32 maps megawad with 25000 ZScript lines to being valued. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
 
 Althrought Doom has been very important on my life because the community, etc, unfortunately i'm no longer interested on it.
 
@@ -52,3 +55,22 @@ Althrought Doom has been very important on my life because the community, etc, u
 What FAQ????? Nobody knows me lol.
 
 ![Under construction pikachu gif](/images/under-construction.gif)
+
+# 🌐 Links 🌐 { #links }
+My links to my other sites on the internets.
+
+### ♥️ ""Social"" Media
+> ... because the true socializing is shouting the most socially acceptable stuff to the air for bots and randoms to give you their sweet $♥️ internet points $♥️ ...
+
+- <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
+- <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
+
+### 🌎 Other Sites
+- <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
+- <i class="fab fa-github fa SVGicon"></i> [Github](https://github.com/Urrova)
+- [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) aka Weeb Facebook
+
+### 🪦🪦🪦 Link Graveyard 🪦🪦🪦
+Sites where I dont log in since a loooooong time, rest in peace.
+- [Doomworld (rip)](https://www.doomworld.com/profile/29543-urrova/)
+- <i class="fab fa-soundcloud fa SVGicon"></i> [Soundcloud (rip)](https://on.soundcloud.com/iZZQd)

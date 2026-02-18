@@ -13,7 +13,7 @@ estilos de los botones
 	text-decoration: none;
 	display: inline-block;
 	font-size: 18px;
-	font-family: "DOS", monospace;
+	font-family: var(--font-text), monospace;
 }
 
 .button:hover{
@@ -26,5 +26,5 @@ estilos de los botones
 	text-decoration: none;
 	display: inline-block;
 	font-size: 18px;
-	font-family: "DOS", monospace;
+	font-family: var(--font-text), monospace;
 }

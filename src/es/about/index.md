@@ -6,10 +6,12 @@ layout: "layouts/article_es.html"
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
 
-Soy un chabon que vive en <span class="text_green text_glitchy">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. Ahora mismo hago musica, mods de videojuegos, e intento vivir la vida (sin exito).
+Soy un chabon que vive en <span class="text_green text_glitchy">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
+
+Ahora mismo hago musica, mods de videojuegos, e intento vivir la vida (sin exito).
 
 ## VIDEOJUEGOS
-Soy de los que les gusta desperdiciar su vida jugando videojuegos :p. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
+Soy del tipo de gente que les gusta desperdiciar su vida jugando videojuegos :p. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
 
 Luego descubri el Increible Mundo de los Videojuegos Indie, los Indies de Clase Alta, como Castle Crashers y 2hu, y los Indies de Clase baja como los juegos random de itch.io hechos por gente random en su casa.
 
@@ -41,11 +43,12 @@ Alguna musica que me gusta:
 - Camellia; Xtrullor; PERTURBATOR; Carpenter Brut y otros generos de electronica asi heavy
 - Dragonforce; Stratovarius y otras bandas de power metal.
 - OSTs de Videojuegos y Series, mientras mas dramaticos mejor (Touhou, Hotline Miami, Attack on Titan)
+- Ultimamente cai en Vocaloid depresivo (Kikuo)
 
 ## MODS
-Hice como que demasiados mods para el doom. La comunidad es god y hace unos mods que parecen otros juegos completamente diferentes, y <span class="text_red" title="Malvado; usen UZDoom ahora">GZDoom</span> hace que el doom parezca un segundo roblox; Siendo Ancient Aliens basicamente mi mod favorito.
+Hice como que demasiados mods para el doom. La comunidad es god y hace unos mods que parecen otros juegos completamente diferentes, y <span class="text_red text_shaking" title="Malvado; usen UZDoom ahora">GZDoom</span> hace que el doom parezca un segundo roblox; Siendo Ancient Aliens basicamente mi mod favorito.
 
-IMPSCAPE FUE UN EXCESO, no se tomen tan en serio y de vida o muerte hacer mods para un juego, no le pongan 2 años a un solo wad, no necesitan hacer el megawad de 32 mapas con 25000 lineas de ZScript para ser valorados. Si quieren hacer una obra maestra del doom, no la hagan solos. No sean como yo y unanse a community projects. Las obras maestras se hacen de a muchos.
+<span class="text_red">IMPSCAPE FUE UN EXCESO</span>, no se tomen tan en serio y de vida o muerte hacer mods para un juego, no le pongan 2 años a un solo wad, no necesitan hacer el megawad de 32 mapas con 25000 lineas de ZScript para ser valorados. Si quieren hacer una obra maestra del doom, no la hagan solos. No sean como yo y unanse a community projects. Las obras maestras se hacen de a muchos.
 
 Aunque doom fue muy importante para mi por la comunidad etc, la posta es que le perdi el interes xd.
 
@@ -53,3 +56,22 @@ Aunque doom fue muy importante para mi por la comunidad etc, la posta es que le 
 Que FAQ????? Nadie me conoce lol
 
 ![Under construction pikachu gif](/images/under-construction.gif)
+
+# 🌐 Links 🌐 { #links }
+Mis links a mis otros sitios de los internets
+
+### ♥️ Medios ""Sociales""
+> ... porque la verdadera socializacion es decir al aire cosas lo mas aceptables socialmente posible para que bots y randoms te den sus dulces $♥️ puntos de internet $♥️ ...
+
+- <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
+- <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
+
+### 🌎 Otros sitios
+- <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
+- <i class="fab fa-github fa SVGicon"></i> [Github](https://github.com/Urrova)
+- [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) 
+
+### 🪦🪦🪦 Cementerio de links 🪦🪦🪦
+Sitios donde no me meto hace millones de años, que en paz descanse.
+- [Doomworld (qepd)](https://www.doomworld.com/profile/29543-urrova/)
+- [Soundcloud (qepd)](https://on.soundcloud.com/iZZQd)

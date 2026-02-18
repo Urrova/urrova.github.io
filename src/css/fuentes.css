@@ -18,3 +18,8 @@
 	Font-Family: "Xolonium";
 	src: url("../fonts/Xolonium-Regular.ttf");
 }
+
+@font-face{
+	Font-Family: "Retro Gaming";
+	src: url("../fonts/Retro Gaming.ttf")
+}
