@@ -79,6 +79,16 @@ export default function (eleventyConfig) {
 		}
 		return content;
 	});
+
+
+	//////////////////////// SERVER SETTINGS ////////////////////////////
+
+	//Anti CORS
+	eleventyConfig.setServerOptions({
+		headers: {
+		'Access-Control-Allow-Origin': '*'
+		}
+	});
 }
 
 	

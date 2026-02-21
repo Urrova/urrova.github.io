@@ -1,8 +1,14 @@
 ---
 title: "urrova about"
-header: "... quien soy¿"
+header: "wtf is an urrova"
 layout: "layouts/article_en.html"
+tabs: 
+    - ["😛 About Me", "/en/about/", 1]
+    - ["🌐 Links", "/en/about/links/", 0]
+
 ---
+
+# ❓ ... quien soy ? ❓
 
 No cuarteto de nos reference for english users lol.
 
@@ -56,21 +62,14 @@ What FAQ????? Nobody knows me lol.
 
 ![Under construction pikachu gif](/images/under-construction.gif)
 
-# 🌐 Links 🌐 { #links }
-My links to my other sites on the internets.
+{# esto esta chetardo pero me da miedo que cause alguna huevada de seguridad
+-----------------------------------------------------------------------------------
 
-### ♥️ ""Social"" Media
-> ... because the true socializing is shouting the most socially acceptable stuff to the air for bots and randoms to give you their sweet $♥️ internet points $♥️ ...
+## RANDOM STATS
+-- Last Watched Anime --
 
-- <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
-- <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
+**[Javascript is disabled OR MyAnimeList/The CORS proxy failed.]**{ #last-anime-watched }
 
-### 🌎 Other Sites
-- <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
-- <i class="fab fa-github fa SVGicon"></i> [Github](https://github.com/Urrova)
-- [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) aka Weeb Facebook
-
-### 🪦🪦🪦 Link Graveyard 🪦🪦🪦
-Sites where I dont log in since a loooooong time, rest in peace.
-- [Doomworld (rip)](https://www.doomworld.com/profile/29543-urrova/)
-- <i class="fab fa-soundcloud fa SVGicon"></i> [Soundcloud (rip)](https://on.soundcloud.com/iZZQd)
+<script src="/js/last_anime_watched.js"></script>
+-----------------------------------------------------------------------------------
+#}

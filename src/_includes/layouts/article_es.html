@@ -16,6 +16,18 @@
 
 {% endif %}
 
+{% if tabs %}
+    <ul class="ul-tabs">
+    {% for tab in tabs %}
+        {% if tab[2] %}
+        <li class="tab-active">{{tab[0]}}</li>
+        {% else %}
+        <li><a href="{{tab[1]}}">{{tab[0]}}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endif %}
+
 <article>
     {{ content | safe }}
 </article>

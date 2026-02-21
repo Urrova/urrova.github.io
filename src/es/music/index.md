@@ -24,6 +24,4 @@ Ahora mismo mi DAW es: <span class="text_colorwarp">Waveform 13 (free)</span>
 :::
 
 
-### Descargas:
-
 [Descargar por Google Drive](https://drive.google.com/drive/folders/1RXqqmiHip-S6tNq_O-gB3SRkMmUQkpcl?usp=sharing){ .button } { .center }

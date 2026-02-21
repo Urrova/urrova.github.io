@@ -24,6 +24,4 @@ Right now my DAW is: <span class="text_colorwarp">Waveform 13 (free)</span>
 - For the rest you have to ask.
 :::
 
-### Download:
-
 [Download from Google Drive](https://drive.google.com/drive/folders/1RXqqmiHip-S6tNq_O-gB3SRkMmUQkpcl?usp=sharing){ .button } { .center }

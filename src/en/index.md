@@ -21,4 +21,4 @@ Greetings from <span class="text_green text_glitchy">The Matrix!</span> (![Argen
 - <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
 - <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
 - <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
-- My other sites on my [links section](/en/about#links)
+- My other sites on my [links section](/en/about/links)

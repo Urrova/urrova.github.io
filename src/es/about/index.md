@@ -1,8 +1,13 @@
 ---
 title: "urrova about"
-header: "... quien soy¿"
+header: "urrova quien??"
 layout: "layouts/article_es.html"
+tabs: 
+    - ["😛 Sobre Mi", "/es/about/", 1]
+    - ["🌐 Links", "/es/about/links/", 0]
 ---
+
+# ❓ ... quien soy ? ❓
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
 
@@ -57,21 +62,14 @@ Que FAQ????? Nadie me conoce lol
 
 ![Under construction pikachu gif](/images/under-construction.gif)
 
-# 🌐 Links 🌐 { #links }
-Mis links a mis otros sitios de los internets
+{# esto esta chetardo pero me da miedo que cause alguna huevada de seguridad
+-----------------------------------------------------------------------------------
 
-### ♥️ Medios ""Sociales""
-> ... porque la verdadera socializacion es decir al aire cosas lo mas aceptables socialmente posible para que bots y randoms te den sus dulces $♥️ puntos de internet $♥️ ...
+## ESTADISTICAS RANDOM
+-- Ultimo Anime Visto --
 
-- <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
-- <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
+**[O no esta habilitado Javascript, o fallo MyAnimeList o el proxy de CORS]**{ #last-anime-watched }
 
-### 🌎 Otros sitios
-- <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
-- <i class="fab fa-github fa SVGicon"></i> [Github](https://github.com/Urrova)
-- [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) 
-
-### 🪦🪦🪦 Cementerio de links 🪦🪦🪦
-Sitios donde no me meto hace millones de años, que en paz descanse.
-- [Doomworld (qepd)](https://www.doomworld.com/profile/29543-urrova/)
-- [Soundcloud (qepd)](https://on.soundcloud.com/iZZQd)
+<script src="/js/last_anime_watched.js"></script>
+-----------------------------------------------------------------------------------
+#}

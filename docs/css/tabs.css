@@ -1,0 +1,29 @@
+.ul-tabs {
+    display: flex;
+    margin: 0 10%;
+    padding: 0 5px;
+}
+
+.ul-tabs li {
+    list-style-type: none;
+    border-top: 3px solid var(--section_border);
+    border-left: 3px solid var(--section_border);
+    border-right: 3px solid var(--section_border);
+    background-color: var(--box_color);
+    padding: 2px 20px;
+}
+
+.ul-tabs li.tab-active {
+    background-color: var(--section_color);
+}
+
+.ul-tabs li a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    .ul-tabs {
+        margin: 0 1%;
+        padding: 0 0;
+    }
+}

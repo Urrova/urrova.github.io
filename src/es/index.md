@@ -21,4 +21,4 @@ Saludos desde <span class="text_green text_glitchy">La Matrix!</span> (![Argenti
 - <i class="fab fa-itch-io fa SVGicon"></i> [itch.io](https://urrova.itch.io/)
 - <i class="fab fa-youtube fa SVGicon"></i> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
 - <i class="fa-brands fa-bluesky fa SVGicon"></i> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
-- Otros sitios en mi [seccion de links](/es/about#links)
+- Otros sitios en mi [seccion de links](/es/about/links)
