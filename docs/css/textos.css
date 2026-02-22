@@ -8,6 +8,10 @@
 
 .text_console_highlighted {color:#000000; background-color: #FFFFFF;}
 
+.text_monospace {
+	font-family: "OCR A";
+}
+
 .text_waving {
 	animation-name: waving;
 	animation-duration: 1s;
@@ -69,7 +73,6 @@
 }
 
 .SmallP{
-	color: #FFFFFF;
 	font-family: var(--font-text);
 	font-size:small;
 	margin: 5px;

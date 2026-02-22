@@ -30,6 +30,10 @@
 {% endif %}
 
 <article>
+    {% if date %}
+        <p class="right SmallP text_green"> {{ date | postDate }} </p>
+    {% endif %}
+
     {{ content | safe }}
 </article>
 {% endblock %}

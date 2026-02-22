@@ -94,6 +94,7 @@ nav hr{
 }
 
 #navbar_title_main{
+	font-family: var(--font-site-logo);
 	align-self: center;
 	padding-left: 20px;
 	padding-right: 20px;

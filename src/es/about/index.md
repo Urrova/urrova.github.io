@@ -11,7 +11,7 @@ tabs:
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
 
-Soy un chabon que vive en <span class="text_green text_glitchy">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
+Soy un chabon que vive en <span class="text_green text_glitchy text_monospace">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
 
 Ahora mismo hago musica, mods de videojuegos, e intento vivir la vida (sin exito).
 

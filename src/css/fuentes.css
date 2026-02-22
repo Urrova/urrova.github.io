@@ -3,11 +3,6 @@
 	src:local("OCR A Std"),
 		url("../fonts/OCR A Std.ttf");
 }
-	
-@font-face{
-	Font-Family: "DOS";
-	src: url("../fonts/DOS Win.ttf");
-}
 
 @font-face{
 	Font-Family: "C64";
@@ -21,5 +16,10 @@
 
 @font-face{
 	Font-Family: "Retro Gaming";
-	src: url("../fonts/Retro Gaming.ttf")
+	src: url("../fonts/Retro Gaming.ttf");
+}
+
+@font-face{
+	Font-Family: "Arkanoid";
+	src: url("../fonts/ARKANOID.TTF");
 }

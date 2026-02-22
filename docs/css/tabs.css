@@ -9,12 +9,12 @@
     border-top: 3px solid var(--section_border);
     border-left: 3px solid var(--section_border);
     border-right: 3px solid var(--section_border);
-    background-color: var(--box_color);
+    background-color: var(--inactive-tab-color);
     padding: 2px 20px;
 }
 
 .ul-tabs li.tab-active {
-    background-color: var(--section_color);
+    background-color: var(--active-tab-color);
 }
 
 .ul-tabs li a {

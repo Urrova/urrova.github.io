@@ -12,7 +12,7 @@ tabs:
 
 No cuarteto de nos reference for english users lol.
 
-I'm a guy that lives in <span class="text_green text_glitchy">The MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
+I'm a guy that lives in <span class="text_green text_glitchy text_monospace">The MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
 
 I dont know what I'm really doing with my life, so i try making music, game mods, and try to live life (unsucessfully).
 

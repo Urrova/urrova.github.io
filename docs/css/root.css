@@ -25,11 +25,16 @@ variables globales para manejar el sitio web
     --text_cyan_color: #00FFFF;
     --text_purple_color: #FF00FF;
 
+    /*Tabs*/
+    --active-tab-color: #101010;
+    --inactive-tab-color: #040404;
+
     /*Seccion*/    
     --section_color: #101010;
     --section_border: #FFFFFF;
     --section_button_color: #FFFFFF;
     --section_button_color_hover: #39ff43;
+    --inactive-tab-color: #080808;
 
     --article-contents-shadow: rgba(0,0,0,0.75);
     
@@ -42,10 +47,11 @@ variables globales para manejar el sitio web
     --background_image: /*linear-gradient(var(--background_color_1),var(--background_color_2))*/ url("../images/bg.png");
 
     /*Fuentes*/
+    --font-site-logo: "Arkanoid";
     --font-title: "Xolonium";
     --font-details: "Xolonium";
     --font-text: "Retro Gaming";
-    --font-marquee: "OCR A";
+    --font-marquee: "Retro Gaming";
 
     /*Botones*/
     --button_border: #ffffff;

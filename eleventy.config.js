@@ -39,7 +39,11 @@ export default function (eleventyConfig) {
 	///////////////////////// Filters ////////////////////////////////
 
 	eleventyConfig.addFilter("postDate", (dateObj) => {
-		return parse(dateObj).toLocaleDateString("es")
+		return parse(dateObj).toLocaleDateString("es", {
+			year: "numeric",
+			month: "2-digit",
+			day: "2-digit",
+			})
 	});
 
 	///////////////////////////// Custom Blocks /////////////////////////////////////
