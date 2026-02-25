@@ -55,3 +55,16 @@ estilos relacionados con las imagenes
 .SVGicon:hover{
 	color: var(--icon_color_hover)
 }
+
+.icon {
+	width: 1rem;	
+	height: auto;
+	color: #FFF;
+	fill: #FFF;
+	vertical-align: middle;
+	color: var(--icon_color);
+}
+
+.icon:hover{
+	color: var(--icon_color_hover);
+}
