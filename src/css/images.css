@@ -63,6 +63,8 @@ estilos relacionados con las imagenes
 	fill: #FFF;
 	vertical-align: middle;
 	color: var(--icon_color);
+	position: relative;
+	top: -2px;
 }
 
 .icon:hover{

@@ -2,7 +2,7 @@
 title: "urrova mods"
 header: "Mods para Videojuegos"
 layout: "layouts/article_es.html"
-background: "/images/backgrounds/Dim.png"
+background: "/images/doomsky.png"
 ---
 
 Se se, todos de doom... Son varios que hice en mi epoca del covid-19, donde me meti a Doomworld. 

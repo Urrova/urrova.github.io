@@ -5,16 +5,16 @@ variables globales para manejar el sitio web
 
 :root{
     /*Navbar*/
-    --border_color: #00ff15;
-    --navbar_title_color: #ffffff;
+    --border_color: #00a2ff;
+    --navbar_title_color: #00FFFF;
     --navbar_title_stroke: #000000;    
     --navbar_link: #FFFFFF;
     --navbar_link_hover: #8aff86;
 
     /*Elementos*/
     --title_color: #FFFFFF;
-    --link_color: #70ff45;
-    --link_hover_color: #a7ff9f;
+    --link_color: #4fff42;
+    --link_hover_color: #9fffa9;
     --box_color: #202020;
 
     /*Textos*/
@@ -44,7 +44,7 @@ variables globales para manejar el sitio web
     /*Fondo*/
     --background_color_1: #000000;
     --background_color_2: #0f0f0f;
-    --background_image: /*linear-gradient(var(--background_color_1),var(--background_color_2))*/ url("../images/bg.png");
+    --background_image: url("../images/nebula01.png");
 
     /*Fuentes*/
     --font-site-logo: "Arkanoid";

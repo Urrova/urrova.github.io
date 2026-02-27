@@ -2,7 +2,7 @@
 title: "urrova mods"
 header: "Mods for Videogames"
 layout: "layouts/article_en.html"
-background: "/images/backgrounds/Dim.png"
+background: "/images/doomsky.png"
 ---
 
 Yeah yeah, all doom... These are some of what i nade in the covid-19 pandemic, where i went into Doomworld.
