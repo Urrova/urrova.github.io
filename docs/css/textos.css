@@ -8,6 +8,10 @@
 
 .text_console_highlighted {color:#000000; background-color: #FFFFFF;}
 
+.important-personal-data {
+	font-size:1px;
+}
+
 .text_monospace {
 	font-family: "OCR A";
 }

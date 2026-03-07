@@ -62,13 +62,15 @@ What FAQ????? Nobody knows me lol.
 
 ![Under construction pikachu gif](/images/under-construction.gif)
 
-{# esto esta chetardo pero me da miedo que cause alguna huevada de seguridad
+{#
 -----------------------------------------------------------------------------------
 
 ## RANDOM STATS
--- Last Watched Anime --
+*this is cool af but i fear this might cause some security issue*{.SmallP}
 
-**[Javascript is disabled OR MyAnimeList/The CORS proxy failed.]**{ #last-anime-watched }
+🍣 Last Watched Anime
+
+**loading....?**{ #last-anime-watched }
 
 <script src="/js/last_anime_watched.js"></script>
 -----------------------------------------------------------------------------------

@@ -43,8 +43,9 @@ li{
 }
 
 audio {
+	display: block;
 	max-height: 100%;
-	max-width: 100%;
+	width: 80%;
 	margin: auto;
 	object-fit: contain;
 }
