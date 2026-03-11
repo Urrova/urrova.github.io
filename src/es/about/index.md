@@ -62,11 +62,10 @@ Que FAQ????? Nadie me conoce lol
 
 ![Under construction pikachu gif](/images/under-construction.gif)
 
-{#
+
 -----------------------------------------------------------------------------------
 
 ## ESTADISTICAS RANDOM
-*esto esta chetardo pero me da miedo que cause alguna huevada de seguridad*{.SmallP}
 
 🍣 Ultimo Anime Visto
 
@@ -74,4 +73,3 @@ Que FAQ????? Nadie me conoce lol
 
 <script src="/js/last_anime_watched.js"></script>
 -----------------------------------------------------------------------------------
-#}

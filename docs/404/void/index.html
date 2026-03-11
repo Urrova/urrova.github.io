@@ -23,10 +23,18 @@ overflow: auto;
     </style>
 </head>
 <body>
+    <audio loop id="voidAudio">
+        <source src="/audio/void-music.mp3" type="audio/mpeg">
+    </audio>
     <div class="message-container">
         <a href="/embrace/the/void/embrace/the/void/embrace/the/void/embrace/the/void/embrace/the/void">
         <img src="/images/void.png" width="512">
         </a>
     </div>
+
+    <script>
+        let audio = document.getElementById("voidAudio");
+        audio.play();
+    </script>
 </body>
 </html>

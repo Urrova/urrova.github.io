@@ -62,11 +62,10 @@ What FAQ????? Nobody knows me lol.
 
 ![Under construction pikachu gif](/images/under-construction.gif)
 
-{#
+
 -----------------------------------------------------------------------------------
 
 ## RANDOM STATS
-*this is cool af but i fear this might cause some security issue*{.SmallP}
 
 🍣 Last Watched Anime
 
@@ -74,4 +73,3 @@ What FAQ????? Nobody knows me lol.
 
 <script src="/js/last_anime_watched.js"></script>
 -----------------------------------------------------------------------------------
-#}
