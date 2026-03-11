@@ -66,10 +66,10 @@ What FAQ????? Nobody knows me lol.
 -----------------------------------------------------------------------------------
 
 ## RANDOM STATS
-
+:::code
 🍣 Last Watched Anime
 
 **loading....?**{ #last-anime-watched }
-
+:::
 <script src="/js/last_anime_watched.js"></script>
 -----------------------------------------------------------------------------------
