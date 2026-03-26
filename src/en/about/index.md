@@ -1,5 +1,5 @@
 ---
-title: "urrova about"
+title: "... who am I?"
 header: "wtf is an urrova"
 layout: "layouts/article_en.html"
 tabs: 
@@ -21,15 +21,18 @@ I'm the kind of guy that likes to waste his life on computer simulations. I star
 
 Later I discovered the Amazing World of Indie Games, both the Upper Indie Class, like Castle Crashers and 2hu, and the Lower Indie Class, like the random games on itch.io made by random people in their house.
 
-Some of the kinds of games i like to play:
+<details>
+<summary>Some of the kinds of games i like to play</summary>
+
 - PROJECT ZOMBOID (luve project zomboid)
 - Old FPS games (DOOM; Quake; Half-Life) and their indie resurrection (DUSK; ULTRAKILL).
 - Rythm games (osu!; Taiko no Tatsujin; JSAB; Geometry Dash) 
 - Shoot em ups, going to bullet hell (Touhou Project, Eschatos, Ikaruga). 
 - Maze platformers aka "metroidvanya" (Symphony of the Night, Hollow Knight & Silksong, Touhou Luna Nights)
 - <span class="text_stoned">c o o k e d  simulators</span> (stroke games like LSD Dream Emulator)
-- Recently started playing coops (like R.E.P.O. and Peak)
+- Sometimes I play Trending Coops That Only Lasts 2 Weeks (like R.E.P.O. and Peak)
 
+</details>
 
 ## GAMEDEV
 Before i liked to program videgames, but i never finished any and when i finished anything nobody cared, so i went make doom mods, and then i burned out. Now i dont have motivation or time or ideas to make a videogame.
@@ -40,7 +43,8 @@ I hope sometime i can make a videogame again... i try to be optimistic about thi
 I make music, dragging squares and drawing forms and rotationg knobs in computer programs.
 I make rock and electronic music, sometimes stand alone and sometimes as a soundtrack for a bigger project. Sometimes i make MIDIs for collab doom projects. (NEGATIVEONE; Alamgoom; Outland).
 
-Some music i like:
+<details>
+<summary>My Superior Musical Taste (better than yours)</summary>
 
 - Cuarteto de Nos
 - Dream Theater; Symphony X; Michael Romeo; King Crimson; TesseracT and other prog rock/metal bands.
@@ -49,6 +53,7 @@ Some music i like:
 - Dragonforce; Stratovarius and other power metal bands.
 - Videogame and Series music (Touhou, Hotline Miami, Attack on Titan, etc)
 - Recently got into Depressive Vocaloid (Kikuo)
+</details>
 
 ## DOOM MODS
 I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red text_shaking" title="evil; use UZDoom now">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.

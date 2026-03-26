@@ -58,3 +58,13 @@ blockquote {
 blockquote p {
 	margin-left: 1rem;
 }
+
+details summary {
+	color: var(--link_color);;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+details summary:hover{
+	color: var(--link_hover_color);
+}

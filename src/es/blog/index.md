@@ -1,5 +1,5 @@
 ---
-title: "urrova site > blog"
+title: "QUE?? TENGO UN BLOG??"
 layout: 'layouts/blog_feed_es.html'
 pagination:
   data: collections.blog_es

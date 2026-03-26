@@ -1,5 +1,5 @@
 ---
-title: "urrova mods"
+title: "Videogame Mods"
 header: "Mods for Videogames"
 layout: "layouts/article_en.html"
 background: "/images/doomsky.png"
