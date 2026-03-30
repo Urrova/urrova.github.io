@@ -39,3 +39,12 @@ Invadido por marines espaciales humanos, aliados con el imperio de la Union Aero
 [Descargar desde itch.io](https://urrova.itch.io/impscape){ .button } { .center }
 
 [Ir al hilo de doomworld](https://www.doomworld.com/forum/topic/143711-impscape-the-escape-from-uac-rc1-gzdoom/) {.center}
+
+:::code
+<details>
+    <summary>post mortem</summary>
+
+    se se, me arrepiento de haber hecho esto. no debi haber gastado tanta energia en hacer un mod tan grande para un juego que ya esta muerto y no lo juega nadie, la verdad no se en que estaba pensando mientra lo hacia. no debi haber puesto mi *Energia de Obra Maestra*{.text_waving .text_yellow} en un mod de un juego muerto. pero que hago, ya lo hice y gaste mi energia. en esa wea. ahora mismo no me puede importar menos doom y este mod de mierda. pero que le voy a hacer...
+
+</details>
+:::

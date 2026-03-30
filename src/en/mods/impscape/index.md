@@ -39,3 +39,12 @@ Invaded by human marines, allied with the empire of the Union Aerospace Corporat
 [Download from itch.io](https://urrova.itch.io/impscape){ .button } { .center }
 
 [Go to doomworld thread](https://www.doomworld.com/forum/topic/143711-impscape-the-escape-from-uac-rc1-gzdoom/) {.center}
+
+:::code
+<details>
+    <summary>post mortem</summary>
+
+    yeah i regret making this, i shouldnt have wasted this much energy in making a mod this big for a game that's already dead and nobody plays it, really i dont know what i was thinking while i was doing it. i shouldnt have put my *Magnum Opus Energy*{.text_waving .text_yellow} in a mod of a dead game. but what can i do, i've already made it and wasted my energy. in this thing i already not care of. right i can't care less about doom and this shit mod. but whatever...
+
+</details>
+:::
