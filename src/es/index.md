@@ -8,10 +8,12 @@ Saludos desde <span class="text_green">La Matrix!</span> (![Argentine Flag](/ima
 
 ---
 
-## Ahora mismo trabajando en: Agregarle 43242 huevadas random a mi sitio.
+## Ahora mismo trabajando en: La vida real DE NUEVO
+
+No tengo tiempo para puto hacer nada yayyyyy!
 
 <div class="imagen_small">
-    <img class="borde" src="/images/under-construction.gif">
+    <img class="borde" src="/images/xd/perturbado1.webp">
 </div>
 
 ---

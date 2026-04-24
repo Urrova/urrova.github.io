@@ -1,0 +1,84 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Layer -4</title><style>body{
+    background-color: #000;
+    color:#FFF;
+    font-family: monospace;
+    }
+    canvas{
+    text-align: center;
+    border: 2px solid #FFF;
+    }
+    .center{
+    text-align: center;
+    }
+    .right{
+    text-align: right;
+    margin:0px;
+    padding:0px;
+    }
+    .hidden{
+    display:none;
+    }
+    article{
+        margin-left:10%;
+        margin-right:10%;
+    }
+
+    img{
+        width: 20%;
+    }
+    .random-chunk{
+        word-wrap: break-word;
+    }
+    #latentvid {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -100;
+    }
+    .text-green {
+        color: #0F0;
+    }
+    .text-yellow {
+        color: #FF0;
+    }</style></head><body><video autoplay="" muted="" loop="" id="latentvid"><source src="https://mebious.net/bg/latentvid.webm" type="video/webm"></video><article><audio loop id="voidAudio"><source src="/audio/void-music-2.mp3" type="audio/mpeg"></audio><p class="right">layer -4</p><div id="content"></div><h3><a href="#" onclick="execute()">[ eat void ]</a></h3></article><script>var voidyvoid = 0
+        var voids = [
+            "<h1>... estas en lo mas profundo del abismo ...</h1>",
+            "<h3>... esto ya no es un <span class=\"text-yellow\">404 Not Found</span> ...</h3>",
+            "<h3>... esto es, en efecto, un <span class=\"text-green\">200 OK</span> ...</h3>",
+            "<p>Bienvenido a la Capa -4, el mas profundo de los vacios. No conduce a ningun lado, y no es apuntado por nada. Tan profundo se llega solo si sabes que es lo que estas buscando y lo que vas a encontrar.</p>",
+            "<p>Enterrados en lo mas profundo del vacio, las consecuencias de una tragedia mundial ocurrida a partir de epoch 1580346000, matando a millones y arruinandoles la salud mental a practicamente toda la poblacion mundial.</p>",
+            "<p class=\"center\"><img src=\"/images/URROVA/URROVA tomando mate.png\"/></p>",
+            "<p>Hiper conectados 24/7 en esta maquina global que es el Cableado. Consecuencia: la perdida de la cordura de la civilizacion humana.</p>",
+            "<p>La poca cordura que la humanidad pudo consolidar luego de milenios de oscuridad academica, cuando se veia que llegabamos a la paz mundial, todo perdido por la hiperconexion y la perdida del poco pensamiento critico que la gente tenia.</p>",
+            "<p class=\"center\"><img src=\"/images/URROVA/4_urrova_Veltarden.png\"/></p>",
+            "<p>Dejamos a las mentes de la gente a manos de la m████a que es Big Tech, para que se apoderen del planeta todo lo que quieran...</p>",
+            "<p>La gente ya mega ultra archi super brainroteada y adoctrinada, por un ser impredecible, invisible y que parece tener voluntad propia, al que llamamos \"El Algoritmo\"...</p>",
+            "<p class=\"center\"><img src=\"/images/URROVA/URROVA 256.gif\"/></p>",
+            "<p>Gente clasificada y organizada en grandes grupos, clusters de internet, burbujas epistemicas, echo chambers...</p>",
+            "<p>Cuando una persona normal entra a la maquina del agoritmo, puede llegar a ser predecible, Que Es lo que Va a Salir del Algoritmo. En Que se va a transformar la anteriormente persona normal.</p>",
+            "<p>Puede que luego se arrepienta. Puede que luego deje todo. Puede que todo sea un mal recuerdo y nada mas.</p>",
+            "<p class=\"center\"><img src=\"/images/URROVA/URROVA 3pos.gif\"/></p>",
+            "<p>Thats it. Eso es todo. Tanto querias ver mis personajes de la pandemia? Forro.</p>",
+            "<p>SI, ME GUSTABAN, EN UN MOMENTO. Ahora no mas, lol</p>",
+            "<p>Queres un par mas? toma nomas</p>",
+            "<p class=\"center\"><img src=\"/images/sprites/fMystical.gif\"/></p>",
+            "<p class=\"center\"><img src=\"/images/sprites/fWings.gif\"/></p>",
+            "<p class=\"center\"><img src=\"/images/sprites/fElize.png\"/></p>",
+            "<p class=\"random-chunk\">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</p>",
+            "<p>. . . this is the end of the void. From there there's a void voider than void itself . . . undefined</p>"
+        ]
+
+        function execute() {
+            if (voidyvoid == 0){
+                let audio = document.getElementById("voidAudio");
+                audio.play();
+            }
+
+            let content = document.getElementById("content")
+            content.innerHTML+=voids[voidyvoid]
+
+            voidyvoid += 1
+        }</script></body></html>

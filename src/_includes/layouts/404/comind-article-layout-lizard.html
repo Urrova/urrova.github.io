@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}} | ⋏⟒⍙ ⍙⍜⍀⌰⎅ ⏁⍀⎍⏁⊑</title>
+
+    <style>
+        body {
+            background-color: #AAB0AA;
+            margin: 0;
+            padding: 0;
+        }
+
+        article {
+            background-color: #C8C8C8;
+            padding: 2rem;
+            margin: 2rem 10%;
+        }
+
+        img {
+            width: 90%;
+        }
+
+        .img_small {
+            max-width: 30%;
+        }
+
+        hr {
+            border: 1px solid #C8C8C8;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        nav {
+            margin: 0;
+            padding: 1rem;
+            display: block;
+            background-color: #C8C8C8;
+        }
+
+        nav h1 {
+            margin: 0 0 1rem 0;
+            font-family: monospace;
+            font-weight: bolder;
+        }
+
+        .nav_links a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 0.5rem 1.5rem;
+            margin: 0.0rem 0;
+        }
+
+        .nav_links a:hover {
+            background-color: #FAA;
+        }
+
+        .prev-next-flexbox {
+            display: flex;
+            margin: 1rem 10%;
+            justify-content: space-between;
+        }
+
+        .prev-next-flexbox div {
+            background-color: #C8C8C8;
+            width: 100%;
+            
+            padding: 1rem 2rem;
+        }
+
+        .prev-box { margin-right: 2rem; }
+        .next-box { margin-left: 2rem; }
+
+        .margin {margin: 0 10%;}
+    </style>
+</head>
+<body>
+    <nav>
+        <div>
+            <h1>⋏⟒⍙ ⍙⍜⍀⌰⎅ ⏁⍀⎍⏁⊑</h1>
+        </div>
+        <div class="nav_links">
+            <a href="/SLOTH/">⋔⏃⟟⋏</a>
+            <a href="/LUST/">⌿⍜⍙⟒⍀ ⋔⏃⋏⏃☌⟒⋔⟒⋏⏁</a>
+            <a href="/GREED/">⍀⟒⌇⍜⎍⍀☊⟒ ⋔⏃⋏⏃☌⟒⋔⟒⋏⏁</a>
+            <a href="/WRATH/">⍙⏃⍀⌇</a>
+            <a href="/PRIDE/">⏁⟒☊⊑ ⟒⋔⌿⟟⍀⟒</a>
+            <a href="/GLUTTONY/">⎅⟟⌇⏁⍀⏃☊⏁⟟⍜⋏</a>
+            <a href="/ENVY/">⌇⍜⎍⌰ ⌇⟒⋏⎅</a>
+        </div>
+    </nav>
+
+    <article>
+        {% block content %} {{ content | safe }} {% endblock %}
+    </article>
+
+    {%if comentarios%}
+    <article>
+        <h3>☊⍜⋔⋔⟒⋏⏁⌇</h3>
+        <hr>
+
+        {%for comentario in comentarios%}
+            <p><b>{{comentario.nombre}}</b></p>
+            <p>{{comentario.comentario}}</p>
+            <p>🔺{{comentario.likes}}🔻</p>
+            <hr>
+        {%endfor%}
+    </article>
+    {%endif%}
+
+    <h2 class="margin">⍀⟒⏃⎅ ⏁⊑⟟⌇ ⋏⍜⍙. ⍜⏚⟒⊬.</h2>
+    <div class="prev-next-flexbox">
+        <div class="prev-box">
+            {%if prev_title%}
+                <a href="{{prev_link}}">
+                    {%if prev_image%}<img src="{{prev_image}}"/>{%endif%}
+                    <p>{{prev_title}}</p>
+                </a>
+            {%else%}
+                <a href="/surrender/to/the/void">
+                    <img src="/images/404/comind/black-reptilian.png"/>
+                    <p>████████████ █████ ██ ██████████ ██████</p>
+                </a>
+            {%endif%}
+        </div>
+        <div class="next-box">
+            {%if next_title%}
+                <a href="{{next_link}}">
+                    {%if next_image%}<img src="{{next_image}}"/>{%endif%}
+                    <p>{{next_title}}</p>
+                </a>
+            {%else%}
+                <a href="/surrender/to/the/void">
+                    <img src="/images/404/comind/black-reptilian.png"/>
+                    <p>████████████ █████ ██ ██████████ ██████</p>
+                </a>
+            {%endif%}
+        </div>
+    </div>
+</body>
+</html>

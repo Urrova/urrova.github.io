@@ -1,0 +1,150 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>⚠️ Please verify your age to see this 404 page.</title><style>@import url("css/fuentes.css");
+
+        body {
+            /*display:flex;*/
+            height:100vh;
+            align-items:center;
+            background-image: url("/images/nebula02.png");
+        }
+
+        main{
+            margin: 10%;
+            padding: 2%;
+            border: 5px solid #000;
+            font-family: "Retro Gaming";
+            background-color: #FFF;
+        }
+
+        hr {
+            border: 2px solid #000;
+        }
+
+        .title {
+            position: relative;
+        }
+
+        img {
+            width: 40%;
+            text-align: center;
+        }
+
+        .title span {
+            position: relative;
+            display: inline-block;
+            font-size: 1.5em;
+            animation: animate 2s ease-in-out infinite; 
+            animation-delay: calc(0.2s * var(--i));
+            text-shadow: 3px 3px yellow,
+                         6px 6px cyan;
+            
+        }
+
+        @keyframes animate {
+            0%{
+                transform: translateY(0px);
+            }
+            50%{
+                transform: translateY(-20px);
+            }
+            100%{
+                transform: translateY(0px);
+            }
+        }
+
+        .left { text-align: left; }
+        .center { text-align: center; }
+        .right { text-align: right; }
+
+        .hidden { display: none; }</style></head><body><main id="main-content"><h3 class="left">Oops! This 404 page requires</h3><h1 class="center title"><span style="--i:1">✨</span> <span style="--i:2"></span> <span style="--i:3">A</span> <span style="--i:4">G</span> <span style="--i:5">E</span> <span style="--i:6"></span> <span style="--i:7">V</span> <span style="--i:8">E</span> <span style="--i:9">R</span> <span style="--i:10">I</span> <span style="--i:11">F</span> <span style="--i:12">I</span> <span style="--i:13">C</span> <span style="--i:14">A</span> <span style="--i:15">T</span> <span style="--i:16">I</span> <span style="--i:17">O</span> <span style="--i:18">N</span> <span style="--i:19"></span> <span style="--i:20">✨</span></h1><h3 class="right">to be shown!</h3><hr><div class="center" id="form1"><p>Please insert your age here to verify your age: <input type="number" id="age"> <input type="button" value="Send age" onclick="verifyAge()"></p></div><div class="center"><div class="hidden" id="return-links"><a href="/en/">return to main</a> - <a href="/es/">volver al inicio</a></div></div></main><main id="main-content-2" class="hidden"><h1 class="center">🚫 404: Pagina no encontrada 🚫</h1><div class="center"><img src="/images/xd/hunger-humper.jpg"></div><p class="center">We couldn't find the page you requested. Please try again and check your hyperlinks.</p><p class="center">No pudimos encontrar la pagina que buscabas. Por favor intentelo de nuevo y verifique sus hipervinculos.</p><hr><div class="center"><div id="return-links"><a href="/en/">return to main</a> - <a href="/es/">volver al inicio</a></div></div></main><script>const unlockReturnControls = () => {
+            var controls = document.getElementById("return-links");
+            controls.className = ""
+        }
+
+        const show404 = () => {
+            var main1 = document.getElementById("main-content");
+            var main2 = document.getElementById("main-content-2");
+
+            main1.className = "hidden"
+            main2.className = ""
+        }
+
+        const verifyAge = async () => {
+            var age = Number(document.getElementById("age").value)
+            var form = document.getElementById("form1")
+
+            if (age > 0 && age < 18) {
+                form.innerText = "Oh no!! you can't see this 404 page youre too smalll too tinyyyyy you just can't handle the info on this 404 page, only Real Adults who are 18 Years Old or Older can handle the information of this 404 page, sorry! 😭😭😭😭"
+                unlockReturnControls()
+            }
+            else if (age <= 0 && age > -3000) {
+                form.innerText = "bruhhhhhhh how could your tiny fetus hands even browse this website lmao beware your dolphin tail"
+                unlockReturnControls()
+            }
+            else if (age <= -3000) {
+                form.innerText = `
+                𒀀 𒈾 𒂍 𒀀 𒈾 𒍢 𒅕
+𒆠 𒉈 𒈠
+𒌝 𒈠 𒈾 𒀭 𒉌 𒈠
+𒀀 𒉡 𒌑 𒈠 𒋫 𒀠 𒇷 𒆪
+𒆠 𒀀 𒄠 𒋫 𒀝 𒁉 𒄠
+𒌝 𒈠 𒀜 𒋫 𒀀 𒈠
+𒄖 𒁀 𒊑 𒁕 𒄠 𒆪 𒁴
+𒀀 𒈾 𒄀 𒅖 𒀭 𒂗𒍪 𒀀 𒈾 𒀜 𒁲 𒅔
+𒋫 𒀠 𒇷 𒅅 𒈠 𒋫 𒀝 𒁉 𒀀 𒄠
+𒌑 𒆷 𒋼 𒁍 𒍑
+𒄖 𒁀 𒊑 𒆷 𒁕 𒄠 𒆪 𒁴
+𒀀 𒈾 𒈠 𒅈 𒅆 𒅁 𒊑 𒅀
+𒋫 𒀸 𒆪 𒌦 𒈠 𒌝 𒈠 𒀜 𒋫 𒈠
+𒋳 𒈠 𒋼 𒇷 𒆠 𒀀 𒇷 𒆠 𒀀
+𒋳 𒈠 [𒆷] 𒋼 𒇷 𒆠 𒀀 𒀜 𒆷 𒅗
+𒅀 𒋾 𒀀 𒈾 𒆠 𒈠 𒈠 𒀭 𒉌 𒅎
+𒌅 𒅆 𒅎 𒈠 𒉌 𒈠
+𒆠 𒀀 𒄠 𒋼 𒈨 𒊭 𒀭 𒉌
+𒈠 𒊑 𒀀 𒉿 𒇷 𒀀 𒈾 𒆠 𒈠 𒅗 𒋾
+𒀀 𒈾 𒆠 𒋛 𒅀 𒈠 𒄩 𒊑 𒅎
+𒀸 𒁍 𒊏 𒄠 𒈠
+𒌅 𒈨 𒄿 𒊭 𒄠 𒈠
+𒄿 𒈾 𒂵 𒂵 𒅈 𒈾 𒀝 𒊑 𒅎
+𒅖 𒋾 𒅖 𒋗 𒅇 𒅆 𒉌 𒋗
+𒊑 𒆪 𒋢 𒉡 𒌅 𒋼 𒅕 𒊏 𒄠
+𒄿 𒈾 𒀀 𒇷 𒅅 𒋼 𒂖 𒈬 𒌦
+𒈠 𒀭 𒉡 𒌝 𒊭 𒆠 𒀀 𒄠
+𒄿 𒁍 𒊭 𒀭 𒉌 𒄿 𒈠
+𒀜 𒋫 𒈠 𒅈 𒅆 𒅁 𒊑 𒅀 𒌅 𒈨 𒂊 𒅖
+𒀀 𒈾 𒈠 𒆷 𒅗 𒊍 𒉿 𒅎
+𒊭 𒄿 𒈾 𒂵 𒋾 𒅀 𒌅 𒊺 𒍪 𒌑
+𒆠 𒀀 𒄠 𒋫 𒁕 𒁍 𒌒
+𒅇 𒀸 𒋳 𒄿 𒅗
+𒀀 𒈾 𒂍 𒃲 𒇷
+𒌋 𒐍 𒄘 𒍏 𒀀 𒈾 𒆪 𒀜 𒁲 𒅔
+𒅇 𒋗 𒈪 𒀀 𒁍 𒌝
+𒌋 𒐍 𒄘 𒍏 𒄿 𒁲 𒅔
+𒂊 𒍣 𒅁 𒊭 𒀀 𒈾 𒂍 𒀭 𒌓
+𒆪 𒉡 𒊌 𒅗 𒄠 𒉌 𒍣 𒁍
+𒀀 𒈾 𒉿 𒊑 𒅎 𒊭 𒀀 𒋾
+𒆠 𒄿 𒋼 𒁍 𒊭 𒀭 𒉌
+𒆠 𒋛 𒄿 𒈾 𒂵 𒂵 𒅈 𒈾 𒀝 𒊑
+𒌅 𒊌 𒋾 𒅋
+𒆠 𒋛 𒀀 𒈾 𒂵 𒋾 𒅀
+𒋗 𒇻 𒈠 𒄠 𒂊 𒇷 𒅗 𒄿 𒋗
+𒆠 𒈠 𒀭 𒉌 𒆠 𒀀 𒄠
+𒉿 𒊑 𒀀 𒄠 𒆷 𒁺 𒈬 𒂵 𒄠
+𒆷 𒀀 𒈠 𒄩 𒊒 𒅗 𒋫 𒆷 𒈠 𒀜
+𒄿 𒈾 𒆠 𒊓 𒇷 𒅀
+𒅖 𒋾 𒈾 𒀀 𒌑 𒈾 𒍝 𒀝 𒈠
+𒂊 𒇷 𒆠
+𒅇 𒀀 𒈾 𒊭 𒌅 𒈨 𒄿 𒊭 𒀭 𒉌
+𒈾 𒋛 𒄴 𒋫 𒄠 𒂊 𒁍 𒍑 𒅗
+                `
+                unlockReturnControls()
+            }
+            else if (age > 120) {
+                form.innerText = "You're fucking dead at this point lmao rest in peace 🪦🪦🪦🪦🪦🪦🪦🪦"
+                unlockReturnControls()
+            }
+            else {
+                form.innerText = `Age verified! Thank you for your free data we will sell it to random but very trustworthy spying companies thank you very much!!! uwu 👉👈
+Your 404 page is on the way . . .`
+                setTimeout(show404, 5000)
+            }
+        }</script></body></html>
