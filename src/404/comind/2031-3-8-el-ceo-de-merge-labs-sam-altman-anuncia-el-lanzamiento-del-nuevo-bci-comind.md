@@ -3,7 +3,7 @@ layout: "layouts/404/comind-article-layout.html"
 title: "El CEO de Merge Labs, Sam Altman, anuncia el lanzamiento del nuevo BCI \"Co-Mind\""
 next_title: "Co-Mind: Estudiando el caso de uniformidad ideologica"
 next_link: "/404/comind/2031-7-28-co-mind-estudiando-el-caso-de-uniformidad-ideologica/"
-next_image: "/images/404/comind/black-reptilian.png" #TODO
+next_image: "/images/404/comind/uniformidad-ideologica.png"
 comentarios: [
     {
         "nombre": "nathan the gentle giant",

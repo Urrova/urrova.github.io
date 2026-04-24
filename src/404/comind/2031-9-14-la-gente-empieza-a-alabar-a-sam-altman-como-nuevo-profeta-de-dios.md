@@ -3,7 +3,7 @@ layout: "layouts/404/comind-article-layout.html"
 title: "La gente empieza a alabar a Sam Altman como nuevo profeta de Dios"
 prev_title: "Co-Mind: Estudiando el caso de uniformidad ideologica"
 prev_link: "/404/comind/2031-7-28-co-mind-estudiando-el-caso-de-uniformidad-ideologica/"
-prev_image: "/images/404/comind/black-reptilian.png" #TODO
+prev_image: "/images/404/comind/uniformidad-ideologica.png"
 next_title: "Increible: Co-Mind y mutaciones reptilianas"
 next_link: "/404/comind/2032-2-25-increible-co-mind-y-mutaciones-reptilianas/"
 next_image: "/images/404/comind/reptile-pandemic.png"

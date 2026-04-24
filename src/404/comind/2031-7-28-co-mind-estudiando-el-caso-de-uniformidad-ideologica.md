@@ -29,6 +29,8 @@ comentarios: [
 # Co-Mind: Estudiando el caso de uniformidad ideologica
 *Publicado el 28 de julio de 2031*
 
+![UNIFORMIDAD IDEOLOGICA ...¿vivimos una era donde todo el mundo piensa igual?...](/images/404/comind/uniformidad-ideologica.png) {.center}
+
 Desde hace unos meses, la gente percibe en las calles una sensacion de vacio, liminalidad, una sensacion analoga al [uncanny valley](https://es.wikipedia.org/wiki/Valle_inquietante), pero ahora con la gente en vez de robots.
 
 **Los usuarios de Co-Mind empiezan a pensar todos de maneras muy parecidas**. Empiezan a hablar exactamente con las mismas frases. Empiezan a tener las mismas ideas. Empiezan a tener los mismos gustos, se visten de la misma forma... La expresion "todos son NPC" se empieza a sentir extrañamente real.
