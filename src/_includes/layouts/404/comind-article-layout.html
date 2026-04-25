@@ -150,15 +150,19 @@
     <div class="prev-next-flexbox">
         <div class="prev-box">
             {%if prev_title%}
-                <i>articulo anterior</i>
-                <hr>
+                {%if not prevnext_labels_disable%}
+                    <i>articulo anterior</i>
+                    <hr>
+                {%endif%}
                 <a href="{{prev_link}}">
                     {%if prev_image%}<img src="{{prev_image}}"/>{%endif%}
                     <p>{{prev_title}}</p>
                 </a>
             {%else%}
-                <i>articulo anterior</i>
-                <hr>
+                {%if not prevnext_labels_disable%}
+                    <i>articulo anterior</i>
+                    <hr>
+                {%endif%}
                 <a href="/surrender/to/the/void">
                     <img src="/images/404/comind/black-reptilian.png"/>
                     <p>████████████ █████ ██ ██████████ ██████</p>
@@ -167,15 +171,19 @@
         </div>
         <div class="next-box">
             {%if next_title%}
-            <i class="right">siguiente articulo</i>
-            <hr>
+                {%if not prevnext_labels_disable%}
+                    <i class="right">siguiente articulo</i>
+                    <hr>
+                {%endif%}
                 <a href="{{next_link}}">
                     {%if next_image%}<img src="{{next_image}}"/>{%endif%}
                     <p>{{next_title}}</p>
                 </a>
             {%else%}
-            <i class="right">siguiente articulo</i>
-            <hr>
+                {%if not prevnext_labels_disable%}
+                    <i class="right">siguiente articulo</i>
+                    <hr>
+                {%endif%}
                 <a href="/surrender/to/the/void">
                     <img src="/images/404/comind/black-reptilian.png"/>
                     <p>████████████ █████ ██ ██████████ ██████</p>
