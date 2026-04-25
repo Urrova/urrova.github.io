@@ -27,12 +27,12 @@
         }
 
         hr {
-            border: 1px solid #C8C8C8;
+            border: 1px solid #999;
         }
 
-        .center {
-            text-align: center;
-        }
+        .left { text-align: left; }
+        .right { text-align: right; }
+        .center { text-align: center; }
 
         nav {
             margin: 0;
@@ -76,12 +76,42 @@
         .next-box { margin-left: 2rem; }
 
         .margin {margin: 0 10%;}
+
+        .mobile-hamburger { display: none; }
+
+        @media only screen and (max-device-width: 768px) {
+            article {
+                padding: 1rem;
+                margin: 2rem 5%;
+            }
+
+            img { width: 95%; }
+            .img_small { max-width: 80%; }
+
+            .nav_links { display: none; }
+            .nav_links.toggled { display: block; }
+
+            .nav_links a { display: block; }
+
+            .prev-next-flexbox {
+                margin: 1rem 5%;
+                flex-direction: column;
+            }
+
+            .prev-next-flexbox div { padding: 1rem 0.5rem }
+
+            .prev-box { margin-right : 0;}
+            .next-box { margin-left : 0;}
+            .margin {margin: 0 5%;}
+
+            .mobile-hamburger { display: inline; }
+        }
     </style>
 </head>
 <body>
     <nav>
         <div>
-            <h1>⋏⟒⍙ ⍙⍜⍀⌰⎅ ⏁⍀⎍⏁⊑</h1>
+            <h1><a class="mobile-hamburger" onClick="toggleNavLinks()">≡</a> ⋏⟒⍙ ⍙⍜⍀⌰⎅ ⏁⍀⎍⏁⊑</h1>
         </div>
         <div class="nav_links">
             <a href="/SLOTH/">⋔⏃⟟⋏</a>
@@ -116,11 +146,15 @@
     <div class="prev-next-flexbox">
         <div class="prev-box">
             {%if prev_title%}
+                <i class="left">⎍⌇⟒⌰⟒⌇⌇ ⌿⏃⌇⏁, ⍙⏃⟟⏁⟟⋏☌ ⏁⍜ ⏚⟒ ⌿⎍⍀☌⟒⎅</i>
+                <hr>
                 <a href="{{prev_link}}">
                     {%if prev_image%}<img src="{{prev_image}}"/>{%endif%}
                     <p>{{prev_title}}</p>
                 </a>
             {%else%}
+                <i class="left">⎍⌇⟒⌰⟒⌇⌇ ⌿⏃⌇⏁, ⍙⏃⟟⏁⟟⋏☌ ⏁⍜ ⏚⟒ ⌿⎍⍀☌⟒⎅</i>
+                <hr>
                 <a href="/surrender/to/the/void">
                     <img src="/images/404/comind/black-reptilian.png"/>
                     <p>████████████ █████ ██ ██████████ ██████</p>
@@ -129,11 +163,15 @@
         </div>
         <div class="next-box">
             {%if next_title%}
+                <i class="right">⏁⊑⟒ ⋏⟒⍙ ⟒⍀⏃ ⌇⏁⏃⍀⏁⌇ ⋏⍜⍙</i>
+                <hr>
                 <a href="{{next_link}}">
                     {%if next_image%}<img src="{{next_image}}"/>{%endif%}
                     <p>{{next_title}}</p>
                 </a>
             {%else%}
+                <i class="right">⏁⊑⟒ ⋏⟒⍙ ⟒⍀⏃ ⌇⏁⏃⍀⏁⌇ ⋏⍜⍙</i>
+                <hr>
                 <a href="/surrender/to/the/void">
                     <img src="/images/404/comind/black-reptilian.png"/>
                     <p>████████████ █████ ██ ██████████ ██████</p>
@@ -141,5 +179,23 @@
             {%endif%}
         </div>
     </div>
+
+    <script>
+        const navLinks = document.getElementsByClassName("nav_links")[0]
+        
+        var navToggle = false
+
+
+        const toggleNavLinks = () => {
+            if (navToggle) {
+                navLinks.className = "nav_links"
+            }
+            else {
+                navLinks.className = "nav_links toggled"
+            }
+
+            navToggle = !navToggle;
+        }
+    </script>
 </body>
 </html>
