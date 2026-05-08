@@ -73,13 +73,16 @@ function marqueeSetter(){
 				"The Doom era ended; now starts....... i dunno xd",
 				"Do pe churo namen o manta dublem. Tis manama boblis. Tis bobles berra berra! Aklaba! Aklaba booptis. Emen ba depra da bapne nada. Oktis. Ba! Puro oktis, eh? Manta wanta wanta chokta ba na zur, wunto arewa bis na challa. Oto vi chur onomen ob wanta manta doblem. Emen ba temprana bapanada oktis. Munta arewa bis na challa. --Zote (Hollow Knight)",
 				"fortune | cowsay | lolcat",
-				"Overthinking, overanalyzing, separates the body from the mind; -TOOL, Lateralus. (I LUVE anxiety lol)",
-				"Society now is literally Akira: The Handmaid's Clockwork Black Serial Texhnoxperiments Matrix 1984º Farenheit in the Shell 2077",
-				"I will not die until I achieve something. Even though the ideal is WHAT THE FUCK IS THAT STAGE 3!!?? --Ikaruga (2001) aka the game i'll never beat",
-				"What you are staring right now, this moving text also named \"marquee\", isnt anything more than a weapon invented by Microsoft, to defeat Netscape in the navigator wars............",
+				"Overthinking, overanalyzing, separates the body from the mind; -TOOL, Lateralus.",
+				"Society now is literally Akira: The Handmaid's Clockwork Black Serial Ergo Texhnoxperiments Matrix 1984º Farenheit in the Shell 2077",
+				"I will not die until I achieve something. Even though the ideal is WHAT THE FUCK IS THAT STAGE THREE!!?? --Ikaruga (2001) aka the game i'll never beat",
+				"Bye bye MARQUEE, I'm gonna miss you...",
 				"I like bullet hells (suffering and ragequitting)",
 				"👁️👁️ DONT 👁️👁️ TRUST 👁️👁️ TECH 👁️👁️",
-				"Ultrakill turning you into a femboy is just a psyop made by Activision to sell more Call of Duty"
+				"Ultrakill turning you into a femboy is a PSYOP made by Big Activision to sell more Call of Duty",
+				"Touhou is literally Jojo's Bizarre Adventure but with lolis instead of gay femboys.",
+				"ゴゴゴゴゴゴゴゴゴゴゴゴゴゴ",
+				"<a href=\"/embrace/the/void\">embrace the void</a>"
 			);
 			break;
 		case "espanol":
@@ -90,13 +93,16 @@ function marqueeSetter(){
 				"La era Doom termino; y ahora empieza...... no se xd",
 				"Do pe churo namen o manta dublem. Tis manama boblis. Tis bobles berra berra! Aklaba! Aklaba booptis. Emen ba depra da bapne nada. Oktis. Ba! Puro oktis, eh? Manta wanta wanta chokta ba na zur, wunto arewa bis na challa. Oto vi chur onomen ob wanta manta doblem. Emen ba temprana bapanada oktis. Munta arewa bis na challa. --Zote (Hollow Knight)",
 				"fortune | cowsay | lolcat",
-				"Sobrepensar, sobreanalizar, separa el cuerpo del alma; -TOOL, Lateralus. (AMO ansiedad)",
-				"La sociedad ahora es literalmente Akira: El cuento de La Naranja Black Serial Texhnoxperiments Matrix 1984º Farenheit in the Shell 2077",
-				"I will not die until I achieve something. Even though the ideal is QUE CARAJO ES ESE STAGE 3!!?? --Ikaruga (2001) aka el juego que nunca me voy a pasar",
-				"Lo que estas mirando ahora, este texto moviendose tambien llamado \"marquee\", no es mas que un arma inventada por Microsoft, para ganarle a Netscape en la guerra de los navegadores..............",
+				"Sobrepensar, sobreanalizar, separa el cuerpo del alma; -TOOL, Lateralus.",
+				"La sociedad ahora es literalmente Akira: El cuento de La Naranja Black Serial Ergo Texhnoxperiments Matrix 1984º Farenheit in the Shell 2077",
+				"I will not die until I achieve something. Even though the ideal is QUE CARAJO ES ESE STAGE TRES!!?? --Ikaruga (2001) aka el juego que nunca me voy a pasar",
+				"Adios MARQUEE, voy a extrañarte...",
 				"Me gustan los bullet hells (sufrir y tiltearme)",
 				"👁️👁️ NO 👁️👁️ CONFIES 👁️👁️ EN 👁️👁️ LA 👁️👁️ TECNOLOGIA 👁️👁️",
-				"Ultrakill convirtiendote en femboy es solamente un psyop hecho por Activision para vender mas Call of Duty"
+				"Ultrakill convirtiendote en femboy es un PSYOP de Big Activision para vender mas Call of Duty",
+				"Tohuou es literalmente Jojo's Bizarre Adventure pero con lolis en vez de travestis gays.",
+				"ゴゴゴゴゴゴゴゴゴゴゴゴゴゴ",
+				"<a href=\"/embrace/the/void\">embrace the void</a>"
 			);
 			break;
 	}

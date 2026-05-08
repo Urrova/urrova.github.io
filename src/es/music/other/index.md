@@ -16,7 +16,7 @@ Musica random que no supe realmente donde poner...
 
 Un tema que hice para hacer algo con OpenUTAU usando el patch de Kasane Teto, y salio esta huevada. Habla de comida italiana (italianos no me peguen pls)
 
-## Nitroglicerin Powered - 6/1/2026
+## Nitroglycerin Powered - 6/1/2026 { #nitroglycerin-powered }
 
 <div class="youtube-video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cP5-jJK_wrQ?si=67HqamfxMiBytPPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,28 @@
+.marquee-containter {
+    padding-top:5px;
+    padding-bottom:5px;
+    overflow: hidden;
+}
+
+.marquee {
+  width: 100%;
+  animation: marquee 20s linear infinite;
+  overflow: hidden;
+  height: 1rem;
+}
+
+
+@keyframes marquee {
+  0% {transform: translateX(100%);}
+  100% {transform: translateX(-100%);}
+}
+
+@media screen and (max-width: 600px) {
+	.marquee {
+        animation: none;
+        height:auto;
+    }
+    .marquee-containter {
+        overflow:visible;
+    }
+}

@@ -4,6 +4,9 @@ title: "El CEO de Merge Labs, Sam Altman, anuncia el lanzamiento del nuevo BCI \
 next_title: "Co-Mind: Estudiando el caso de uniformidad ideologica"
 next_link: "/404/comind/2031-7-28-co-mind-estudiando-el-caso-de-uniformidad-ideologica/"
 next_image: "/images/404/comind/uniformidad-ideologica.png"
+author:
+  name: "Rodolfo Kleiner"
+  description: "Periodista apasionado en el ambito de ciencia y tecnologia."
 comentarios: [
     {
         "nombre": "nathan the gentle giant",

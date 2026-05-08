@@ -11,9 +11,7 @@ tabs:
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
 
-Soy un chabon que vive en <span class="text_green text_glitchy text_monospace">La MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
-
-Ahora mismo hago musica, mods de videojuegos, e intento vivir la vida (sin exito).
+Soy un chabon que vive en este mundo distopia ciberpunk en el que vivimos, especificamente en Argentina. Me gustan hacer musica, el gamedev/modding, y otras cosas. A veces intento vivir la vida (sin exito).
 
 ## VIDEOJUEGOS
 Soy del tipo de gente que les gusta desperdiciar su vida jugando videojuegos :p. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
@@ -29,7 +27,7 @@ Luego descubri el Increible Mundo de los Videojuegos Indie, los Indies de Clase 
 - Shoot em ups, mas si son del genero bullet hell (Touhou Project; Eschatos; Ikaruga). 
 - Plataformas de laberinto aka "metroidvanya" (Symphony of the Night; Hollow Knight y Silksong; Touhou Luna Nights)
 - <span class="text_stoned">Simuladores de porro con hongos</span> (juegos fumados como LSD Dream Emulator)
-- A veces juego Coops De Moda Que Solo Duarn 2 Semanas (como R.E.P.O. y Peak)
+- Coops De Moda Que Solo Duran 2 Semanas (como R.E.P.O. y Peak)
 
 </details>
 
@@ -50,7 +48,7 @@ Casi siempre uso archivos de audio, aunque a veces hago MIDIs para proyectos de 
 - Cuarteto de Nos
 - Dream Theater; Symphony X; Michael Romeo; King Crimson; TesseracT; Stick Men y otras bandas de prog/metal
 - AL MAS GRANDE DEL PLANETA TIERRA Residente Calle 13
-- Camellia; Xtrullor; PERTURBATOR; Carpenter Brut y otros generos de electronica asi heavy
+- Electronica heavy como Xtrullor; PERTURBATOR; Carpenter Brut; The Algorithm, a veces Camellia
 - Dragonforce; Stratovarius y otras bandas de power metal.
 - OSTs de Videojuegos y Series, mientras mas dramaticos mejor (Touhou, Hotline Miami, Attack on Titan)
 - Ultimamente cai en Vocaloid depresivo (Kikuo)

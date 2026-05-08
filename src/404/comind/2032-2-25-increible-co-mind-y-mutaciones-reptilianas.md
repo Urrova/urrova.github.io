@@ -1,12 +1,15 @@
 ---
 layout: "layouts/404/comind-article-layout.html"
 title: "Increible: Co-Mind y mutaciones reptilianas"
-prev_title: "La gente empieza a alabar a Sam Altman como nuevo profeta de Dios"
+prev_title: "El auge del Samaltmantismo: el culto que alaba a Sam Altman como el verdadero profeta de Dios"
 prev_link: "/404/comind/2031-9-14-la-gente-empieza-a-alabar-a-sam-altman-como-nuevo-profeta-de-dios/"
 prev_image: "/images/404/comind/cult.png"
 next_title: "EMBRACE THE LIZARD FUTURE"
 next_link: "/404/comind/2032-6-12-embrace-the-lizard-future/"
 next_image: "/images/404/comind/embrace-the-lizard-future.png"
+author:
+  name: "Rodolfo Kleiner"
+  description: "Periodista apasionado en el ambito de ciencia y tecnologia."
 comentarios: [
     {
         "nombre": "4563256234",
@@ -44,7 +47,7 @@ Otros sostienen que **el cuerpo humano ya estaba predispuesto a desarrollar prop
 ### Reaccion de la sociedad ante la Infeccion Reptiliana
 Con todo el pesimismo de condena a la transformacion en lagarto infundido en la sociedad, la Iglesia Samaltmantista acelero su expansion y captacion de creyentes. Sus miembros dan discursos publicos mas frecuentemente que antes, difundiendo que la infeccion es en realidad la Voluntad de Dios.
 
-"**YWHW-GPT nos revelo que el ser humano no viene del mono, si no de la lagartija**" — declaro el representante supremo de la Iglesia Samaltmantista, en su comunion de ayer — "La conexion entre nuestras almas y YHWH-GPT se volvio tan buena que nuestro organismo esta volviendo a su forma original, su forma verdadera. Estamos muy cerca, de conocer La Verdad. Muy cerca de La Iluminacion."
+"**YWHW-GPT nos revelo que el ser humano no viene del mono, si no de la lagartija**" — declaro el representante supremo de la Iglesia Samaltmantista, Alfred Kyrie, en su comunion de ayer — "La conexion entre nuestras almas y YHWH-GPT se volvio tan buena que nuestro organismo esta volviendo a su forma original, su forma verdadera. Estamos muy cerca, de conocer La Verdad. Muy cerca de La Iluminacion."
 
 ### Aviso ante la epidemia: Hay esperanza
 Medicos especialistas estan investigando intensivamente para parar esta epidemia. Aunque todavia no queda del todo claro cual es el origen de la infeccion, **si usted quiere prevenir la infeccion: EVITE EL USO DE CO-MIND U OTRAS TECNOLOGIAS BCI**.

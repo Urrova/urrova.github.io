@@ -12,6 +12,6 @@ Hola sigo vivo xd
 
 Subi **Nitroglicerin Powered**, un tema que hice usando KORG M01 en un Nintendo DS Lite del 2006.
 
-Disponible en la seccion de musica! Lo subire a youtube cuando haga una imagen para usar de cover.
+Disponible en la seccion de musica! Lo subire a youtube cuando haga una imagen para usar de cover. (edit: ya lo subi, esta disponible en la [seccion de Musica Otra](http://localhost:8080/es/music/other#nitroglycerin-powered))
 
 Also FINALMENTE FUERA DEL DOOM!

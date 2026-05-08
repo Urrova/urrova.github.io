@@ -17,11 +17,17 @@ My links to my other sites on the internets.
 
 - <img src="/images/icons/bluesky.svg" class="icon"> [Bluesky](https://bsky.app/profile/urrova.bsky.social)
 - <img src="/images/icons/youtube.svg" class="icon"> [Youtube](https://www.youtube.com/channel/UCWTkJdOQ96_MjLmMmYBEmXw)
+- [🎵 TikTok](/video/rapidsave.com_yo_no_uso_tik_tok-0xbexdqb5zj71-240.mp4) { .random-20 }
 
 ### 🌎 Other Sites
 - <img src="/images/icons/itchdotio.svg" class="icon"> [itch.io](https://urrova.itch.io/)
 - <img src="/images/icons/github.svg" class="icon"> [Github](https://github.com/Urrova)
 - <img src="/images/icons/myanimelist.svg" class="icon"> [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) aka Weeb Facebook
+
+### 🤬 You hate social media?
+I have RSS feeds (that are actually Atom feeds but these are the same)
+- <img src="/images/icons/rss.svg" class="icon"> [In english](/en/feed.xml)
+- <img src="/images/icons/rss.svg" class="icon"> [In spanish](/es/feed.xml)
 
 ### 🪦 Link Graveyard 🪦
 Sites where I dont log in since a loooooong time, rest in peace.

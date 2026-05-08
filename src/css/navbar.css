@@ -77,7 +77,9 @@ nav hr{
 #Navbar_marquee{
 	font-family: var(--font-marquee), monospace;
 	color: /*#00FF00*/ #FFFFFF;
-	font-size: 12px;
+	font-size: 10px;
+	padding: 5px;
+	
 }
 
 #navbar_title_desktop{

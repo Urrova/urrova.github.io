@@ -1,4 +1,11 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>⚠️ Please verify your age to see this 404 page.</title><style>@import url("css/fuentes.css");
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚠️ Please verify your age to see this 404 page.</title>
+    <style>
+        @import url("css/fuentes.css");
 
         body {
             /*display:flex;*/
@@ -55,7 +62,74 @@
         .center { text-align: center; }
         .right { text-align: right; }
 
-        .hidden { display: none; }</style></head><body><main id="main-content"><h3 class="left">Oops! This 404 page requires</h3><h1 class="center title"><span style="--i:1">✨</span> <span style="--i:2"></span> <span style="--i:3">A</span> <span style="--i:4">G</span> <span style="--i:5">E</span> <span style="--i:6"></span> <span style="--i:7">V</span> <span style="--i:8">E</span> <span style="--i:9">R</span> <span style="--i:10">I</span> <span style="--i:11">F</span> <span style="--i:12">I</span> <span style="--i:13">C</span> <span style="--i:14">A</span> <span style="--i:15">T</span> <span style="--i:16">I</span> <span style="--i:17">O</span> <span style="--i:18">N</span> <span style="--i:19"></span> <span style="--i:20">✨</span></h1><h3 class="right">to be shown!</h3><hr><div class="center" id="form1"><p>Please insert your age here to verify your age: <input type="number" id="age"> <input type="button" value="Send age" onclick="verifyAge()"></p></div><div class="center"><div class="hidden" id="return-links"><a href="/en/">return to main</a> - <a href="/es/">volver al inicio</a></div></div></main><main id="main-content-2" class="hidden"><h1 class="center">🚫 404: Pagina no encontrada 🚫</h1><div class="center"><img src="/images/xd/hunger-humper.jpg"></div><p class="center">We couldn't find the page you requested. Please try again and check your hyperlinks.</p><p class="center">No pudimos encontrar la pagina que buscabas. Por favor intentelo de nuevo y verifique sus hipervinculos.</p><hr><div class="center"><div id="return-links"><a href="/en/">return to main</a> - <a href="/es/">volver al inicio</a></div></div></main><script>const unlockReturnControls = () => {
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <main id="main-content">
+        <h3 class="left">Oops! This 404 page requires</h3>
+            <h1 class="center title">
+                <span style="--i:1">✨</span>
+                <span style="--i:2"> </span>
+                <span style="--i:3">A</span>
+                <span style="--i:4">G</span>
+                <span style="--i:5">E</span>
+                <span style="--i:6"> </span>
+                <span style="--i:7">V</span>
+                <span style="--i:8">E</span>
+                <span style="--i:9">R</span>
+                <span style="--i:10">I</span>
+                <span style="--i:11">F</span>
+                <span style="--i:12">I</span>
+                <span style="--i:13">C</span>
+                <span style="--i:14">A</span>
+                <span style="--i:15">T</span>
+                <span style="--i:16">I</span>
+                <span style="--i:17">O</span>
+                <span style="--i:18">N</span>
+                <span style="--i:19"> </span>
+                <span style="--i:20">✨</span>
+            </h1>
+        <h3 class="right">to be shown!</h3>
+
+        <hr>
+        <div class="center" id="form1">
+            <p>Please insert your age here to verify your age: <input type="number" id="age"> <input type="button" value="Send age" onclick="verifyAge()"></p>
+        </div>
+
+        <div class="center">
+            <div class="hidden" id="return-links">
+                <a href="/en/">return to main</a>
+                -
+                <a href="/es/">volver al inicio</a>
+            </div>
+        </div>
+    </main>
+
+    <main id="main-content-2" class="hidden">
+        <h1 class="center">🚫 404: Pagina no encontrada 🚫</h1>
+
+        <div class="center">
+            <img src="/images/xd/hunger-humper.jpg">
+        </div>
+
+        <p class="center">We couldn't find the page you requested. Please try again and check your hyperlinks.</p>
+        <p class="center">No pudimos encontrar la pagina que buscabas. Por favor intentelo de nuevo y verifique sus hipervinculos.</p>
+    
+        <hr>
+
+        <div class="center">
+            <div id="return-links">
+                <a href="/en/">return to main</a>
+                -
+                <a href="/es/">volver al inicio</a>
+            </div>
+        </div>
+    </main>
+
+
+    <script>
+        const unlockReturnControls = () => {
             var controls = document.getElementById("return-links");
             controls.className = ""
         }
@@ -147,4 +221,7 @@
 Your 404 page is on the way . . .`
                 setTimeout(show404, 5000)
             }
-        }</script></body></html>
+        }
+    </script>
+</body>
+</html>

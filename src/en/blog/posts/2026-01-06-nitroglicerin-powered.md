@@ -12,6 +12,6 @@ Hi im still alive xd
 
 I've uploaded <b>Nitroglicerin Powered</b>, a theme i made using KORG M01 in a Nintendo DS Lite from 2006.
 
-I'ts available on the music section! I'll upload it to youtube when i have an image to use as a cover.
+I'ts available on the music section! I'll upload it to youtube when i have an image to use as a cover. (Already uplodaded it, it's available on the [Other Music section](http://localhost:8080/en/music/other#nitroglycerin-powered))
 
 Also FINALLY OUSIDE DOOM!

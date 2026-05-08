@@ -110,6 +110,12 @@
 
             .mobile-hamburger { display: inline; }
         }
+
+        footer {
+            background-color: #000;
+            color: #FFF;
+            padding: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -131,6 +137,15 @@
     <article>
         {% block content %} {{ content | safe }} {% endblock %}
     </article>
+
+    {%if author%}
+    <article>
+        <div class="left"><i>Sobre el autor</i></div>
+        <h2>{{author.name}}</h2>
+        <p>{{author.description}}</p>
+    </article>
+    {%endif%}
+    
 
     {%if comentarios%}
     <article>
@@ -191,6 +206,11 @@
             {%endif%}
         </div>
     </div>
+
+    <footer>
+        <p><b>PAGINA|1337</b> - Siempre comunicamos La Verdad</p>
+        <p>"Cree en nosotros. Cree en La Verdad."</p>
+    </footer>
 
     <script>
         const navLinks = document.getElementsByClassName("nav_links")[0]

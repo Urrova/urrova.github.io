@@ -4,9 +4,12 @@ title: "Co-Mind: Estudiando el caso de uniformidad ideologica"
 prev_title: "El CEO de Merge Labs, Sam Altman anuncia el lanzamiento del nuevo BCI \"Co-Mind\""
 prev_link: "/404/comind/2031-3-8-el-ceo-de-merge-labs-sam-altman-anuncia-el-lanzamiento-del-nuevo-bci-comind/"
 prev_image: "/images/404/comind/comind-a-copilot-for-your-brain.png"
-next_title: "La gente empieza a alabar a Sam Altman como nuevo profeta de Dios"
+next_title: "El auge del Samaltmantismo: el culto que alaba a Sam Altman como el verdadero profeta de Dios"
 next_link: "/404/comind/2031-9-14-la-gente-empieza-a-alabar-a-sam-altman-como-nuevo-profeta-de-dios/"
 next_image: "/images/404/comind/cult.png"
+author:
+  name: "Lopez Vance"
+  description: "Periodista enfocado en el ambito social."
 comentarios: [
     {
         "nombre": "nathan the gentle giant",

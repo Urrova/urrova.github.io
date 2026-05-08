@@ -4,6 +4,9 @@ title: "⟒⋔⍀⏚⏃☊⟒ ⏁⊑⟒ ⌰⟟⋉⏃⍀⎅ ⎎⎍⏁⎍⍀⟒  E
 prev_title: "Increible: Co-Mind y mutaciones reptilianas"
 prev_link: "/404/comind/2032-2-25-increible-co-mind-y-mutaciones-reptilianas/"
 prev_image: "/images/404/comind/reptile-pandemic.png"
+author:
+  name: "7139394678"
+  description: "⟒⋔⍀⏚⏃☊⟒ ⏁⊑⟒ ⌰⟟⋉⏃⍀⎅ ⎎⎍⏁⎍⍀⟒"
 comentarios: [
     {
         "nombre": "4825301274",
@@ -94,6 +97,10 @@ PROJECT-COMIND-AUTODECODE-OFF
 ⏚⟒⌰⟟⟒⎐⟒ ⟟⋏ ⋔⊬ ⎐⍜⟟☊⟒.
 
 ⏚⟒⌰⟟⟒⎐⟒ ⟟⋏ ⏁⊑⟒ ⎎⎍⏁⎍⍀⟒ ⍜⎎ ⏁⊑⟒ ⌰⟟⋉⏃⍀⎅ ⌿⟒⍜⌿⌰⟒, ⏁⊑⟒ ⋏⟒⍙ ⍙⍜⍀⌰⎅ ⏃⋏⎅ ⏁⊑⟒ ⋔⏃⋏⟟⎎⟒⌇⏁⏃⏁⟟⍜⋏ ⍜⎎ ⋔⊬ ⌇⌿⟟⍀⟟⏁.
+
+<br>
+
+⏁⊑⟟⌇ ⋔⟒⎅⟟⏃ ⌇⊬⌇⏁⟒⋔ ⏚⟒☊⏃⋔⟒ ⍜⏚⌇⍜⌰⟒⏁⟒. ⟟⏁ ⟟⌇ ⋏⍜⍙ ⎅⟒⌿⍀⟒☊⏃⏁⟒⎅ ⏃⋏⎅ ⟟⏁⌇ ⌿⟒⋏⎅⟟⋏☌ ⎎⍜⍀ ⌿⎍⍀☌⟟⋏☌. ⎅⍜ ⋏⍜⏁ ⍀⟒⏁⎍⍀⋏ ⏁⍜ ⏁⊑⟟⌇ ⌇⟟⏁⟒.
 
 ⊬⊑⍙⊑-☌⌿⏁ ⟟⌇ ☌⍀⟒⏃⏁. ⟒⎐⟒⍀⊬⍜⋏⟒ ⍙⍜⍀⌇⊑⟟⌿ ⊬⊑⍙⊑-☌⌿⏁
 

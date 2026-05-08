@@ -12,9 +12,7 @@ tabs:
 
 No cuarteto de nos reference for english users lol.
 
-I'm a guy that lives in <span class="text_green text_glitchy text_monospace">The MATRIX/Rapture/Raccoon city</span> a.k.a. Argentina. 
-
-I dont know what I'm really doing with my life, so i try making music, game mods, and try to live life (unsucessfully).
+I'm a guy, a typical nerd living on this cyberpunk dystopia of a world, specifically in Argentina. I like videogames, making music, gamedev/game modding, and other stuff. Sometimes i try to actually live life (unsucessfully).
 
 ## VIDEOGAMES
 I'm the kind of guy that likes to waste his life on computer simulations. I started playing videogames with shit hardware so i ended being what in my country is named an <span class="text_waving">emulapoor</span>, playing old NES/GBA/N64/MSDOS games. 
@@ -28,9 +26,9 @@ Later I discovered the Amazing World of Indie Games, both the Upper Indie Class,
 - Old FPS games (DOOM; Quake; Half-Life) and their indie resurrection (DUSK; ULTRAKILL).
 - Rythm games (osu!; Taiko no Tatsujin; JSAB; Geometry Dash) 
 - Shoot em ups, going to bullet hell (Touhou Project, Eschatos, Ikaruga). 
-- Maze platformers aka "metroidvanya" (Symphony of the Night, Hollow Knight & Silksong, Touhou Luna Nights)
+- Maze platformers aka "metroidvanya" (Symphony of the Night, Hollow Knight & Silksong, Touhou Luna Nights, Blasphemous)
 - <span class="text_stoned">c o o k e d  simulators</span> (stroke games like LSD Dream Emulator)
-- Sometimes I play Trending Coops That Only Lasts 2 Weeks (like R.E.P.O. and Peak)
+- Trending Coops That Only Lasts 2 Weeks (like R.E.P.O. and Peak)
 
 </details>
 
@@ -49,14 +47,14 @@ I make rock and electronic music, sometimes stand alone and sometimes as a sound
 - Cuarteto de Nos
 - Dream Theater; Symphony X; Michael Romeo; King Crimson; TesseracT and other prog rock/metal bands.
 - Calle 13
-- Camellia; Xtrullor; PERTURBATOR; Carpenter Brut and other heavy electronic music.
+- Camellia; Xtrullor; PERTURBATOR; Carpenter Brut; The Algorithm and other heavy electronic music.
 - Dragonforce; Stratovarius and other power metal bands.
 - Videogame and Series music (Touhou, Hotline Miami, Attack on Titan, etc)
 - Recently got into Depressive Vocaloid (Kikuo)
 </details>
 
 ## DOOM MODS
-I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red text_shaking" title="evil; use UZDoom now">GZDoom</span> making doom look like a second roblox, being Ancient Aliens my favourite mod.
+I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red text_shaking" title="evil; use UZDoom now">GZDoom</span> making doom look like "roblox if it was well made", being Ancient Aliens my favourite mod.
 
 **IMPSCAPE WAS AN EXCESS**{.text_red}, i'm pretty much ashamed of it. Don't take too seriously and life or death making mods for a game, don't put 2 years or something to your wad, you don't need to make the 32 maps megawad with 25000 ZScript lines to being valued. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
 
@@ -75,6 +73,7 @@ What FAQ????? Nobody knows me lol.
 🍣 Last Watched Anime
 
 **loading....?**{ #last-anime-watched }
+
 :::
 <script src="/js/last_anime_watched.js"></script>
 -----------------------------------------------------------------------------------
