@@ -96,3 +96,5 @@ Y el mio lo movieron a los B-Sides... Bueno, el mundo es tan justo como esto.
 </div>
 
 Un MIDI que hice para OUTLAND, de Johnny Cruelty/Grungo's, literalmente la ultima cosa que hago relacionada con doom. Es un mashup entre Where Do All My Firends Go de Oingo Boingo, y Mean Street de Van Halen. Luego me canse completamente, y me termine de caer del doom.
+
+(Edit 9/5/2026) Johnny/Grungo lanzo el primer capitulo de OUTLAND, y [lo podes descargar desde ModDB](https://www.moddb.com/mods/outland-chapter-1).

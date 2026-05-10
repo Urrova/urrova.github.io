@@ -4,12 +4,34 @@
 	<subtitle>This feed is thought for automation and cross-posting. Has no decorations for your RSS reader.</subtitle>
 	<link href="https://urrova.github.io/en/feed-plain.xml" rel="self"/>
 	<link href="https://urrova.github.io/"/>
-	<updated>2026-01-29T00:00:00Z</updated>
+	<updated>2026-05-11T00:00:00Z</updated>
 	<id>https://urrova.github.io</id>
 	<author>
 		<name>Urrova</name>
 		<email></email>
 	</author>
+	
+		
+		<entry>
+			<title>OUTLAND, another Doom Collab i collaborated, has launched its first episode</title>
+			<link href="https://urrova.github.io/en/blog/posts/2026-05-10-outland-launch/"/>
+			<updated>2026-05-11T00:00:00Z</updated>
+			<id>https://urrova.github.io/en/blog/posts/2026-05-10-outland-launch/</id>
+			<content type="html"><![CDATA[
+				<p class="imagen"><img src="https://media.moddb.com/cache/images/downloads/1/308/307693/thumb_620x2000/OUTLANDTITLE.png" alt="OUTLAND's TITLEPIC image" class="borde"></p>
+<p><strong>Johnny Cruelty/Grungo has released the first episode of OUTLAND</strong>, a planned 32-maps TC for Doom II. It's intended to be 6 episodes of 5 maps + 1 secret maps. It's compatibility is <strong>MBF21 (and uses DECOHACK)</strong>, so it's playable on the <a href="https://github.com/kraflab/dsda-doom">DSDA Doom</a> Sourceport.</p>
+<p>I've played it, and i can say this wad is <strong class="text_yellow">ABSOLUTE CINEMA</strong>. The maps are loooooooong, from the start you're welcomed with a HUGE open map on a city. Just look at this:</p>
+<div class="flexbox-container">
+<p class="imagen"><img src="https://media.moddb.com/cache/images/mods/1/71/70454/thumb_620x2000/nugg0045.png" alt="Screenie 0" class="borde"></p>
+<p class="imagen"><img src="https://media.moddb.com/cache/images/mods/1/71/70454/thumb_620x2000/nugg0063.png" alt="Screenie 1" class="borde"></p>
+<p class="imagen"><img src="https://media.moddb.com/cache/images/mods/1/71/70454/thumb_620x2000/nugg0056.png" alt="Screenie 2" class="borde"></p>
+<p class="imagen"><img src="https://media.moddb.com/cache/images/mods/1/71/70454/thumb_620x2000/nugg0057.png" alt="Screenie 3" class="borde"></p>
+</div>
+<p>For this project I've made two MIDIs: the title menu music, and <a href="/en/music/doom_collabs#outland">the music for MAP05</a>, the one that is a mashup of Oingo Boingo and Van Halen.</p>
+<p>If you're into Doom mods, <a href="https://www.moddb.com/mods/outland-chapter-1">It's downloadable from ModDB!</a></p>
+
+			]]></content>
+		</entry>
 	
 		
 		<entry>

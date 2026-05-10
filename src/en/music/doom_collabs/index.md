@@ -96,3 +96,5 @@ This MIDI has a story because it was going to be the Original A-Side MAP30 song 
 </div>
 
 A MIDI I made for OUTLAND, by Johnny Cruelty/Grungo's, literally the last thing I've made related to Doom. Its a mashup of Where Do All My Firends Go by Oingo Boingo, and Mean Street by Van Halen. After that i burned out fully, and finished leaving the doom thing.
+
+(Edit 9/5/2026) Jonnhy/Grungo has launched OUTLAND's first episode, and [its downloadable from ModDB](https://www.moddb.com/mods/outland-chapter-1).
