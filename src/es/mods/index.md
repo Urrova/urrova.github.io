@@ -5,9 +5,7 @@ layout: "layouts/article_es.html"
 background: "/images/doomsky.png"
 ---
 
-Se se, todos de doom... Son varios que hice en mi epoca del covid-19, donde me meti a Doomworld. 
-
-Meo que me arrepiento porque todo el tiempo que le meti pude haber estado haciendo jueguitos con Godot, pero que queres que le haga... es experiencia por lo menos......... si es que despues me queda tiempo para hacer jueguitos con Godot de todas formas...
+Se se, todos de doom... Son varios que hice en mi epoca del covid-19, donde me meti a Doomworld. No me arrepiento (salvo de impscape), pero decidi ponerle un limite duro e irme a jugar otros juegos, asi no me monopoliza la vida 😛 no como medio doomworld que literalmente no juegan otros juegos lmao.
 
 ## Doom
 

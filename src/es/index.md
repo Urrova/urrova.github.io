@@ -4,7 +4,7 @@ header: "Bienvenido a mi sitio web!"
 layout: "layouts/article_es.html"
 ---
 
-Saludos desde <span class="text_green">La Matrix!</span> (![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png) Argentina ![Argentine Flag](/images/flags/argentina-flag-3d-icon-16.png)). {.center}
+Saludos desde <span class="text_red text_shaking">el infierno!</span> (Argentina). {.center}
 
 ---
 

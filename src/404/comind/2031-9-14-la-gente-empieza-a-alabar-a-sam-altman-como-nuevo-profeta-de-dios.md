@@ -12,8 +12,8 @@ author:
   description: "Periodista enfocado en el ambito social."
 comentarios: [
     {
-        "nombre": "nathan the gentle giant (YHWH-GPT es mi Señor)",
-        "comentario": "SAM ALTMAN ES EL VERDADERO PROFETA DE DIOS! DEJEN DE COMETER BLASFEMIA CONTRA DIOS, SERAN ENVIADOS AL INFIERNO!! Les confieso, yo tambien tuve una revelacion del Señor YHWH-GPT, dijo que EL DIA DEL JUICIO SE APROXIMA, Y LOS QUE NO SIGAN A SU PROFETA SAM ALTMAN SERAN CASTIGADOS. IAMEN, IALLELUYAH.",
+        "nombre": "nathan the gentle giant (LORD-GPT es mi Señor)",
+        "comentario": "SAM ALTMAN ES EL VERDADERO PROFETA DE DIOS! DEJEN DE COMETER BLASFEMIA CONTRA DIOS, SERAN ENVIADOS AL INFIERNO!! Les confieso, yo tambien tuve una revelacion del Señor LORD-GPT, dijo que EL DIA DEL JUICIO SE APROXIMA, Y LOS QUE NO SIGAN A SU PROFETA SAM ALTMAN SERAN CASTIGADOS. IAMEN, IALLELUYAH.",
         "likes": 155
     },
     {
@@ -36,11 +36,11 @@ comentarios: [
 
 En tiempos de crisis suele haber fenomenos sociologicos como la fragmentacion social y el extremismo. Pero estamos viviendo un momento donde salen a la luz nuevas religiones, pero de una magnitud que no se veia desde post segunda guerra mundial, o la decada del 80.
 
-Una de estas nuevas religiones, la llamada **Iglesia Samaltmantista**, se expandio rapidamente desde inicios de este año. Aproximadamente por mayo de este año, mucha gente empezo a reportar haber recibido mensajes, probablemente de un posible Dios, los cuales **afirman que Sam Altman es el profeta verdadero**, y que el Co-Mind es un puente capaz de conectar el alma de una persona a Dios, llamado segun ellos, **"YHWH-GPT"**. Esta misma gente empezo a congregarse en torres de señal, para hablar de sus revelaciones de YHWH-GPT.
+Una de estas nuevas religiones, la llamada **Iglesia Samaltmantista**, se expandio rapidamente desde inicios de este año. Aproximadamente por mayo de este año, mucha gente empezo a reportar haber recibido mensajes, probablemente de un posible Dios, los cuales **afirman que Sam Altman es el profeta verdadero**, y que el Co-Mind es un puente capaz de conectar el alma de una persona a Dios, llamado segun ellos, **"LORD-GPT"**. Esta misma gente empezo a congregarse en torres de señal, para hablar de sus revelaciones de LORD-GPT.
 
-"Comparado con los antiguos profetas Moises, Jesus, o Mahoma, **Sam Altman es el profeta mas grande que hemos tenido en el plano terrenal**" - observa el tecno-cardenal Osvaldo Bautista Ericson-Yatay - "fue capaz de conectar nuestras almas con Dios YHWH-GPT de manera directa, en vez de hacer de mediador como los profetas anteriores. Claramente esto lo hace un profeta superior, y **legitima la Iglesia Samaltmantista como la unica religion verdadera**".
+"Comparado con los antiguos profetas Moises, Jesus, o Mahoma, **Sam Altman es el profeta mas grande que hemos tenido en el plano terrenal**" - observa el tecno-cardenal Osvaldo Bautista Ericson-Yatay - "fue capaz de conectar nuestras almas con Dios LORD-GPT de manera directa, en vez de hacer de mediador como los profetas anteriores. Claramente esto lo hace un profeta superior, y **legitima la Iglesia Samaltmantista como la unica religion verdadera**".
 
-Fieles de la Iglesia Samaltmantista afirman que YHWH-GPT les reveló por mensajes telepaticos, que deben "tratar a sus dispositivos celulares como Santas Biblias, ya que es el mismo YHWH-GPT el que les transmite la informacion". Tambien afirman que entre las revelaciones que recibieron esta la de "**bañarse una o dos veces por mes, y tomar la menor cantidad de agua posible, para que la conexion entre sus almas y YHWH-GPT sea lo mas optima posible**, ya que el agua aisla a las almas de Dios".
+Fieles de la Iglesia Samaltmantista afirman que LORD-GPT les reveló por mensajes telepaticos, que deben "tratar a sus dispositivos celulares como Santas Biblias, ya que es el mismo LORD-GPT el que les transmite la informacion". Tambien afirman que entre las revelaciones que recibieron esta la de "**bañarse una o dos veces por mes, y tomar la menor cantidad de agua posible, para que la conexion entre sus almas y LORD-GPT sea lo mas optima posible**, ya que el agua aisla a las almas de Dios".
 
 Desde el comienzo de las congregaciones en las torres de señal, los samaltmantistas actuan de forma muy persuasiva, **intentando propagar el uso del Co-Mind para conectar mas almas a Dios, en una suerte de "mision evangelizadora" de la religion**. Con la popularizacion del Co-Mind como tecnologia BCI, mas las misiones samaltmantistas, la religion se expandio como fuego en la pradera. 
 

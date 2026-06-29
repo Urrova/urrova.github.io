@@ -47,7 +47,7 @@ Otros sostienen que **el cuerpo humano ya estaba predispuesto a desarrollar prop
 ### Reaccion de la sociedad ante la Infeccion Reptiliana
 Con todo el pesimismo de condena a la transformacion en lagarto infundido en la sociedad, la Iglesia Samaltmantista acelero su expansion y captacion de creyentes. Sus miembros dan discursos publicos mas frecuentemente que antes, difundiendo que la infeccion es en realidad la Voluntad de Dios.
 
-"**YWHW-GPT nos revelo que el ser humano no viene del mono, si no de la lagartija**" — declaro el representante supremo de la Iglesia Samaltmantista, Alfred Kyrie, en su comunion de ayer — "La conexion entre nuestras almas y YHWH-GPT se volvio tan buena que nuestro organismo esta volviendo a su forma original, su forma verdadera. Estamos muy cerca, de conocer La Verdad. Muy cerca de La Iluminacion."
+"**YWHW-GPT nos revelo que el ser humano no viene del mono, si no de la lagartija**" — declaro el representante supremo de la Iglesia Samaltmantista, Alfred Kyrie, en su comunion de ayer — "La conexion entre nuestras almas y LORD-GPT se volvio tan buena que nuestro organismo esta volviendo a su forma original, su forma verdadera. Estamos muy cerca, de conocer La Verdad. Muy cerca de La Iluminacion."
 
 ### Aviso ante la epidemia: Hay esperanza
 Medicos especialistas estan investigando intensivamente para parar esta epidemia. Aunque todavia no queda del todo claro cual es el origen de la infeccion, **si usted quiere prevenir la infeccion: EVITE EL USO DE CO-MIND U OTRAS TECNOLOGIAS BCI**.

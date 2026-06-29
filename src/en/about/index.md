@@ -5,19 +5,16 @@ layout: "layouts/article_en.html"
 tabs: 
     - ["😛 About Me", "/en/about/", 1]
     - ["🌐 Links", "/en/about/links/", 0]
-
 ---
 
 # ❓ ... quien soy ? ❓
 
 No cuarteto de nos reference for english users lol.
 
-I'm a guy, a typical nerd living on this cyberpunk dystopia of a world, specifically in Argentina. I like videogames, making music, gamedev/game modding, and other stuff. Sometimes i try to actually live life (unsucessfully).
+I like videogames, making music, gamedev/game modding, and other stuff. Sometimes i try to actually live life (unsucessfully).
 
 ## VIDEOGAMES
-I'm the kind of guy that likes to waste his life on computer simulations. I started playing videogames with shit hardware so i ended being what in my country is named an <span class="text_waving">emulapoor</span>, playing old NES/GBA/N64/MSDOS games. 
-
-Later I discovered the Amazing World of Indie Games, both the Upper Indie Class, like Castle Crashers and 2hu, and the Lower Indie Class, like the random games on itch.io made by random people in their house.
+I'm the kind of guy that likes to waste his life on computer simulations. I started my gaming career as an <span class="text_waving">emulapoor</span>, playing old NES/GBA/N64/MSDOS games. Then I moved to indies. INDIE GAMES ARE MY LIFE.
 
 <details>
 <summary>Some of the kinds of games i like to play</summary>
@@ -28,7 +25,6 @@ Later I discovered the Amazing World of Indie Games, both the Upper Indie Class,
 - Shoot em ups, going to bullet hell (Touhou Project, Eschatos, Ikaruga). 
 - Maze platformers aka "metroidvanya" (Symphony of the Night, Hollow Knight & Silksong, Touhou Luna Nights, Blasphemous)
 - <span class="text_stoned">c o o k e d  simulators</span> (stroke games like LSD Dream Emulator)
-- Trending Coops That Only Lasts 2 Weeks (like R.E.P.O. and Peak)
 
 </details>
 
@@ -39,7 +35,7 @@ I hope sometime i can make a videogame again... i try to be optimistic about thi
 
 ## MUSIC
 I make music, dragging squares and drawing forms and rotationg knobs in computer programs.
-I make rock and electronic music, sometimes stand alone and sometimes as a soundtrack for a bigger project. Sometimes i make MIDIs for collab doom projects. (NEGATIVEONE; Alamgoom; Outland).
+I make rock, electronic, orchestral, a lot of different genres. Sometimes stand alone and sometimes as a soundtrack for a bigger project. Sometimes i make MIDIs for collab doom projects.
 
 <details>
 <summary>My Superior Musical Taste (better than yours)</summary>
@@ -51,29 +47,17 @@ I make rock and electronic music, sometimes stand alone and sometimes as a sound
 - Dragonforce; Stratovarius and other power metal bands.
 - Videogame and Series music (Touhou, Hotline Miami, Attack on Titan, etc)
 - Recently got into Depressive Vocaloid (Kikuo)
+
 </details>
 
 ## DOOM MODS
 I made too many doom mods. Community is great and makes mods that looks like completely different games and <span class="text_red text_shaking" title="evil; use UZDoom now">GZDoom</span> making doom look like "roblox if it was well made", being Ancient Aliens my favourite mod.
 
-**IMPSCAPE WAS AN EXCESS**{.text_red}, i'm pretty much ashamed of it. Don't take too seriously and life or death making mods for a game, don't put 2 years or something to your wad, you don't need to make the 32 maps megawad with 25000 ZScript lines to being valued. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
+**IMPSCAPE WAS AN EXCESS**{.text_red}, DO NOT take too seriously and life or death making mods for a game, don't put 2 years or something to your mod. If you want to do a doom masterpiece, don't go alone. Don't be like me and join community projects. Masterpieces are done by groups of many people.
 
 Althrought Doom has been very important on my life because the community, etc, unfortunately i'm no longer interested on it.
 
-## Frequently Asked Questions
-What FAQ????? Nobody knows me lol.
+## FAQ
+What faq? nobody knows me lol
 
-![Under construction pikachu gif](/images/under-construction.gif)
-
-
------------------------------------------------------------------------------------
-
-## RANDOM STATS
-:::code
-🍣 Last Watched Anime
-
-**loading....?**{ #last-anime-watched }
-
-:::
-<script src="/js/last_anime_watched.js"></script>
------------------------------------------------------------------------------------
+![pikachu under construction](/images/under-construction.gif)

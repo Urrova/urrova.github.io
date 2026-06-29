@@ -21,6 +21,7 @@ Mis links a mis otros sitios de los internets
 - <img src="/images/icons/itchdotio.svg" class="icon"> [itch.io](https://urrova.itch.io/)
 - <img src="/images/icons/github.svg" class="icon"> [Github](https://github.com/Urrova)
 - <img src="/images/icons/myanimelist.svg" class="icon"> [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) aka el Facebook Otaku
+- [🕹️ HowLongToBeat](https://howlongtobeat.com/user/Urrova/games/playing/1) aka MyAnimeList para videojuegos
 
 ### 🤬 Odias las redes sociales?
 Tengo feeds RSS (en realidad son feeds Atom pero al final son lo mismo).

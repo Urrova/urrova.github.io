@@ -11,12 +11,10 @@ tabs:
 
 [Mido un metro ochenta y uno, tengo un sillon azul, en mi cuarto hay un baul y me gusta el almendrado.](https://www.youtube.com/watch?v=h6MtMgF01fc)
 
-Soy un chabon que vive en este mundo distopia ciberpunk en el que vivimos, especificamente en Argentina. Me gustan hacer musica, el gamedev/modding, y otras cosas. A veces intento vivir la vida (sin exito).
+Me gustan hacer musica, el gamedev/modding, y otras cosas. A veces intento vivir la vida (sin exito).
 
 ## VIDEOJUEGOS
-Soy del tipo de gente que les gusta desperdiciar su vida jugando videojuegos :p. Empece a jugar videojuegos con un hardware chotisimo asi que termine convirtiendome en lo que en mi pais se le llama un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. 
-
-Luego descubri el Increible Mundo de los Videojuegos Indie, los Indies de Clase Alta, como Castle Crashers y 2hu, y los Indies de Clase baja como los juegos random de itch.io hechos por gente random en su casa.
+Soy del tipo de gente que les gusta desperdiciar su vida jugando videojuegos :p. Empece mi historia gamer como un <span class="text_waving">emulapobre</span>, jugando juegos viejardos de NES/GBA/N64/MSDOS. Luego me fui a los indies. LOS JUEGOS INDIE SON MI VIDA.
 
 <details>
 <summary>Algunos de los juegos que me gusta jugar</summary>
@@ -27,7 +25,6 @@ Luego descubri el Increible Mundo de los Videojuegos Indie, los Indies de Clase 
 - Shoot em ups, mas si son del genero bullet hell (Touhou Project; Eschatos; Ikaruga). 
 - Plataformas de laberinto aka "metroidvanya" (Symphony of the Night; Hollow Knight y Silksong; Touhou Luna Nights)
 - <span class="text_stoned">Simuladores de porro con hongos</span> (juegos fumados como LSD Dream Emulator)
-- Coops De Moda Que Solo Duran 2 Semanas (como R.E.P.O. y Peak)
 
 </details>
 
@@ -38,9 +35,9 @@ Antes me gustaba programar videojuegos, pero nunca termine ninguno, y cuando ter
 Ojala pueda volver a hacer videojuegos de nuevo... trato de ser optimista acerca de esto.
 
 ## MUSICA
-Tambien compongo musica, arrastrando cuadrados y dibujando formas y girando potenciomentros en programas de computadora, no ni idea que son los interpretes de instrumentos reales, que Beethoven no componia en MIDI en un 8086?
-Compongo temas de rock y electronica, a veces stand alone y a veces como banda sonora de otro proyecto mas grande.
-Casi siempre uso archivos de audio, aunque a veces hago MIDIs para proyectos de doom colaborativos ([NEGATIVEONE](https://www.doomworld.com/forum/topic/128549-doom-1-negative-one-beyond-the-experiment-release-thread/); [Alamgoom](https://www.doomworld.com/forum/topic/141857-amalgoom-episode-1-the-red-valley-of-death-is-finally-here/)).
+Tambien compongo musica, arrastrando cuadrados y dibujando formas y girando potenciomentros en programas de computadora.
+Compongo temas de rock, orquestal, electronica, un monton de generos distintos, a veces stand alone y a veces como banda sonora de otro proyecto mas grande.
+Casi siempre uso archivos de audio, aunque a veces hago MIDIs para proyectos de doom colaborativos.
 
 <details>
 <summary>Mis Gustos Musicales Superiores (mejores que los tuyos)</summary>
@@ -58,23 +55,11 @@ Casi siempre uso archivos de audio, aunque a veces hago MIDIs para proyectos de 
 ## MODS
 Hice como que demasiados mods para el doom. La comunidad es god y hace unos mods que parecen otros juegos completamente diferentes, y <span class="text_red text_shaking" title="Malvado; usen UZDoom ahora">GZDoom</span> hace que el doom parezca un segundo roblox; Siendo Ancient Aliens basicamente mi mod favorito.
 
-<span class="text_red">IMPSCAPE FUE UN EXCESO</span>, no se tomen tan en serio y de vida o muerte hacer mods para un juego, no le pongan 2 años a un solo wad, no necesitan hacer el megawad de 32 mapas con 25000 lineas de ZScript para ser valorados. Si quieren hacer una obra maestra del doom, no la hagan solos. No sean como yo y unanse a community projects. Las obras maestras se hacen de a muchos.
+**IMPSCAPE FUE UN EXCESO**{.text_red}, no se tomen tan en serio y de vida o muerte hacer mods para un juego, no le pongan 2 años a un solo mod. Si quieren hacer una obra maestra del doom, no la hagan solos. No sean como yo y unanse a community projects. Las obras maestras se hacen de a muchos.
 
 Aunque doom fue muy importante para mi por la comunidad etc, la posta es que le perdi el interes xd.
 
 ## FAQ
-Que FAQ????? Nadie me conoce lol
+Que faq? nadie me conoce lol
 
-![Under construction pikachu gif](/images/under-construction.gif)
-
-
------------------------------------------------------------------------------------
-
-## ESTADISTICAS RANDOM
-:::code
-🍣 Ultimo Anime Visto
-
-**cargando...?**{ #last-anime-watched }
-:::
-<script src="/js/last_anime_watched.js"></script>
------------------------------------------------------------------------------------
+![pikachu under construction](/images/under-construction.gif)

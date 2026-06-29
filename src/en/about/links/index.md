@@ -23,6 +23,7 @@ My links to my other sites on the internets.
 - <img src="/images/icons/itchdotio.svg" class="icon"> [itch.io](https://urrova.itch.io/)
 - <img src="/images/icons/github.svg" class="icon"> [Github](https://github.com/Urrova)
 - <img src="/images/icons/myanimelist.svg" class="icon"> [MyAnimeList](https://myanimelist.net/animelist/Urrova?status=2) aka Weeb Facebook
+- [🕹️ HowLongToBeat](https://howlongtobeat.com/user/Urrova/games/playing/1) aka MyAnimeList for videogames
 
 ### 🤬 You hate social media?
 I have RSS feeds (that are actually Atom feeds but these are the same)

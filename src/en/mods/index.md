@@ -5,9 +5,7 @@ layout: "layouts/article_en.html"
 background: "/images/doomsky.png"
 ---
 
-Yeah yeah, all doom... These are some of what i nade in the covid-19 pandemic, where i went into Doomworld.
-
-I kinda regret of all of this cause all the time i've put there I could have made some games in Godot, but what do you want I to do... Its experience at least............. if then i have enough time to make games with Godot anyways...
+Yeah yeah, all doom... These are some of what i nade in the covid-19 pandemic, where i went into Doomworld. I don't regret it (besides impscape), but i decided to put a hard limit and play other games so my life doesn't get monopolized by just one game 😛 not like half doomworld where they literally don't play other games lmao.
 
 ## Doom
 
@@ -15,7 +13,7 @@ I kinda regret of all of this cause all the time i've put there I could have mad
 
 [Dimensional Weirdness](/en/mods/dimweird/)
 
-[Furdemon](/en/mods/furdemon/)
+[Furdemon (kill me pls)](/en/mods/furdemon/)
 
 [UAC Arena](/en/mods/uacarena/)
 
