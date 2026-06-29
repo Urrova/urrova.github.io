@@ -5,7 +5,9 @@ layout: "layouts/article_en.html"
 background: "/images/doomsky.png"
 ---
 
-Yeah yeah, all doom... These are some of what i nade in the covid-19 pandemic, where i went into Doomworld. I don't regret it (besides impscape), but i decided to put a hard limit and play other games so my life doesn't get monopolized by just one game 😛 not like half doomworld where they literally don't play other games lmao.
+Yeah yeah, all doom... These are some of what i nade in the covid-19 pandemic, where i went into Doomworld. 
+
+I don't regret it (besides impscape), but i decided to put a hard limit and play other games so my life doesn't get monopolized by just one game 😛 not like half doomworld where they literally don't play other games lmao.
 
 ## Doom
 

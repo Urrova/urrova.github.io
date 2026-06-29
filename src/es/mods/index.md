@@ -5,7 +5,9 @@ layout: "layouts/article_es.html"
 background: "/images/doomsky.png"
 ---
 
-Se se, todos de doom... Son varios que hice en mi epoca del covid-19, donde me meti a Doomworld. No me arrepiento (salvo de impscape), pero decidi ponerle un limite duro e irme a jugar otros juegos, asi no me monopoliza la vida 😛 no como medio doomworld que literalmente no juegan otros juegos lmao.
+Se se, todos de doom... Son varios que hice en mi epoca del covid-19, donde me meti a Doomworld. 
+
+No me arrepiento (salvo de impscape), pero decidi ponerle un limite duro e irme a jugar otros juegos, asi no me monopoliza la vida 😛 no como medio doomworld que literalmente no juegan otros juegos lmao.
 
 ## Doom
 
